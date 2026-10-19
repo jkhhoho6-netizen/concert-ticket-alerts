@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>티켓오픈 캘린더</title>
+    <meta name="description" content="NOL 티켓·멜론티켓 콘서트 티켓오픈 예정 일정을 한눈에" />
+    <meta name="theme-color" content="#f6f5f2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#141416" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="wrap">
+        <div class="brand">
+          <h1>티켓오픈 캘린더</h1>
+          <p class="sub" id="updated">불러오는 중…</p>
+        </div>
+        <div class="controls">
+          <label class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 4a6.5 6.5 0 1 0 4.03 11.6l4.43 4.43 1.06-1.06-4.43-4.43A6.5 6.5 0 0 0 10.5 4Zm0 1.5a5 5 0 1 1 0 10 5 5 0 0 1 0-10Z"/></svg>
+            <input id="q" type="search" placeholder="가수·공연명·공연장 검색" autocomplete="off" />
+          </label>
+          <div class="chips" role="group" aria-label="예매처">
+            <button class="chip" data-source="all" aria-pressed="true">전체</button>
+            <button class="chip" data-source="nol" aria-pressed="false">NOL 티켓</button>
+            <button class="chip" data-source="melon" aria-pressed="false">멜론티켓</button>
+            <button class="chip" id="onlyNew" aria-pressed="false">NEW만</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <p class="status" id="status" hidden></p>
+      <div id="list"></div>
+
+      <details class="howto" id="howto">
+        <summary>📱 핸드폰으로 알림 받기</summary>
+        <ol>
+          <li>앱스토어/플레이스토어에서 <b>ntfy</b> 앱을 설치하세요 (가입 필요 없음).</li>
+          <li>앱에서 <b>+ (Subscribe to topic)</b>를 누르고, 설정해 둔 <b>토픽 이름</b>을 입력하세요.</li>
+          <li>새로운 콘서트 티켓오픈 공지가 올라오면 30분 안에 알림이 와요.</li>
+        </ol>
+        <p class="fine">특정 공연은 카드의 📅 버튼으로 내 캘린더에 넣으면 오픈 10분 전에 캘린더 알림도 받을 수 있어요.</p>
+      </details>
+    </main>
+
+    <footer class="wrap foot">
+      데이터 출처: <a href="https://nol.yanolja.com/ticket/display/upcoming?genre=concert" target="_blank" rel="noopener">NOL 티켓 오픈 예정</a> ·
+      <a href="https://ticket.melon.com/csoon/index.htm" target="_blank" rel="noopener">멜론티켓 티켓오픈소식</a>
+      <span id="sourceState"></span>
+    </footer>
+
+    <template id="card-tpl">
+      <article class="card">
+        <a class="poster" target="_blank" rel="noopener"><img alt="" loading="lazy" referrerpolicy="no-referrer" /></a>
+        <div class="body">
+          <div class="when"></div>
+          <a class="title" target="_blank" rel="noopener"></a>
+          <div class="meta"></div>
+          <ul class="opens"></ul>
+        </div>
+        <button class="cal" type="button" title="캘린더에 추가 (오픈 10분 전 알림)" aria-label="캘린더에 추가">📅</button>
+      </article>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

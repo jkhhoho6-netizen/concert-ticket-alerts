@@ -1,0 +1,16 @@
+{
+  "name": "concert-ticket-alerts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOL·멜론티켓 콘서트 티켓오픈 예정 일정 모아보기 + ntfy 핸드폰 알림",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:dry": "node scripts/scrape.mjs --dry-run",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}

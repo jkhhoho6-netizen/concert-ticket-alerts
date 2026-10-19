@@ -1,0 +1,9 @@
+{
+  "name": "티켓오픈 캘린더",
+  "short_name": "티켓오픈",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f2",
+  "theme_color": "#e5484d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
