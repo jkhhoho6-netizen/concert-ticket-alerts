@@ -1,85 +1,19 @@
 {
-  "updatedAt": "2026-10-20T12:57:00.755Z",
+  "updatedAt": "2026-10-20T17:56:46.881Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 28,
-      "checkedAt": "2026-10-20T12:57:00.755Z"
+      "checkedAt": "2026-10-20T17:56:46.881Z"
     },
     "melon": {
       "ok": true,
-      "count": 38,
-      "checkedAt": "2026-10-20T12:57:00.755Z"
+      "count": 36,
+      "checkedAt": "2026-10-20T17:56:46.881Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13100",
-      "source": "melon",
-      "title": "TUNEUP STAGE : 블루터틀랜드 10주년 기념 단독 콘서트 “청호춘가”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13100",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020091357bee5c628-792d-49a9-b597-a2bb1cbff3be.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-20T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-20T02:03:02.018Z"
-    },
-    {
-      "id": "melon:13071",
-      "source": "melon",
-      "title": "KT&G 상상마당 부산 시리즈 기획 공연 - 클로버 뮤직 스테이션(CLOVER MUSIC STATION)",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13071",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261015113649dba9c4ae-659a-404c-8ad5-10a750104af5.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-20T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13040",
-      "source": "melon",
-      "title": "한올 어쿠스틱 콘서트 〈겨울 인사〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13040",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261012153526647cc177-71ae-43ec-9250-43bf01666763.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-20T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "nol:15575",
       "source": "nol",
@@ -190,6 +124,28 @@
         {
           "label": "티켓오픈",
           "at": "2026-10-21T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-19T23:28:53.171Z"
+    },
+    {
+      "id": "melon:13089",
+      "source": "melon",
+      "title": "#1 EXEX BEGINS",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13089",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610191537570b713c4f-127c-4c7e-a5bd-fce0db1601b5.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": "2026. 11. 07 (SAT) 14:00",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-21T20:00:00+09:00",
           "timeKnown": true
         }
       ],
