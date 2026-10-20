@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-20T02:03:02.018Z",
+  "updatedAt": "2026-10-20T07:27:22.092Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 32,
-      "checkedAt": "2026-10-20T02:03:02.018Z"
+      "checkedAt": "2026-10-20T07:27:22.092Z"
     },
     "melon": {
       "ok": true,
-      "count": 36,
-      "checkedAt": "2026-10-20T02:03:02.018Z"
+      "count": 38,
+      "checkedAt": "2026-10-20T07:27:22.092Z"
     }
   },
   "items": [
@@ -35,28 +35,6 @@
         }
       ],
       "firstSeen": "2026-10-20T02:03:02.018Z"
-    },
-    {
-      "id": "nol:15574",
-      "source": "nol",
-      "title": "더 보컬 - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015159",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015159_p.gif",
-      "venue": "공감센터 공감홀",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-11-14",
-      "exclusive": false,
-      "cast": "KCM, 고유진, 더원",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-20T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
       "id": "melon:13071",
@@ -333,6 +311,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "melon:13103",
+      "source": "melon",
+      "title": "로맨틱펀치 단독공연 116번째 로맨틱파티-서울",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13103",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610191739019dd4d791-a5aa-4298-a217-6249bc31dcba.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-21T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T07:27:22.092Z"
+    },
+    {
       "id": "melon:13090",
       "source": "melon",
       "title": "최인경 단독 콘서트 〈오늘도 너에게〉",
@@ -349,28 +349,6 @@
         {
           "label": "티켓오픈",
           "at": "2026-10-21T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T23:28:53.171Z"
-    },
-    {
-      "id": "melon:13089",
-      "source": "melon",
-      "title": "#1 EXEX BEGINS",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13089",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610191537570b713c4f-127c-4c7e-a5bd-fce0db1601b5.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": "2026. 11. 07 (SAT) 14:00",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-21T20:00:00+09:00",
           "timeKnown": true
         }
       ],
@@ -666,6 +644,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "melon:13104",
+      "source": "melon",
+      "title": "나상현 단독 콘서트 『보통의 나날』",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13104",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026101911161973505446-d369-4f93-91a0-161a90d07e6e.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-22T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T07:27:22.092Z"
+    },
+    {
       "id": "nol:15633",
       "source": "nol",
       "title": "송소희 단독콘서트 '푸른 바람이 춤추면 눈을 감고도 달린다’",
@@ -935,6 +935,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15672",
+      "source": "nol",
+      "title": "2026 차지연 단독 콘서트 〈Na;b〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015318",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015318_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-11 ~ 2026-12-13",
+      "exclusive": true,
+      "cast": "차지연",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T07:27:22.092Z"
+    },
+    {
       "id": "nol:15440",
       "source": "nol",
       "title": "2026 AILEE BAND CONCERT ‘I AM : WE ARE’ in DAEJEON",
@@ -977,6 +999,28 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
+    },
+    {
+      "id": "melon:13101",
+      "source": "melon",
+      "title": "김은미 정규 2집 앨범 음악회 & 토크",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13101",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610191651228c25563e-3228-4512-bdb8-8c4103b881ec.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-26T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T07:27:22.092Z"
     },
     {
       "id": "nol:15652",
