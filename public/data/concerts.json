@@ -1,62 +1,40 @@
 {
-  "updatedAt": "2026-10-19T23:28:53.171Z",
+  "updatedAt": "2026-10-20T02:03:02.018Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 33,
-      "checkedAt": "2026-10-19T23:28:53.171Z"
+      "count": 32,
+      "checkedAt": "2026-10-20T02:03:02.018Z"
     },
     "melon": {
       "ok": true,
-      "count": 35,
-      "checkedAt": "2026-10-19T23:28:53.171Z"
+      "count": 36,
+      "checkedAt": "2026-10-20T02:03:02.018Z"
     }
   },
   "items": [
     {
-      "id": "nol:15642",
-      "source": "nol",
-      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 부산",
+      "id": "melon:13100",
+      "source": "melon",
+      "title": "TUNEUP STAGE : 블루터틀랜드 10주년 기념 단독 콘서트 “청호춘가”",
       "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015142",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015142_p.gif",
-      "venue": "영화의전당 하늘연극장",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": "출연 : 변진섭",
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13100",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020091357bee5c628-792d-49a9-b597-a2bb1cbff3be.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
       "opens": [
         {
-          "label": "일반예매",
+          "label": "티켓오픈",
           "at": "2026-10-20T11:00:00+09:00",
           "timeKnown": true
         }
       ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15643",
-      "source": "nol",
-      "title": "2026 V.O.S 전국투어 콘서트 “제 2회 동창회” - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015146",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015146_p.gif",
-      "venue": "부산 KBS홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-20",
-      "exclusive": false,
-      "cast": "박지헌, 김경록, 최현준",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-20T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
+      "firstSeen": "2026-10-20T02:03:02.018Z"
     },
     {
       "id": "nol:15574",
@@ -1021,6 +999,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15669",
+      "source": "nol",
+      "title": "재즈 피아니스트 송영주 11집 ［Simplicity］ 발매 기념 공연",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015313",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015313_p.gif",
+      "venue": "JCC 아트센터 콘서트홀",
+      "region": "서울",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2026-12-12",
+      "exclusive": false,
+      "cast": "연주자 정보<br>- 송영주, piano<br>- 황호규, bass <br>- 김종국, drums",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-26T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T02:03:02.018Z"
     },
     {
       "id": "melon:13075",
