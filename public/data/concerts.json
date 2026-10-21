@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T05:15:57.326Z",
+  "updatedAt": "2026-10-21T10:33:27.712Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 27,
-      "checkedAt": "2026-10-21T05:15:57.326Z"
+      "count": 36,
+      "checkedAt": "2026-10-21T10:33:27.712Z"
     },
     "melon": {
       "ok": false,
@@ -15,33 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "nol:15479",
-      "source": "nol",
-      "title": "2026 Awesome Stage X FTISLAND : FaTe PE",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014350",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014350_p.gif",
-      "venue": null,
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "1900-01-01",
-      "exclusive": true,
-      "cast": "FTISLAND (FT아일랜드)",
-      "opens": [
-        {
-          "label": "멤버십 선예매",
-          "at": "2026-10-21T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "melon:13103",
       "source": "melon",
@@ -628,6 +601,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15694",
+      "source": "nol",
+      "title": "[MD-현장수령]2026 지창민 팬미팅 〈네 계절 : For Season〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015421",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015421_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-11-07 ~ 2026-11-08",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
       "id": "nol:15647",
       "source": "nol",
       "title": "썸띵 뉴 뮤직 페스티벌 2026",
@@ -694,6 +689,28 @@
       "firstSeen": "2026-10-19T23:28:53.171Z"
     },
     {
+      "id": "nol:15690",
+      "source": "nol",
+      "title": "Chanpan autogratis World Tour In Seoul",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015368",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015368_p.gif",
+      "venue": "KT＆G 상상마당 홍대 라이브홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-08",
+      "exclusive": true,
+      "cast": "Chanpan",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
       "id": "melon:13086",
       "source": "melon",
       "title": "sui sui duck(스이스이덕) Live in Seoul",
@@ -736,6 +753,33 @@
         }
       ],
       "firstSeen": "2026-10-21T05:15:57.326Z"
+    },
+    {
+      "id": "nol:15479",
+      "source": "nol",
+      "title": "2026 Awesome Stage X FTISLAND : FaTe PE",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26014350",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014350_p.gif",
+      "venue": null,
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "1900-01-01",
+      "exclusive": true,
+      "cast": "FTISLAND (FT아일랜드)",
+      "opens": [
+        {
+          "label": "멤버십 선예매",
+          "at": "2026-10-21T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
       "id": "melon:13054",
@@ -824,6 +868,28 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
+    },
+    {
+      "id": "nol:15697",
+      "source": "nol",
+      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015371",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015371_p.gif",
+      "venue": "영화의전당 하늘연극장",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-27",
+      "exclusive": false,
+      "cast": "출연 : 이상우",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-26T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
     },
     {
       "id": "melon:13101",
@@ -1032,6 +1098,138 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
+    },
+    {
+      "id": "nol:15696",
+      "source": "nol",
+      "title": "2027 조규찬 콘서트 - Hello, Again / 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015415",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015415_p.gif",
+      "venue": "베리어스 재즈클럽",
+      "region": "대구",
+      "genre": "콘서트",
+      "showDates": "2027-01-09",
+      "exclusive": false,
+      "cast": "조규찬",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T16:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15695",
+      "source": "nol",
+      "title": "2027 조규찬 콘서트 - Hello, Again / 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015392",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015392_p.gif",
+      "venue": "KT&G 상상마당 부산",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2027-01-02",
+      "exclusive": false,
+      "cast": "조규찬",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T16:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15689",
+      "source": "nol",
+      "title": "2026 PEPPERTONES CONCERT ‘OVERDRIVE’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015370",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015370_p.gif",
+      "venue": "블루스퀘어 우리WON뱅킹홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-11 ~ 2026-12-13",
+      "exclusive": true,
+      "cast": "페퍼톤스",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15693",
+      "source": "nol",
+      "title": "집들이 뮤지컬 콘서트 in GAC. 삼타클로스",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015234",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015234_p.gif",
+      "venue": "강동아트센터 소극장 드림",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-20",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15691",
+      "source": "nol",
+      "title": "집들이 뮤지컬 콘서트 in GAC. 어쩌다 요지경",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015232",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015232_p.gif",
+      "venue": "강동아트센터 소극장 드림",
+      "region": "서울",
+      "genre": "콘서트 - 토크/강연",
+      "showDates": "2026-12-18",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15692",
+      "source": "nol",
+      "title": "집들이 뮤지컬 콘서트 in GAC. 혜성특급",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015233",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015233_p.gif",
+      "venue": "강동아트센터 소극장 드림",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
     },
     {
       "id": "nol:15641",
