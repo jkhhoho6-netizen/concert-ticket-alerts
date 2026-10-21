@@ -1,63 +1,20 @@
 {
-  "updatedAt": "2026-10-20T17:56:46.881Z",
+  "updatedAt": "2026-10-21T05:15:57.326Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 28,
-      "checkedAt": "2026-10-20T17:56:46.881Z"
+      "count": 27,
+      "checkedAt": "2026-10-21T05:15:57.326Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 36,
-      "checkedAt": "2026-10-20T17:56:46.881Z"
+      "checkedAt": "2026-10-20T17:56:46.881Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15575",
-      "source": "nol",
-      "title": "더 보컬 - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014551",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014551_p.gif",
-      "venue": "엑스코 오디토리움",
-      "region": "대구",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-11-21",
-      "exclusive": false,
-      "cast": "KCM, 고유진, 더원",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-21T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15607",
-      "source": "nol",
-      "title": "2026 주현미 크리스마스 디너쇼",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015000",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015000_p.gif",
-      "venue": "그랜드 인터컨티넨탈 파르나스 그랜드볼룸",
-      "region": "서울",
-      "genre": "콘서트 - 디너쇼",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": "주현미",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-21T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "nol:15479",
       "source": "nol",
@@ -757,6 +714,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15682",
+      "source": "nol",
+      "title": "2026 지창민 팬미팅 〈네 계절 : For Season〉",
+      "round": "추가티켓오픈",
+      "url": "https://nol.yanolja.com/ticket/products/26014855",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014855_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-11-08",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T05:15:57.326Z"
     },
     {
       "id": "melon:13054",
