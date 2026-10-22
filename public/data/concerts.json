@@ -1,41 +1,19 @@
 {
-  "updatedAt": "2026-10-22T01:27:10.609Z",
+  "updatedAt": "2026-10-22T06:33:24.553Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 36,
-      "checkedAt": "2026-10-22T01:27:10.609Z"
+      "count": 41,
+      "checkedAt": "2026-10-22T06:33:24.553Z"
     },
     "melon": {
       "ok": true,
       "count": 37,
-      "checkedAt": "2026-10-22T01:27:10.609Z"
+      "checkedAt": "2026-10-22T06:33:24.553Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15657",
-      "source": "nol",
-      "title": "2026 V.O.S 전국투어 콘서트 \" 제 2회 동창회\" - 성남",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015269",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015269_p.gif",
-      "venue": "성남아트센터",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-29",
-      "exclusive": false,
-      "cast": "박지헌, 김경록, 최현준",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "melon:13080",
       "source": "melon",
@@ -52,50 +30,6 @@
       "opens": [
         {
           "label": "티켓오픈",
-          "at": "2026-10-22T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15576",
-      "source": "nol",
-      "title": "더 보컬 - 대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014835",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014835_p.gif",
-      "venue": "대전대학교 맥센터",
-      "region": "대전",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": "KCM, 고유진, 더원",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15639",
-      "source": "nol",
-      "title": "요네즈 켄시 내한공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015024",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015024_p.gif",
-      "venue": "인스파이어 아레나",
-      "region": "서울",
-      "genre": "콘서트 - 내한공연",
-      "showDates": "2027-01-14 ~ 2027-01-17",
-      "exclusive": true,
-      "cast": "요네즈 켄시 (Kenshi Yonezu)",
-      "opens": [
-        {
-          "label": "일반예매",
           "at": "2026-10-22T12:00:00+09:00",
           "timeKnown": true
         }
@@ -502,28 +436,6 @@
       "firstSeen": "2026-10-22T01:27:10.609Z"
     },
     {
-      "id": "melon:13081",
-      "source": "melon",
-      "title": "먼데이프로젝트 시즌9 [김소연 단독 콘서트 ‘After winter’] with 미러볼뮤직",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13081",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261019154659dd4af99e-9172-40dd-a26d-e6437543da2a.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
       "id": "nol:15650",
       "source": "nol",
       "title": "BABO AND THE NIGHT",
@@ -749,28 +661,6 @@
       "firstSeen": "2026-10-19T23:28:53.171Z"
     },
     {
-      "id": "nol:15697",
-      "source": "nol",
-      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015371",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015371_p.gif",
-      "venue": "영화의전당 하늘연극장",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-27",
-      "exclusive": false,
-      "cast": "출연 : 이상우",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
       "id": "melon:13101",
       "source": "melon",
       "title": "김은미 정규 2집 앨범 음악회 & 토크",
@@ -817,7 +707,7 @@
     {
       "id": "melon:13113",
       "source": "melon",
-      "title": "김뮤지엄 단독 콘서트 2026, Dear Yesterday",
+      "title": "김뮤지엄 단독 콘서트 2026 〈FROM ZERO.〉",
       "round": null,
       "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13113",
       "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026102014184496bedf25-730b-46f4-ba95-4e296a24bc99.jpg/melon/resize/160x225/strip/true",
@@ -857,6 +747,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15707",
+      "source": "nol",
+      "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 고양",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015382",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015382_p.gif",
+      "venue": "고양아람누리 아람극장",
+      "region": "경기",
+      "genre": "콘서트",
+      "showDates": "2026-11-28 ~ 2026-11-29",
+      "exclusive": false,
+      "cast": "- 출연진: 이무진",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-26T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
       "id": "melon:13091",
@@ -935,6 +847,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15697",
+      "source": "nol",
+      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015371",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015371_p.gif",
+      "venue": "영화의전당 하늘연극장",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-27",
+      "exclusive": false,
+      "cast": "출연 : 이상우",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
       "id": "nol:15649",
       "source": "nol",
       "title": "크리스마스 재즈나잇: 브로드웨이 to 할리우드",
@@ -955,6 +889,50 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15699",
+      "source": "nol",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 성남",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015426",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015426_p.gif",
+      "venue": "성남아트센터 오페라하우스",
+      "region": "경기",
+      "genre": "콘서트",
+      "showDates": "2026-12-06",
+      "exclusive": false,
+      "cast": "변진섭",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
+      "id": "nol:15701",
+      "source": "nol",
+      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015376",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015376_p.gif",
+      "venue": "코엑스 D홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-27",
+      "exclusive": false,
+      "cast": "-캐스팅: 백지영",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
       "id": "nol:15659",
@@ -1055,6 +1033,33 @@
       "firstSeen": "2026-10-22T01:27:10.609Z"
     },
     {
+      "id": "melon:13118",
+      "source": "melon",
+      "title": "2026 hrtz.wav 1st CONNECT!ON 〈TUNE IN〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13118",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021145155bbb898da-4de9-44c9-8991-dcc384052bb1.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-10-27T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
       "id": "nol:15689",
       "source": "nol",
       "title": "2026 PEPPERTONES CONCERT ‘OVERDRIVE’",
@@ -1075,6 +1080,28 @@
         }
       ],
       "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "nol:15708",
+      "source": "nol",
+      "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015445",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015445_p.gif",
+      "venue": "경북대학교 대강당",
+      "region": "대구",
+      "genre": "콘서트",
+      "showDates": "2026-12-19 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": "- 출연진: 이무진",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
       "id": "nol:15693",
@@ -1231,6 +1258,28 @@
       "firstSeen": "2026-10-21T15:35:52.410Z"
     },
     {
+      "id": "nol:15709",
+      "source": "nol",
+      "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015455",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015455_p.gif",
+      "venue": "부산시민회관 대극장",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2026-12-25 ~ 2026-12-26",
+      "exclusive": false,
+      "cast": "- 출연진: 이무진",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
       "id": "nol:15641",
       "source": "nol",
       "title": "2026 진성 단독 토크콘서트 \"진성쑈\"-안양",
@@ -1319,6 +1368,50 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15704",
+      "source": "nol",
+      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [부산]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015397",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015397_p.gif",
+      "venue": "소향씨어터 우리은행홀",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-12",
+      "exclusive": false,
+      "cast": "-캐스팅 : 김나영",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
+      "id": "nol:15705",
+      "source": "nol",
+      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [대구]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015452",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015452_p.gif",
+      "venue": "영남대학교 천마아트센터 그랜드홀",
+      "region": "대구",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-25",
+      "exclusive": false,
+      "cast": "-캐스팅 : 김나영",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
       "id": "nol:15640",
       "source": "nol",
       "title": "2026 이승윤 콘서트 [0]",
@@ -1339,6 +1432,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15706",
+      "source": "nol",
+      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [광주]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015444",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015444_p.gif",
+      "venue": "전남광주통합특별시 예술의전당 대극장",
+      "region": "광주",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-31",
+      "exclusive": false,
+      "cast": "- 캐스팅 : 김나영 ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
       "id": "melon:13085",
