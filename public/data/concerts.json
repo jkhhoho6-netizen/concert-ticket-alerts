@@ -1,41 +1,20 @@
 {
-  "updatedAt": "2026-10-22T12:22:32.870Z",
+  "updatedAt": "2026-10-22T17:36:09.412Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 37,
-      "checkedAt": "2026-10-22T12:22:32.870Z"
+      "checkedAt": "2026-10-22T17:36:09.412Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 39,
-      "checkedAt": "2026-10-22T12:22:32.870Z"
+      "checkedAt": "2026-10-22T12:22:32.870Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "melon:13080",
-      "source": "melon",
-      "title": "2026 부기 조롱잔치",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13080",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261019084508ca73df85-72e0-46bf-8ed1-415429d7e559.png/melon/resize/160x225/strip/true",
-      "venue": "KT&G 상상마당 부산 1층 라운지",
-      "region": null,
-      "genre": null,
-      "showDates": "2026년 11월 08일 일요일 오후 4시",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "melon:13112",
       "source": "melon",
