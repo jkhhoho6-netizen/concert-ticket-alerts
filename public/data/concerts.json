@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T15:35:52.410Z",
+  "updatedAt": "2026-10-22T01:27:10.609Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 35,
-      "checkedAt": "2026-10-21T15:35:52.410Z"
+      "count": 36,
+      "checkedAt": "2026-10-22T01:27:10.609Z"
     },
     "melon": {
       "ok": true,
-      "count": 35,
-      "checkedAt": "2026-10-21T15:35:52.410Z"
+      "count": 37,
+      "checkedAt": "2026-10-22T01:27:10.609Z"
     }
   },
   "items": [
@@ -480,6 +480,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "melon:13114",
+      "source": "melon",
+      "title": "2026 ONE HOUR 11월",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13114",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020104320a70841b0-e7fb-46e9-befc-c5eca3652a62.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-23T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T01:27:10.609Z"
+    },
+    {
       "id": "melon:13081",
       "source": "melon",
       "title": "먼데이프로젝트 시즌9 [김소연 단독 콘서트 ‘After winter’] with 미러볼뮤직",
@@ -793,28 +815,6 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
-      "id": "nol:15669",
-      "source": "nol",
-      "title": "재즈 피아니스트 송영주 11집 ［Simplicity］ 발매 기념 공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015313",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015313_p.gif",
-      "venue": "JCC 아트센터 콘서트홀",
-      "region": "서울",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2026-12-12",
-      "exclusive": false,
-      "cast": "연주자 정보<br>- 송영주, piano<br>- 황호규, bass <br>- 김종국, drums",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-20T02:03:02.018Z"
-    },
-    {
       "id": "melon:13113",
       "source": "melon",
       "title": "김뮤지엄 단독 콘서트 2026, Dear Yesterday",
@@ -968,7 +968,7 @@
       "genre": "콘서트",
       "showDates": "2026-12-18 ~ 2026-12-19",
       "exclusive": true,
-      "cast": "- 출연: 박경호, 이세헌",
+      "cast": "- 출연: 박경호, 이세헌, 이아람밴드",
       "opens": [
         {
           "label": "일반예매",
@@ -1021,6 +1021,38 @@
         }
       ],
       "firstSeen": "2026-10-21T10:33:27.712Z"
+    },
+    {
+      "id": "melon:13116",
+      "source": "melon",
+      "title": "2026 aespa FAN MEETING “MY 보고싶다 ae가”",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13116",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026102117065915d084d1-cd9e-41d0-b35a-b8ef780110da.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매 1차",
+          "at": "2026-10-27T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "선예매 2차",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-29T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T01:27:10.609Z"
     },
     {
       "id": "nol:15689",
@@ -1155,6 +1187,28 @@
       "firstSeen": "2026-10-21T15:35:52.410Z"
     },
     {
+      "id": "nol:15669",
+      "source": "nol",
+      "title": "재즈 피아니스트 송영주 11집 ［Simplicity］ 발매 기념 공연",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015313",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015313_p.gif",
+      "venue": "JCC 아트센터 콘서트홀",
+      "region": "서울",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2026-12-12",
+      "exclusive": false,
+      "cast": "연주자 정보<br>- 송영주, piano<br>- 황호규, bass <br>- 김종국, drums",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-20T02:03:02.018Z"
+    },
+    {
       "id": "melon:13107",
       "source": "melon",
       "title": "〈Biuret 4 Seasons : Winter〉",
@@ -1197,6 +1251,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15688",
+      "source": "nol",
+      "title": "서경수 단독 콘서트 〈Da Capo〉 : The 20th",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015287",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015287_p.gif",
+      "venue": "코엑스 오디토리움",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-26 ~ 2026-12-27",
+      "exclusive": false,
+      "cast": "-캐스팅: 서경수",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T01:27:10.609Z"
     },
     {
       "id": "nol:15675",
