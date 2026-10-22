@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-22T06:33:24.553Z",
+  "updatedAt": "2026-10-22T12:22:32.870Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 41,
-      "checkedAt": "2026-10-22T06:33:24.553Z"
+      "count": 37,
+      "checkedAt": "2026-10-22T12:22:32.870Z"
     },
     "melon": {
       "ok": true,
-      "count": 37,
-      "checkedAt": "2026-10-22T06:33:24.553Z"
+      "count": 39,
+      "checkedAt": "2026-10-22T12:22:32.870Z"
     }
   },
   "items": [
@@ -59,33 +59,6 @@
       "firstSeen": "2026-10-21T15:35:52.410Z"
     },
     {
-      "id": "nol:15571",
-      "source": "nol",
-      "title": "2026 CLOSE YOUR EYES FANCON [모태 아이돌이지만 클로저와 연애는 하고 싶어]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014776",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014776_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-11-20 ~ 2026-11-22",
-      "exclusive": true,
-      "cast": "CLOSE YOUR EYES",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-20T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
       "id": "melon:13104",
       "source": "melon",
       "title": "나상현 단독 콘서트 『보통의 나날』",
@@ -108,50 +81,6 @@
       "firstSeen": "2026-10-20T07:27:22.092Z"
     },
     {
-      "id": "nol:15633",
-      "source": "nol",
-      "title": "송소희 단독콘서트 '푸른 바람이 춤추면 눈을 감고도 달린다’",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015125",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015125_p.gif",
-      "venue": "NOL 씨어터 합정 동양생명홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-28 ~ 2026-11-29",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15610",
-      "source": "nol",
-      "title": "Goodbye, Hello in NELL’S ROOM 2026",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015022",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015022_p.gif",
-      "venue": "잠실 학생체육관",
-      "region": "서울",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2026-12-31 ~ 2027-01-02",
-      "exclusive": true,
-      "cast": "NELL",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
       "id": "melon:13087",
       "source": "melon",
       "title": "TONE Studio Stay-easy 〈Namul〉",
@@ -172,82 +101,6 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
-    },
-    {
-      "id": "nol:15608",
-      "source": "nol",
-      "title": "2026 Dragon Pony (드래곤포니) Concert ‘Calling back’",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014585",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014585_p.gif",
-      "venue": "블루스퀘어 우리WON뱅킹홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-05 ~ 2026-12-06",
-      "exclusive": true,
-      "cast": "Dragon Pony (드래곤포니)",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15507",
-      "source": "nol",
-      "title": "2026 GISELLE B-day PARTY [In MY Blood]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26013805",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26013805_p.gif",
-      "venue": "명화라이브홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-10-30",
-      "exclusive": true,
-      "cast": "지젤 (GISELLE)",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-21T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15617",
-      "source": "nol",
-      "title": "2026 LOCO CONCERT: EASY!",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014836",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014836_p.gif",
-      "venue": "명화라이브홀",
-      "region": "서울",
-      "genre": "콘서트 - 랩/힙합",
-      "showDates": "2026-12-19",
-      "exclusive": true,
-      "cast": "로꼬",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
       "id": "melon:13111",
@@ -294,60 +147,6 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
-      "id": "nol:15562",
-      "source": "nol",
-      "title": "NEMESIS Nightfall to Snowfall Tour 2026 - 대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014663",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014663_p.gif",
-      "venue": "인터플레이(Interplay)",
-      "region": "서울",
-      "genre": "콘서트 - 인디",
-      "showDates": "2026-11-21",
-      "exclusive": false,
-      "cast": "네미시스",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15569",
-      "source": "nol",
-      "title": "RYEOWOOK’S AGIT CONCERT : 2026 Rucky draW",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014496",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014496_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-27 ~ 2026-11-29",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "국내 페이지 팬클럽 선예매",
-          "at": "2026-10-21T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "글로벌 페이지 팬클럽 선예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
       "id": "melon:13074",
       "source": "melon",
       "title": "Vel.R 기획공연:지베뉴xNOBACK ‘RUN!’",
@@ -368,6 +167,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15711",
+      "source": "nol",
+      "title": "강수진 인데요？ (목소리로 세상을 그리는 남자) 성우 콘서트- 고양",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015433",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015433_p.gif",
+      "venue": "고양어울림누리 어울림극장",
+      "region": "서울",
+      "genre": "콘서트 - 토크/강연",
+      "showDates": "2027-01-23",
+      "exclusive": false,
+      "cast": "출연: 강수진 성우외 4",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T10:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
       "id": "nol:15694",
@@ -434,6 +255,28 @@
         }
       ],
       "firstSeen": "2026-10-22T01:27:10.609Z"
+    },
+    {
+      "id": "melon:13081",
+      "source": "melon",
+      "title": "먼데이프로젝트 시즌9 [김소연 단독 콘서트 ‘After winter’] with 미러볼뮤직",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13081",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261019154659dd4af99e-9172-40dd-a26d-e6437543da2a.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-23T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
       "id": "nol:15650",
@@ -639,6 +482,38 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15569",
+      "source": "nol",
+      "title": "RYEOWOOK’S AGIT CONCERT : 2026 Rucky draW",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26014496",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014496_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-11-27 ~ 2026-11-29",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "국내 페이지 팬클럽 선예매",
+          "at": "2026-10-21T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "글로벌 페이지 팬클럽 선예매",
+          "at": "2026-10-22T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
       "id": "melon:13088",
       "source": "melon",
       "title": "TONE STUDIO LIVE 〈이태훈〉 (Guest. omm.. & 김예찬)",
@@ -659,6 +534,48 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
+    },
+    {
+      "id": "melon:13119",
+      "source": "melon",
+      "title": "김동완의 뮤지컬 콘서트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13119",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021132453013d9e42-c49d-4228-8117-e1de59376b93.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-10-23T21:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-10-30T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 3차",
+          "at": "2026-11-06T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 4차",
+          "at": "2026-11-20T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 5차",
+          "at": "2026-12-04T15:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
       "id": "melon:13101",
@@ -743,6 +660,33 @@
         {
           "label": "티켓오픈",
           "at": "2026-10-26T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15608",
+      "source": "nol",
+      "title": "2026 Dragon Pony (드래곤포니) Concert ‘Calling back’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26014585",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014585_p.gif",
+      "venue": "블루스퀘어 우리WON뱅킹홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-05 ~ 2026-12-06",
+      "exclusive": true,
+      "cast": "Dragon Pony (드래곤포니)",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-10-22T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-26T20:00:00+09:00",
           "timeKnown": true
         }
       ],
@@ -1322,6 +1266,28 @@
         }
       ],
       "firstSeen": "2026-10-22T01:27:10.609Z"
+    },
+    {
+      "id": "nol:15710",
+      "source": "nol",
+      "title": "오월오일 단독 콘서트 〈Bonfire〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015465",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015465_p.gif",
+      "venue": "문화비축기지 T2 실내공연장",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-04 ~ 2026-12-06",
+      "exclusive": true,
+      "cast": "오월오일",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
       "id": "nol:15675",
