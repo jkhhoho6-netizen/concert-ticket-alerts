@@ -1,152 +1,19 @@
 {
-  "updatedAt": "2026-10-22T17:36:09.412Z",
+  "updatedAt": "2026-10-22T20:48:32.781Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 37,
-      "checkedAt": "2026-10-22T17:36:09.412Z"
+      "checkedAt": "2026-10-22T20:48:32.781Z"
     },
     "melon": {
-      "ok": false,
-      "count": 39,
-      "checkedAt": "2026-10-22T12:22:32.870Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 32,
+      "checkedAt": "2026-10-22T20:48:32.781Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13112",
-      "source": "melon",
-      "title": "경이로운 금요일 GROOVE WEEK: BEYOND THE GROOVE",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13112",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020132111ce679c4e-c23e-4c54-a00a-f41e8b3c3259.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "melon:13104",
-      "source": "melon",
-      "title": "나상현 단독 콘서트 『보통의 나날』",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13104",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026101911161973505446-d369-4f93-91a0-161a90d07e6e.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-20T07:27:22.092Z"
-    },
-    {
-      "id": "melon:13087",
-      "source": "melon",
-      "title": "TONE Studio Stay-easy 〈Namul〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13087",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610161038086e4b4b9d-6a0a-48ed-b500-d5e1b3affa4b.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T23:28:53.171Z"
-    },
-    {
-      "id": "melon:13111",
-      "source": "melon",
-      "title": "FEELDOG SOLO LIVE — THE TRACE",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13111",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020141824105a836d-e66d-4af2-8a0d-2d607e00df31.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "melon:13021",
-      "source": "melon",
-      "title": "I AM KORESAWA vol.1",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13021",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261008164834cf23c0f4-9361-4f59-b3b2-d04bface0c0d.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13074",
-      "source": "melon",
-      "title": "Vel.R 기획공연:지베뉴xNOBACK ‘RUN!’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13074",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026101513071932491304-cf93-4ee7-ab63-228d68d2c7f9.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "nol:15711",
       "source": "nol",
