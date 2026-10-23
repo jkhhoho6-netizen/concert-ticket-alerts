@@ -1,41 +1,19 @@
 {
-  "updatedAt": "2026-10-22T20:48:32.781Z",
+  "updatedAt": "2026-10-23T04:39:32.218Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 37,
-      "checkedAt": "2026-10-22T20:48:32.781Z"
+      "count": 36,
+      "checkedAt": "2026-10-23T04:39:32.218Z"
     },
     "melon": {
       "ok": true,
-      "count": 32,
-      "checkedAt": "2026-10-22T20:48:32.781Z"
+      "count": 36,
+      "checkedAt": "2026-10-23T04:39:32.218Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15711",
-      "source": "nol",
-      "title": "강수진 인데요？ (목소리로 세상을 그리는 남자) 성우 콘서트- 고양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015433",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015433_p.gif",
-      "venue": "고양어울림누리 어울림극장",
-      "region": "서울",
-      "genre": "콘서트 - 토크/강연",
-      "showDates": "2027-01-23",
-      "exclusive": false,
-      "cast": "출연: 강수진 성우외 4",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T12:22:32.870Z"
-    },
     {
       "id": "nol:15694",
       "source": "nol",
@@ -424,6 +402,50 @@
       "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
+      "id": "melon:13121",
+      "source": "melon",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (대구)",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13121",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022141625ca4d8cf8-a768-4a55-82f3-30a0cb212759.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-26T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T04:39:32.218Z"
+    },
+    {
+      "id": "melon:13122",
+      "source": "melon",
+      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (부산)",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13122",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022152105d1939b27-ad61-4fb0-bd47-2ff22b17fda9.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-26T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T04:39:32.218Z"
+    },
+    {
       "id": "melon:13101",
       "source": "melon",
       "title": "김은미 정규 2집 앨범 음악회 & 토크",
@@ -537,6 +559,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "melon:13124",
+      "source": "melon",
+      "title": "2026 liveworkspace 양림인디 ‘이제’ vol.08 gwangju",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13124",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022173624c931a518-5455-49de-9e06-8ac164f2902c.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-26T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T04:39:32.218Z"
     },
     {
       "id": "nol:15707",
@@ -1156,6 +1200,28 @@
         }
       ],
       "firstSeen": "2026-10-20T12:57:00.755Z"
+    },
+    {
+      "id": "melon:13123",
+      "source": "melon",
+      "title": "친구가 되자 시즌3 피날레 : 베스트 프렌즈 포에버 페스티벌(BFF) 2026",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13123",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261023115551db44133d-0d52-4d16-8b23-f0b32f36e818.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-29T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T04:39:32.218Z"
     },
     {
       "id": "nol:15646",
