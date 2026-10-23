@@ -1,63 +1,20 @@
 {
-  "updatedAt": "2026-10-23T04:39:32.218Z",
+  "updatedAt": "2026-10-23T09:59:12.209Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 36,
-      "checkedAt": "2026-10-23T04:39:32.218Z"
+      "count": 39,
+      "checkedAt": "2026-10-23T09:59:12.209Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 36,
-      "checkedAt": "2026-10-23T04:39:32.218Z"
+      "checkedAt": "2026-10-23T04:39:32.218Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15694",
-      "source": "nol",
-      "title": "[MD-현장수령]2026 지창민 팬미팅 〈네 계절 : For Season〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015421",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015421_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-11-07 ~ 2026-11-08",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15647",
-      "source": "nol",
-      "title": "썸띵 뉴 뮤직 페스티벌 2026",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015181",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015181_p.gif",
-      "venue": "수원컨벤션센터",
-      "region": "경기",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2026-12-26 ~ 2026-12-27",
-      "exclusive": true,
-      "cast": "추후공지",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "melon:13114",
       "source": "melon",
@@ -101,50 +58,6 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15650",
-      "source": "nol",
-      "title": "BABO AND THE NIGHT",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015225",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015225_p.gif",
-      "venue": "강서호박나이트",
-      "region": "서울",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2026-11-01",
-      "exclusive": true,
-      "cast": "BABO",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T23:28:53.171Z"
-    },
-    {
-      "id": "nol:15690",
-      "source": "nol",
-      "title": "Chanpan autogratis World Tour In Seoul",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015368",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015368_p.gif",
-      "venue": "KT＆G 상상마당 홍대 라이브홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-08",
-      "exclusive": true,
-      "cast": "Chanpan",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
     },
     {
       "id": "melon:13110",
@@ -488,6 +401,33 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15716",
+      "source": "nol",
+      "title": "규현 (KYUHYUN) ASIA TOUR ‘CONTINUE’ IN SEOUL",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26014833",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014833_p.gif",
+      "venue": "장충체육관",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": "규현",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-10-26T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
       "id": "melon:13113",
@@ -835,6 +775,33 @@
       "firstSeen": "2026-10-21T10:33:27.712Z"
     },
     {
+      "id": "nol:15718",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015207",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015207_p.gif",
+      "venue": "올림픽공원 올림픽홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-10-27T16:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
       "id": "melon:13116",
       "source": "melon",
       "title": "2026 aespa FAN MEETING “MY 보고싶다 ae가”",
@@ -1024,6 +991,28 @@
         }
       ],
       "firstSeen": "2026-10-21T15:35:52.410Z"
+    },
+    {
+      "id": "nol:15717",
+      "source": "nol",
+      "title": "2026 테이 크리스마스 콘서트 〈산테이 할아버지는 알고 계신대〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015427",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015427_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-24 ~ 2026-12-25",
+      "exclusive": true,
+      "cast": "테이",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
       "id": "melon:13109",
@@ -1290,6 +1279,28 @@
       "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
+      "id": "nol:15724",
+      "source": "nol",
+      "title": "2026 데이브레이크 루시 산보 연말콘서트 〈WINTER CITY〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015467",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015467_p.gif",
+      "venue": "성남아트센터 오페라하우스",
+      "region": "경기",
+      "genre": "콘서트",
+      "showDates": "2026-12-12 ~ 2026-12-13",
+      "exclusive": false,
+      "cast": "- 데이브레이크, 루시, 산보",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
       "id": "nol:15640",
       "source": "nol",
       "title": "2026 이승윤 콘서트 [0]",
@@ -1364,6 +1375,87 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15722",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015508",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015508_p.gif",
+      "venue": "벡스코 오디토리움",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2026-12-25",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T14:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15721",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대전",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015504",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015504_p.gif",
+      "venue": "충남대학교 정심화홀",
+      "region": "대전",
+      "genre": "콘서트",
+      "showDates": "2027-01-02",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T16:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T16:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15723",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015499",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015499_p.gif",
+      "venue": "엑스코 오디토리움",
+      "region": "대구",
+      "genre": "콘서트",
+      "showDates": "2027-01-09",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
       "id": "melon:12915",
