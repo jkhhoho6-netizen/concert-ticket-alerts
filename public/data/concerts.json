@@ -1,27 +1,26 @@
 {
-  "updatedAt": "2026-10-23T14:59:17.442Z",
+  "updatedAt": "2026-10-23T22:36:22.265Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 35,
-      "checkedAt": "2026-10-23T14:59:17.442Z"
+      "checkedAt": "2026-10-23T22:36:22.265Z"
     },
     "melon": {
-      "ok": false,
-      "count": 36,
-      "checkedAt": "2026-10-23T04:39:32.218Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 34,
+      "checkedAt": "2026-10-23T22:36:22.265Z"
     }
   },
   "items": [
     {
-      "id": "melon:13114",
+      "id": "melon:13128",
       "source": "melon",
-      "title": "2026 ONE HOUR 11월",
+      "title": "Merry Coucou-mas' by Madame Coucou",
       "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13114",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020104320a70841b0-e7fb-46e9-befc-c5eca3652a62.png/melon/resize/160x225/strip/true",
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13128",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610221028179ae95ce6-5238-48f3-9c33-c07d38e03f0c.jpg/melon/resize/160x225/strip/true",
       "venue": null,
       "region": null,
       "genre": null,
@@ -31,121 +30,11 @@
       "opens": [
         {
           "label": "티켓오픈",
-          "at": "2026-10-23T18:00:00+09:00",
+          "at": "2026-10-26T11:00:00+09:00",
           "timeKnown": true
         }
       ],
-      "firstSeen": "2026-10-22T01:27:10.609Z"
-    },
-    {
-      "id": "melon:13081",
-      "source": "melon",
-      "title": "먼데이프로젝트 시즌9 [김소연 단독 콘서트 ‘After winter’] with 미러볼뮤직",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13081",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261019154659dd4af99e-9172-40dd-a26d-e6437543da2a.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13110",
-      "source": "melon",
-      "title": "RUNIDRE 1st OneMan Tour 「Let’s Live Like RUNIDRE! IN SEOUL」",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13110",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261020104944153b2f50-c36d-45a2-a3d2-52005770ad32.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "melon:13086",
-      "source": "melon",
-      "title": "sui sui duck(스이스이덕) Live in Seoul",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13086",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026101617322118d5b7d0-e512-49f6-b0fa-86a3da9a2ad7.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13054",
-      "source": "melon",
-      "title": "모브닝 10주년 콘서트 〈10번의 사계〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13054",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261013113304f46d5227-5766-47a0-ad80-0139d078595a.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13088",
-      "source": "melon",
-      "title": "TONE STUDIO LIVE 〈이태훈〉 (Guest. omm.. & 김예찬)",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13088",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026101611265969ae0edb-ac5c-487e-97a9-4c074947d095.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T23:28:53.171Z"
+      "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
       "id": "melon:13121",
@@ -454,6 +343,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "melon:13129",
+      "source": "melon",
+      "title": "PARK JINYOUNG 1ST CONCERT TOUR [CODE#] IN SEOUL 추가",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13129",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022160027d6bb2b1a-540a-4519-82dd-68a35a8a8fc5.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-26T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T22:36:22.265Z"
+    },
+    {
       "id": "nol:15697",
       "source": "nol",
       "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산",
@@ -633,6 +544,28 @@
         }
       ],
       "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "melon:13131",
+      "source": "melon",
+      "title": "프라이빗컬렉션 : 시인을 위하여 단독 콘서트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13131",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022181456248b614b-5ea5-4dad-9d1d-dac397499858.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-27T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
       "id": "melon:13116",
@@ -936,6 +869,28 @@
       "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
+      "id": "melon:13126",
+      "source": "melon",
+      "title": "숲세권 라이브 : 스티 단독 공연 〈프레스티지 포레스티 1단지〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13126",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022141724a1f7f736-036b-44ca-a118-221a8a19acb0.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T22:36:22.265Z"
+    },
+    {
       "id": "nol:15641",
       "source": "nol",
       "title": "2026 진성 단독 토크콘서트 \"진성쑈\"-안양",
@@ -1066,48 +1021,6 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13119",
-      "source": "melon",
-      "title": "김동완의 뮤지컬 콘서트",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13119",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021132453013d9e42-c49d-4228-8117-e1de59376b93.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-10-23T21:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-10-30T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 3차",
-          "at": "2026-11-06T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 4차",
-          "at": "2026-11-20T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 5차",
-          "at": "2026-12-04T15:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
       "id": "nol:15704",
@@ -1353,6 +1266,28 @@
         }
       ],
       "firstSeen": "2026-10-23T14:59:17.442Z"
+    },
+    {
+      "id": "melon:13130",
+      "source": "melon",
+      "title": "한로로 5th 단독콘서트 [물음표]",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13130",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610231759399da14ffa-0f6a-4cca-aca0-70de1106fe8f.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
       "id": "melon:12915",
