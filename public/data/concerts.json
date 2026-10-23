@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T09:59:12.209Z",
+  "updatedAt": "2026-10-23T14:59:17.442Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 39,
-      "checkedAt": "2026-10-23T09:59:12.209Z"
+      "count": 35,
+      "checkedAt": "2026-10-23T14:59:17.442Z"
     },
     "melon": {
       "ok": false,
@@ -104,55 +104,6 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
-      "id": "nol:15682",
-      "source": "nol",
-      "title": "2026 지창민 팬미팅 〈네 계절 : For Season〉",
-      "round": "추가티켓오픈",
-      "url": "https://nol.yanolja.com/ticket/products/26014855",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014855_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-11-08",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T05:15:57.326Z"
-    },
-    {
-      "id": "nol:15479",
-      "source": "nol",
-      "title": "2026 Awesome Stage X FTISLAND : FaTe PE",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014350",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014350_p.gif",
-      "venue": null,
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "1900-01-01",
-      "exclusive": true,
-      "cast": "FTISLAND (FT아일랜드)",
-      "opens": [
-        {
-          "label": "멤버십 선예매",
-          "at": "2026-10-21T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
       "id": "melon:13054",
       "source": "melon",
       "title": "모브닝 10주년 콘서트 〈10번의 사계〉",
@@ -169,82 +120,6 @@
         {
           "label": "티켓오픈",
           "at": "2026-10-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15672",
-      "source": "nol",
-      "title": "2026 차지연 단독 콘서트 〈Na;b〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015318",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015318_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-11 ~ 2026-12-13",
-      "exclusive": true,
-      "cast": "차지연",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-20T07:27:22.092Z"
-    },
-    {
-      "id": "nol:15440",
-      "source": "nol",
-      "title": "2026 AILEE BAND CONCERT ‘I AM : WE ARE’ in DAEJEON",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014229",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014229_p.gif",
-      "venue": "대전 우송예술회관",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "AILEE BAND (에일리, 옥성민, 배재용, 이현성, 안성주) ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15569",
-      "source": "nol",
-      "title": "RYEOWOOK’S AGIT CONCERT : 2026 Rucky draW",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014496",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014496_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-27 ~ 2026-11-29",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "국내 페이지 팬클럽 선예매",
-          "at": "2026-10-21T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "글로벌 페이지 팬클럽 선예매",
-          "at": "2026-10-22T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-23T20:00:00+09:00",
           "timeKnown": true
         }
       ],
@@ -271,48 +146,6 @@
         }
       ],
       "firstSeen": "2026-10-19T23:28:53.171Z"
-    },
-    {
-      "id": "melon:13119",
-      "source": "melon",
-      "title": "김동완의 뮤지컬 콘서트",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13119",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021132453013d9e42-c49d-4228-8117-e1de59376b93.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-10-23T21:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-10-30T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 3차",
-          "at": "2026-11-06T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 4차",
-          "at": "2026-11-20T15:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 5차",
-          "at": "2026-12-04T15:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T12:22:32.870Z"
     },
     {
       "id": "melon:13121",
@@ -1235,6 +1068,48 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "melon:13119",
+      "source": "melon",
+      "title": "김동완의 뮤지컬 콘서트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13119",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021132453013d9e42-c49d-4228-8117-e1de59376b93.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-10-23T21:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-10-30T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 3차",
+          "at": "2026-11-06T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 4차",
+          "at": "2026-11-20T15:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 5차",
+          "at": "2026-12-04T15:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-22T12:22:32.870Z"
+    },
+    {
       "id": "nol:15704",
       "source": "nol",
       "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [부산]",
@@ -1456,6 +1331,28 @@
         }
       ],
       "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15725",
+      "source": "nol",
+      "title": "한로로 (HANRORO) 5th 단독콘서트 [물음표]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015537",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015537_p.gif",
+      "venue": "인스파이어 아레나",
+      "region": "인천",
+      "genre": "콘서트",
+      "showDates": "2027-01-02 ~ 2027-01-03",
+      "exclusive": false,
+      "cast": "한로로",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-13T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T14:59:17.442Z"
     },
     {
       "id": "melon:12915",
