@@ -1,16 +1,17 @@
 {
-  "updatedAt": "2026-10-25T17:50:04.594Z",
+  "updatedAt": "2026-10-25T20:45:37.736Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 35,
-      "checkedAt": "2026-10-25T17:50:04.594Z"
+      "checkedAt": "2026-10-25T20:45:37.736Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 34,
-      "checkedAt": "2026-10-25T17:50:04.594Z"
+      "checkedAt": "2026-10-25T17:50:04.594Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
