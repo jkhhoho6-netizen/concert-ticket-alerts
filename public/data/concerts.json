@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-26T01:39:17.700Z",
+  "updatedAt": "2026-10-26T07:43:57.288Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 39,
-      "checkedAt": "2026-10-26T01:39:17.700Z"
+      "count": 45,
+      "checkedAt": "2026-10-26T07:43:57.288Z"
     },
     "melon": {
       "ok": true,
-      "count": 34,
-      "checkedAt": "2026-10-26T01:39:17.700Z"
+      "count": 36,
+      "checkedAt": "2026-10-26T07:43:57.288Z"
     }
   },
   "items": [
@@ -101,28 +101,6 @@
         }
       ],
       "firstSeen": "2026-10-20T07:27:22.092Z"
-    },
-    {
-      "id": "nol:15652",
-      "source": "nol",
-      "title": "네크라이토키(Necry Talkie) 첫 내한공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015072",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015072_p.gif",
-      "venue": "롤링홀",
-      "region": "서울",
-      "genre": "콘서트 - 내한공연",
-      "showDates": "2027-03-27",
-      "exclusive": true,
-      "cast": "보컬·기타｜못사(もっさ / Mossa)<br>기타｜아사히(朝日 / Asahi)<br>베이스｜후지타(藤田 / Fujita)<br>키보드｜나카무라 아야카(中村郁香 / Nakamura Ayaka)<br>드럼｜카즈마 타케이(カズマ・タケイ / Kazuma Takei)<br>",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
       "id": "nol:15716",
@@ -590,6 +568,28 @@
       "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
+      "id": "melon:13134",
+      "source": "melon",
+      "title": "2026 ACE FAN MEETING 〈Sweet Heart〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13134",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261023165335d8857fb9-e028-4107-b1a9-36a6a3abeb56.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-27T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
       "id": "melon:13116",
       "source": "melon",
       "title": "2026 aespa FAN MEETING “MY 보고싶다 ae가”",
@@ -940,6 +940,72 @@
       "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
+      "id": "nol:15743",
+      "source": "nol",
+      "title": "조항조 전국투어 콘서트 : 생각 - 성남",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015572",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015572_p.gif",
+      "venue": "성남아트센터 오페라하우스",
+      "region": "경기",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-05",
+      "exclusive": false,
+      "cast": "출연 : 조항조",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
+      "id": "nol:15746",
+      "source": "nol",
+      "title": "Nothing’s Carved In Stone ‘ONE MAN LIVE’ IN KOREA!",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015587",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015587_p.gif",
+      "venue": "ROLLING HALL",
+      "region": "서울",
+      "genre": "콘서트 - Rock/메탈",
+      "showDates": "2026-12-20",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
+      "id": "melon:13133",
+      "source": "melon",
+      "title": "SJF at the Theater 2026 - 백예린X윤석철 추가",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13133",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261026103547939dabc6-94ea-495f-b452-7b587fc098b0.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-29T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
       "id": "nol:15641",
       "source": "nol",
       "title": "2026 진성 단독 토크콘서트 \"진성쑈\"-안양",
@@ -960,6 +1026,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15730",
+      "source": "nol",
+      "title": "정동하 X 알리 〈SONG : THE BATTLE OF LEGENDS〉 - 고양",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015505",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015505_p.gif",
+      "venue": "고양어울림누리 어울림극장",
+      "region": "경기",
+      "genre": "콘서트",
+      "showDates": "2026-12-31",
+      "exclusive": false,
+      "cast": "정동하, 알리",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-29T13:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
     },
     {
       "id": "nol:15688",
@@ -1094,6 +1182,50 @@
       "firstSeen": "2026-10-26T01:39:17.700Z"
     },
     {
+      "id": "nol:15744",
+      "source": "nol",
+      "title": "2026 임창정 콘서트 다시, 우리의 시간을 노래하다 - 전주",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015569",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015569_p.gif",
+      "venue": "한국소리문화의전당",
+      "region": "전북",
+      "genre": "콘서트",
+      "showDates": "2026-12-12",
+      "exclusive": false,
+      "cast": "임창정",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
+      "id": "nol:15745",
+      "source": "nol",
+      "title": "2026 임창정 콘서트 다시, 우리의 시간을 노래하다 - 춘천",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015586",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015586_p.gif",
+      "venue": "강원대학교 백령아트센터",
+      "region": "강원",
+      "genre": "콘서트",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": "임창정",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T15:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
       "id": "nol:15704",
       "source": "nol",
       "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [부산]",
@@ -1202,6 +1334,55 @@
         }
       ],
       "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
+      "id": "nol:15742",
+      "source": "nol",
+      "title": "2026 신용재 콘서트 〈GRAVITY〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015568",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015568_p.gif",
+      "venue": "코엑스 오디토리움",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-24 ~ 2026-12-25",
+      "exclusive": true,
+      "cast": "신용재",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
+    },
+    {
+      "id": "nol:15731",
+      "source": "nol",
+      "title": "2026 FTISLAND CONCERT ‘FTSODE’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015500",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015500_p.gif",
+      "venue": "명화라이브홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-26 ~ 2026-12-27",
+      "exclusive": true,
+      "cast": "FT아일랜드 (FTISLAND)",
+      "opens": [
+        {
+          "label": "멤버십 선예매",
+          "at": "2026-11-02T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T07:43:57.288Z"
     },
     {
       "id": "melon:13085",
