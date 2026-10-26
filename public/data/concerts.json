@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-25T23:11:36.510Z",
+  "updatedAt": "2026-10-26T01:39:17.700Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 35,
-      "checkedAt": "2026-10-25T23:11:36.510Z"
+      "count": 39,
+      "checkedAt": "2026-10-26T01:39:17.700Z"
     },
     "melon": {
       "ok": true,
       "count": 34,
-      "checkedAt": "2026-10-25T23:11:36.510Z"
+      "checkedAt": "2026-10-26T01:39:17.700Z"
     }
   },
   "items": [
@@ -249,8 +249,8 @@
       "source": "nol",
       "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 고양",
       "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015382",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015382_p.gif",
+      "url": "https://nol.yanolja.com/ticket/products/26015496",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015496_p.gif",
       "venue": "고양아람누리 아람극장",
       "region": "경기",
       "genre": "콘서트",
@@ -451,6 +451,28 @@
         }
       ],
       "firstSeen": "2026-10-22T06:33:24.553Z"
+    },
+    {
+      "id": "nol:15736",
+      "source": "nol",
+      "title": "김범룡 크리스마스 디너콘서트 〈겨울愛〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015488",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015488_p.gif",
+      "venue": "그랜드 인터컨티넨탈 서울 파르나스 5층 그랜드볼룸",
+      "region": "서울",
+      "genre": "콘서트 - 디너쇼",
+      "showDates": "2026-12-24",
+      "exclusive": false,
+      "cast": "김범룡, 정수라",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-27T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T01:39:17.700Z"
     },
     {
       "id": "nol:15659",
@@ -847,6 +869,33 @@
       "firstSeen": "2026-10-21T15:35:52.410Z"
     },
     {
+      "id": "nol:15729",
+      "source": "nol",
+      "title": "2026 송강 팬미팅 〈PLAY, SONG KANG〉 IN SEOUL",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015493",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015493_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-05",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "팬카페",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T01:39:17.700Z"
+    },
+    {
       "id": "nol:15709",
       "source": "nol",
       "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 부산",
@@ -1023,6 +1072,28 @@
       "firstSeen": "2026-10-19T08:51:52.912Z"
     },
     {
+      "id": "nol:15728",
+      "source": "nol",
+      "title": "Licht : Christmas Prelude 2026",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015550",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015550_p.gif",
+      "venue": "푸르지오 아트홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-06",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T13:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T01:39:17.700Z"
+    },
+    {
       "id": "nol:15704",
       "source": "nol",
       "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [부산]",
@@ -1163,6 +1234,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "nol:15735",
+      "source": "nol",
+      "title": "2026 WITH STAGE ＆ 시즌6 #2",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015149",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015149_p.gif",
+      "venue": "CKL스테이지",
+      "region": "서울",
+      "genre": "콘서트 - 페스티벌",
+      "showDates": "2026-11-21",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-03T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T01:39:17.700Z"
     },
     {
       "id": "nol:15722",
