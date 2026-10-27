@@ -1,194 +1,19 @@
 {
-  "updatedAt": "2026-10-27T10:56:22.864Z",
+  "updatedAt": "2026-10-27T16:30:56.510Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 46,
-      "checkedAt": "2026-10-27T10:56:22.864Z"
+      "count": 43,
+      "checkedAt": "2026-10-27T16:30:56.510Z"
     },
     "melon": {
-      "ok": false,
-      "count": 31,
-      "checkedAt": "2026-10-27T05:32:49.445Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 28,
+      "checkedAt": "2026-10-27T16:30:56.510Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13131",
-      "source": "melon",
-      "title": "프라이빗컬렉션 : 시인을 위하여 단독 콘서트",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13131",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261022181456248b614b-5ea5-4dad-9d1d-dac397499858.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-27T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T22:36:22.265Z"
-    },
-    {
-      "id": "melon:13134",
-      "source": "melon",
-      "title": "2026 ACE FAN MEETING 〈Sweet Heart〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13134",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261023165335d8857fb9-e028-4107-b1a9-36a6a3abeb56.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
-    {
-      "id": "melon:13116",
-      "source": "melon",
-      "title": "2026 aespa FAN MEETING “MY 보고싶다 ae가”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13116",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026102117065915d084d1-cd9e-41d0-b35a-b8ef780110da.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매 1차",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "선예매 2차",
-          "at": "2026-10-28T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-29T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T01:27:10.609Z"
-    },
-    {
-      "id": "melon:13118",
-      "source": "melon",
-      "title": "2026 hrtz.wav 1st CONNECT!ON 〈TUNE IN〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13118",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021145155bbb898da-4de9-44c9-8991-dcc384052bb1.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-28T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
-    },
-    {
-      "id": "nol:15689",
-      "source": "nol",
-      "title": "2026 PEPPERTONES CONCERT ‘OVERDRIVE’",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015370",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015370_p.gif",
-      "venue": "블루스퀘어 우리WON뱅킹홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-11 ~ 2026-12-13",
-      "exclusive": true,
-      "cast": "페퍼톤스",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15708",
-      "source": "nol",
-      "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015445",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015445_p.gif",
-      "venue": "경북대학교 대강당",
-      "region": "대구",
-      "genre": "콘서트",
-      "showDates": "2026-12-19 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": "- 출연진: 이무진",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
-    },
-    {
-      "id": "nol:15378",
-      "source": "nol",
-      "title": "NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26013946",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26013946_p.gif",
-      "venue": "INSPIRE ARENA",
-      "region": "인천",
-      "genre": "콘서트",
-      "showDates": "2026-11-27 ~ 2026-11-29",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-26T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
     {
       "id": "nol:15693",
       "source": "nol",
@@ -391,6 +216,28 @@
         }
       ],
       "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "melon:13143",
+      "source": "melon",
+      "title": "JEONJINHEE 〈Where Seasons Flow〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13143",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026102713202392339b3e-d04b-42e3-8ec1-af29ef3e4a2c.jpg/melon/resize/160x225/strip/true",
+      "venue": "톤 스튜디오",
+      "region": null,
+      "genre": null,
+      "showDates": "11/21(토) 6PM, 11/22(일) 5PM, 11/28(토) 6PM, 11/29(일) 5PM",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-28T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T16:30:56.510Z"
     },
     {
       "id": "melon:13107",
