@@ -1,90 +1,20 @@
 {
-  "updatedAt": "2026-10-27T05:32:49.445Z",
+  "updatedAt": "2026-10-27T10:56:22.864Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 44,
-      "checkedAt": "2026-10-27T05:32:49.445Z"
+      "count": 46,
+      "checkedAt": "2026-10-27T10:56:22.864Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 31,
-      "checkedAt": "2026-10-27T05:32:49.445Z"
+      "checkedAt": "2026-10-27T05:32:49.445Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15696",
-      "source": "nol",
-      "title": "2027 조규찬 콘서트 - Hello, Again / 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015415",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015415_p.gif",
-      "venue": "베리어스 재즈클럽",
-      "region": "대구",
-      "genre": "콘서트",
-      "showDates": "2027-01-09",
-      "exclusive": false,
-      "cast": "조규찬",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T16:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15695",
-      "source": "nol",
-      "title": "2027 조규찬 콘서트 - Hello, Again / 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015392",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015392_p.gif",
-      "venue": "KT&G 상상마당 부산",
-      "region": "부산",
-      "genre": "콘서트",
-      "showDates": "2027-01-02",
-      "exclusive": false,
-      "cast": "조규찬",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T16:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15718",
-      "source": "nol",
-      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015207",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015207_p.gif",
-      "venue": "올림픽공원 올림픽홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-18 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": "자우림",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-27T16:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
     {
       "id": "melon:13131",
       "source": "melon",
@@ -434,6 +364,33 @@
         }
       ],
       "firstSeen": "2026-10-20T02:03:02.018Z"
+    },
+    {
+      "id": "nol:15718",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015207",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015207_p.gif",
+      "venue": "올림픽공원 올림픽홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-10-27T16:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-28T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
       "id": "melon:13107",
@@ -1138,6 +1095,50 @@
       "firstSeen": "2026-10-26T15:08:14.206Z"
     },
     {
+      "id": "nol:15757",
+      "source": "nol",
+      "title": "2026 HAHA FAN CONCERT - 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015626",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015626_p.gif",
+      "venue": "엑스코 오디토리움",
+      "region": "대구",
+      "genre": "콘서트",
+      "showDates": "2026-12-05",
+      "exclusive": false,
+      "cast": "하하",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
+      "id": "nol:15758",
+      "source": "nol",
+      "title": "2026 HAHA FAN CONCERT - 전주",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015627",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015627_p.gif",
+      "venue": "전북대학교 삼성문화회관 대강당",
+      "region": "전북",
+      "genre": "콘서트",
+      "showDates": "2026-11-28",
+      "exclusive": false,
+      "cast": "하하",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
       "id": "nol:15733",
       "source": "nol",
       "title": "DAILY:DIRECTION 1st FAN:CON SUN:DAY CLUB: ORIENTATION",
@@ -1366,6 +1367,82 @@
       "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
+      "id": "nol:15764",
+      "source": "nol",
+      "title": "안예은 단독공연: 제 10회 오타쿠리스마스",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015635",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015635_p.gif",
+      "venue": "NOL 씨어터 합정 동양생명홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-12 ~ 2026-12-13",
+      "exclusive": true,
+      "cast": "안예은",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-03T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
+      "id": "nol:15760",
+      "source": "nol",
+      "title": "DaiShun 1st Korea Fanmeet 〈자나깨나 다이슌. Daylight〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015629",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015629_p.gif",
+      "venue": "H-STAGE",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-19",
+      "exclusive": true,
+      "cast": "나카이 다이, 나카니시 슌",
+      "opens": [
+        {
+          "label": "기존 예매자 선예매",
+          "at": "2026-11-03T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
+      "id": "nol:15759",
+      "source": "nol",
+      "title": "DaiShun Meet＆Greet 〈자나깨나 다이슌.Nightlight〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015628",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015628_p.gif",
+      "venue": "H-STAGE",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-19",
+      "exclusive": true,
+      "cast": "나카이 다이, 나카니시 슌",
+      "opens": [
+        {
+          "label": "기존 예매자 선예매",
+          "at": "2026-11-03T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
       "id": "nol:15725",
       "source": "nol",
       "title": "한로로 (HANRORO) 5th 단독콘서트 [물음표]",
@@ -1474,33 +1551,6 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15754",
-      "source": "nol",
-      "title": "[ECS 사전테스트] 현우님 피아노연주회",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015625",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015625_p.gif",
-      "venue": "텐엑스타워",
-      "region": "서울",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2026-11-04 ~ 2026-11-11",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "9999-12-31T23:59:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "toping선예매",
-          "at": "9999-12-31T23:59:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T05:32:49.445Z"
     }
   ]
 }
