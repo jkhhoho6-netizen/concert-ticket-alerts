@@ -1,85 +1,20 @@
 {
-  "updatedAt": "2026-10-28T00:27:55.333Z",
+  "updatedAt": "2026-10-28T06:14:46.752Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 43,
-      "checkedAt": "2026-10-28T00:27:55.333Z"
+      "count": 39,
+      "checkedAt": "2026-10-28T06:14:46.752Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 28,
-      "checkedAt": "2026-10-28T00:27:55.333Z"
+      "checkedAt": "2026-10-28T00:27:55.333Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15693",
-      "source": "nol",
-      "title": "집들이 뮤지컬 콘서트 in GAC. 삼타클로스",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015234",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015234_p.gif",
-      "venue": "강동아트센터 소극장 드림",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-20",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15691",
-      "source": "nol",
-      "title": "집들이 뮤지컬 콘서트 in GAC. 어쩌다 요지경",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015232",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015232_p.gif",
-      "venue": "강동아트센터 소극장 드림",
-      "region": "서울",
-      "genre": "콘서트 - 토크/강연",
-      "showDates": "2026-12-18",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
-    {
-      "id": "nol:15692",
-      "source": "nol",
-      "title": "집들이 뮤지컬 콘서트 in GAC. 혜성특급",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015233",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015233_p.gif",
-      "venue": "강동아트센터 소극장 드림",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T10:33:27.712Z"
-    },
     {
       "id": "melon:13108",
       "source": "melon",
@@ -101,28 +36,6 @@
         }
       ],
       "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "nol:15717",
-      "source": "nol",
-      "title": "2026 테이 크리스마스 콘서트 〈산테이 할아버지는 알고 계신대〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015427",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015427_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-24 ~ 2026-12-25",
-      "exclusive": true,
-      "cast": "테이",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
     },
     {
       "id": "melon:13140",
@@ -167,28 +80,6 @@
         }
       ],
       "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "nol:15669",
-      "source": "nol",
-      "title": "재즈 피아니스트 송영주 11집 ［Simplicity］ 발매 기념 공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015313",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015313_p.gif",
-      "venue": "JCC 아트센터 콘서트홀",
-      "region": "서울",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2026-12-12",
-      "exclusive": false,
-      "cast": "연주자 정보<br>- 송영주, piano<br>- 황호규, bass <br>- 김종국, drums",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-20T02:03:02.018Z"
     },
     {
       "id": "nol:15718",
@@ -984,6 +875,28 @@
         }
       ],
       "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
+      "id": "nol:15784",
+      "source": "nol",
+      "title": "이은미 콘서트 with 오케스트라 : 추억이 핀다 - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015727",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015727_p.gif",
+      "venue": "부산문화회관",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-04-18",
+      "exclusive": false,
+      "cast": "이은미",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-28T06:14:46.752Z"
     },
     {
       "id": "nol:15733",
