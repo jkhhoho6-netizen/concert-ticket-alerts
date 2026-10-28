@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T13:29:41.054Z",
+  "updatedAt": "2026-10-28T19:05:02.992Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 41,
-      "checkedAt": "2026-10-28T13:29:41.054Z"
+      "checkedAt": "2026-10-28T19:05:02.992Z"
     },
     "melon": {
       "ok": false,
@@ -15,72 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "melon:13108",
-      "source": "melon",
-      "title": "불나방스타쏘세지클럽 콘서트 〈모여봐요 괴물의 농장〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13108",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261021114646a86a5084-7573-48b4-9ca8-7d4ba069e157.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-28T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "melon:13140",
-      "source": "melon",
-      "title": "2026 히어로 락 페스티벌 - 인천 일반",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13140",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261026133328508bbdf8-1040-4ed8-a652-08910c3f2b78.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-28T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T05:32:49.445Z"
-    },
-    {
-      "id": "melon:13109",
-      "source": "melon",
-      "title": "백현진 연말 콘서트 〈건강!〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13109",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610201811460d3a911e-cca8-4f74-9e4a-1ea15d352b79.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-28T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
     {
       "id": "melon:13143",
       "source": "melon",
