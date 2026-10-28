@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T06:14:46.752Z",
+  "updatedAt": "2026-10-28T13:29:41.054Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 39,
-      "checkedAt": "2026-10-28T06:14:46.752Z"
+      "count": 41,
+      "checkedAt": "2026-10-28T13:29:41.054Z"
     },
     "melon": {
       "ok": false,
@@ -82,33 +82,6 @@
       "firstSeen": "2026-10-21T15:35:52.410Z"
     },
     {
-      "id": "nol:15718",
-      "source": "nol",
-      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015207",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015207_p.gif",
-      "venue": "올림픽공원 올림픽홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-18 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": "자우림",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-10-27T16:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
-    {
       "id": "melon:13143",
       "source": "melon",
       "title": "JEONJINHEE 〈Where Seasons Flow〉",
@@ -151,55 +124,6 @@
         }
       ],
       "firstSeen": "2026-10-21T15:35:52.410Z"
-    },
-    {
-      "id": "nol:15729",
-      "source": "nol",
-      "title": "2026 송강 팬미팅 〈PLAY, SONG KANG〉 IN SEOUL",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015493",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015493_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-05",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "팬카페",
-          "at": "2026-10-28T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T01:39:17.700Z"
-    },
-    {
-      "id": "nol:15709",
-      "source": "nol",
-      "title": "2026-27 이무진 전국투어 콘서트 [겨울 인사 : From Winter] - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015455",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015455_p.gif",
-      "venue": "부산시민회관 대극장",
-      "region": "부산",
-      "genre": "콘서트",
-      "showDates": "2026-12-25 ~ 2026-12-26",
-      "exclusive": false,
-      "cast": "- 출연진: 이무진",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-28T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
       "id": "melon:13126",
@@ -789,6 +713,33 @@
       "firstSeen": "2026-10-22T06:33:24.553Z"
     },
     {
+      "id": "nol:15729",
+      "source": "nol",
+      "title": "2026 송강 팬미팅 〈PLAY, SONG KANG〉 IN SEOUL",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015493",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015493_p.gif",
+      "venue": "코엑스아티움 우리은행홀",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-05",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "팬카페",
+          "at": "2026-10-28T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-10-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-26T01:39:17.700Z"
+    },
+    {
       "id": "nol:15742",
       "source": "nol",
       "title": "2026 신용재 콘서트 〈GRAVITY〉",
@@ -831,6 +782,50 @@
         }
       ],
       "firstSeen": "2026-10-26T15:08:14.206Z"
+    },
+    {
+      "id": "nol:15788",
+      "source": "nol",
+      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 서울 앵콜",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015752",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015752_p.gif",
+      "venue": "KBS아레나",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": "출연 : 변진섭",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-28T13:29:41.054Z"
+    },
+    {
+      "id": "nol:15786",
+      "source": "nol",
+      "title": "THE GREATEST: 전율 소향 X 김기태 - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015730",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015730_p.gif",
+      "venue": "KBS아레나",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": "출연 : 소향, 김기태 ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
       "id": "nol:15757",
@@ -919,6 +914,28 @@
         }
       ],
       "firstSeen": "2026-10-26T15:08:14.206Z"
+    },
+    {
+      "id": "nol:15787",
+      "source": "nol",
+      "title": "1SHOT BATTLE",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015749",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015749_p.gif",
+      "venue": "현대카드 언더스테이지",
+      "region": "서울",
+      "genre": "콘서트 - 랩/힙합",
+      "showDates": "2026-11-21",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
       "id": "melon:13135",
@@ -1201,6 +1218,28 @@
         }
       ],
       "firstSeen": "2026-10-27T10:56:22.864Z"
+    },
+    {
+      "id": "nol:15782",
+      "source": "nol",
+      "title": "제3회 정필링온더웨이브 단독콘서트",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015525",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015525_p.gif",
+      "venue": "홍대 롤링홀",
+      "region": "서울",
+      "genre": "콘서트 - 인디",
+      "showDates": "2026-11-19",
+      "exclusive": false,
+      "cast": "정필링온더웨이브",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
       "id": "nol:15725",
