@@ -1,41 +1,20 @@
 {
-  "updatedAt": "2026-10-29T02:49:02.382Z",
+  "updatedAt": "2026-10-29T09:50:46.347Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-29T02:49:02.382Z"
+      "count": 42,
+      "checkedAt": "2026-10-29T09:50:46.347Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 29,
-      "checkedAt": "2026-10-29T02:49:02.382Z"
+      "checkedAt": "2026-10-29T02:49:02.382Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15746",
-      "source": "nol",
-      "title": "Nothing’s Carved In Stone ‘ONE MAN LIVE’ IN KOREA!",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015587",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015587_p.gif",
-      "venue": "ROLLING HALL",
-      "region": "서울",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2026-12-20",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
     {
       "id": "melon:13133",
       "source": "melon",
@@ -57,72 +36,6 @@
         }
       ],
       "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
-    {
-      "id": "nol:15641",
-      "source": "nol",
-      "title": "2026 진성 단독 토크콘서트 \"진성쑈\"-안양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26014868",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014868_p.gif",
-      "venue": "안양아트센터 관악홀",
-      "region": "경기",
-      "genre": "콘서트 - 포크/트로트",
-      "showDates": "2026-12-12",
-      "exclusive": false,
-      "cast": "출연가수:진성<br>특별 게스트: 송가인",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "nol:15730",
-      "source": "nol",
-      "title": "정동하 X 알리 〈SONG : THE BATTLE OF LEGENDS〉 - 고양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015505",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015505_p.gif",
-      "venue": "고양어울림누리 어울림극장",
-      "region": "경기",
-      "genre": "콘서트",
-      "showDates": "2026-12-31",
-      "exclusive": false,
-      "cast": "정동하, 알리",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
-    {
-      "id": "nol:15688",
-      "source": "nol",
-      "title": "서경수 단독 콘서트 〈Da Capo〉 : The 20th",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015287",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015287_p.gif",
-      "venue": "코엑스 오디토리움",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-26 ~ 2026-12-27",
-      "exclusive": false,
-      "cast": "-캐스팅: 서경수",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T01:27:10.609Z"
     },
     {
       "id": "melon:13154",
@@ -776,6 +689,50 @@
       "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
+      "id": "nol:15794",
+      "source": "nol",
+      "title": "2026 박학기 콘서트 [계절학기]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015676",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015676_p.gif",
+      "venue": "홍대 롤링홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-11",
+      "exclusive": true,
+      "cast": "박학기",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T13:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
+      "id": "nol:15795",
+      "source": "nol",
+      "title": "2026 유리상자 콘서트 [마흔 네 번째 사랑담기]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015660",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015660_p.gif",
+      "venue": "홍대 롤링홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-12",
+      "exclusive": true,
+      "cast": "유리상자",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
       "id": "nol:15757",
       "source": "nol",
       "title": "2026 HAHA FAN CONCERT - 대구",
@@ -886,6 +843,28 @@
       "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
+      "id": "nol:15145",
+      "source": "nol",
+      "title": "2026-27 로이킴 LIVE TOUR ［R:O:Y］ in SEOUL",
+      "round": "추가티켓오픈",
+      "url": "https://nol.yanolja.com/ticket/products/26013078",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26013078_p.gif",
+      "venue": "KSPO DOME ",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-11-21 ~ 2026-11-22",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
       "id": "melon:13135",
       "source": "melon",
       "title": "2026 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉",
@@ -979,6 +958,28 @@
       "firstSeen": "2026-10-26T15:08:14.206Z"
     },
     {
+      "id": "nol:15802",
+      "source": "nol",
+      "title": "2026 김수희 전국투어 콘서트 : 우리 다시, 김수희 - 영천",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015791",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015791_p.gif",
+      "venue": "영천시민회관 스타홀",
+      "region": "경북",
+      "genre": "콘서트 - 포크/트로트",
+      "showDates": "2026-12-20",
+      "exclusive": false,
+      "cast": "출연 : 김수희 ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-03T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
       "id": "nol:15735",
       "source": "nol",
       "title": "2026 WITH STAGE ＆ 시즌6 #2",
@@ -999,6 +1000,28 @@
         }
       ],
       "firstSeen": "2026-10-26T01:39:17.700Z"
+    },
+    {
+      "id": "nol:15801",
+      "source": "nol",
+      "title": "김기태 연말 콘서트 : 2026 Mapo Winter Edition",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015743",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015743_p.gif",
+      "venue": "마포아트센터 아트홀맥",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-04",
+      "exclusive": false,
+      "cast": "출연진 : 김기태",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-03T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
     },
     {
       "id": "nol:15722",
@@ -1249,6 +1272,38 @@
         }
       ],
       "firstSeen": "2026-10-28T13:29:41.054Z"
+    },
+    {
+      "id": "nol:15793",
+      "source": "nol",
+      "title": "캣츠아이 첫 단독 내한공연",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015604",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015604_p.gif",
+      "venue": "KSPO DOME",
+      "region": "서울",
+      "genre": "콘서트 - 내한공연",
+      "showDates": "2027-02-04",
+      "exclusive": true,
+      "cast": "캣츠아이 (KATSEYE)",
+      "opens": [
+        {
+          "label": "위버스 선예매",
+          "at": "2026-11-10T12:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "아티스트 코드 선예매",
+          "at": "2026-11-11T12:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-12T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
     },
     {
       "id": "nol:15725",
