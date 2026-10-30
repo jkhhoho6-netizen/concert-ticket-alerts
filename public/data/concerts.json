@@ -1,310 +1,19 @@
 {
-  "updatedAt": "2026-10-30T08:32:27.556Z",
+  "updatedAt": "2026-10-30T15:18:39.492Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 37,
-      "checkedAt": "2026-10-30T08:32:27.556Z"
+      "count": 31,
+      "checkedAt": "2026-10-30T15:18:39.492Z"
     },
     "melon": {
       "ok": true,
       "count": 39,
-      "checkedAt": "2026-10-30T08:32:27.556Z"
+      "checkedAt": "2026-10-30T15:18:39.492Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15704",
-      "source": "nol",
-      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [부산]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015397",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015397_p.gif",
-      "venue": "소향씨어터 우리은행홀",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-12",
-      "exclusive": false,
-      "cast": "-캐스팅 : 김나영",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
-    },
-    {
-      "id": "nol:15756",
-      "source": "nol",
-      "title": "2026-27 콘서트 [김종국 EDITION 국룰] - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015624",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015624_p.gif",
-      "venue": "블루스퀘어 우리WON뱅킹홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2027-01-09 ~ 2027-01-10",
-      "exclusive": true,
-      "cast": "김종국",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T05:32:49.445Z"
-    },
-    {
-      "id": "melon:13167",
-      "source": "melon",
-      "title": "Go Stage Live project#1 이예신 단독공연 ‘Autumn’s Leave’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13167",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029105301baf3f466-c4ec-4dce-8587-bcc26c942aaf.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
-    {
-      "id": "nol:15705",
-      "source": "nol",
-      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [대구]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015452",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015452_p.gif",
-      "venue": "영남대학교 천마아트센터 그랜드홀",
-      "region": "대구",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": "-캐스팅 : 김나영",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
-    },
-    {
-      "id": "nol:15724",
-      "source": "nol",
-      "title": "2026 데이브레이크 루시 산보 연말콘서트 〈WINTER CITY〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015467",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015467_p.gif",
-      "venue": "성남아트센터 오페라하우스",
-      "region": "경기",
-      "genre": "콘서트",
-      "showDates": "2026-12-12 ~ 2026-12-13",
-      "exclusive": false,
-      "cast": "- 데이브레이크, 루시, 산보",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
-    {
-      "id": "nol:15640",
-      "source": "nol",
-      "title": "2026 이승윤 콘서트 [0]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015138",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015138_p.gif",
-      "venue": "킨텍스 제2전시장 10홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-11 ~ 2026-12-13",
-      "exclusive": true,
-      "cast": "이승윤",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-19T08:51:52.912Z"
-    },
-    {
-      "id": "melon:13166",
-      "source": "melon",
-      "title": "[오픈시간변경] MIGHT GET LOUD VOL.3",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13166",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029083900082fde89-6124-498d-883a-d2f47481e5f4.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
-    {
-      "id": "nol:15706",
-      "source": "nol",
-      "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [광주]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015444",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015444_p.gif",
-      "venue": "전남광주통합특별시 예술의전당 대극장",
-      "region": "광주",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-31",
-      "exclusive": false,
-      "cast": "- 캐스팅 : 김나영 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-22T06:33:24.553Z"
-    },
-    {
-      "id": "nol:15729",
-      "source": "nol",
-      "title": "2026 송강 팬미팅 〈PLAY, SONG KANG〉 IN SEOUL",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015493",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015493_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-05",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "팬카페",
-          "at": "2026-10-28T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T01:39:17.700Z"
-    },
-    {
-      "id": "nol:15742",
-      "source": "nol",
-      "title": "2026 신용재 콘서트 〈GRAVITY〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015568",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015568_p.gif",
-      "venue": "코엑스 오디토리움",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-24 ~ 2026-12-25",
-      "exclusive": true,
-      "cast": "신용재",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
-    {
-      "id": "melon:13151",
-      "source": "melon",
-      "title": "2026 AND2BLE FAN-CON 〈W!nter inside〉 In Seoul 추가 회차",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13151",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261028114349aaebc3da-dd35-4935-98a5-b5334b478e43.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": "2026년 12월 4일 (금) 8:00 PM (KST)",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T23:10:42.086Z"
-    },
-    {
-      "id": "melon:13137",
-      "source": "melon",
-      "title": "ㄴㅇㄱ",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13137",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610261102077d88f283-fa1e-49d2-bfa9-1d1c1a0ba13b.jpg/melon/resize/160x225/strip/true",
-      "venue": "CKL 스테이지",
-      "region": null,
-      "genre": null,
-      "showDates": "11월 15일 – 11월 15일",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T15:08:14.206Z"
-    },
-    {
-      "id": "melon:13165",
-      "source": "melon",
-      "title": "Where am I",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13165",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261028145059676f3de3-47de-4d36-a61d-b277dfd88179.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
     {
       "id": "nol:15788",
       "source": "nol",
@@ -460,6 +169,72 @@
       "firstSeen": "2026-10-28T06:14:46.752Z"
     },
     {
+      "id": "nol:15808",
+      "source": "nol",
+      "title": "업그레이드VIP ＆공개리허설_KaWang 2nd Concert [OSAKA]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015785",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015785_p.gif",
+      "venue": "Brillia HALL Minoh(Minoh City Cultural Arts Theatr)",
+      "region": "기타",
+      "genre": "콘서트",
+      "showDates": "2026-11-21",
+      "exclusive": false,
+      "cast": " 출연진 : KaWang",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
+      "id": "nol:15809",
+      "source": "nol",
+      "title": "업그레이드VIP ＆공개리허설_KaWang 2nd Concert [TOKYO]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015707",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015707_p.gif",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "region": "기타",
+      "genre": "콘서트",
+      "showDates": "2026-11-23",
+      "exclusive": false,
+      "cast": "출연진 : KaWang",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-02T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
+      "id": "melon:13175",
+      "source": "melon",
+      "title": "Again Festa!",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13175",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610291125159b4b9332-3d6b-4d52-baf7-0276f1242b8f.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-02T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
       "id": "nol:15733",
       "source": "nol",
       "title": "DAILY:DIRECTION 1st FAN:CON SUN:DAY CLUB: ORIENTATION",
@@ -546,6 +321,28 @@
         }
       ],
       "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
+      "id": "melon:13181",
+      "source": "melon",
+      "title": "늦은가을 스트레이 단독 콘서트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13181",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029112245e5584870-3e55-408d-b3f5-a039caba32be.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-02T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "melon:13135",
@@ -1302,6 +1099,55 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
+      "id": "melon:13177",
+      "source": "melon",
+      "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13177",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103011104673f032b0-bc53-4930-8b38-8a3b84c0d878.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-11-06T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-11-06T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
+      "id": "melon:13176",
+      "source": "melon",
+      "title": "첫 마디 프로젝트: 빈스프라우트 단독공연",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13176",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029153934e012415d-942c-4c15-80ac-fd27a2746900.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-06T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
       "id": "nol:15727",
       "source": "nol",
       "title": "2026 JUNG DAE HYUN FAN-CONCERT [CRITICAL] in SEOUL",
@@ -1408,6 +1254,33 @@
         }
       ],
       "firstSeen": "2026-10-29T16:53:17.223Z"
+    },
+    {
+      "id": "melon:13178",
+      "source": "melon",
+      "title": "구름 단독공연 : [What If]- vol.2",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13178",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029104131e92f55a1-02ec-4e79-8221-50eca54a6224.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-11-13T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "nol:15725",
