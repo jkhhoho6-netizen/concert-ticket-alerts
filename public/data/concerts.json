@@ -1,17 +1,16 @@
 {
-  "updatedAt": "2026-10-29T21:45:07.156Z",
+  "updatedAt": "2026-10-30T01:54:04.350Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 39,
-      "checkedAt": "2026-10-29T21:45:07.156Z"
+      "count": 37,
+      "checkedAt": "2026-10-30T01:54:04.350Z"
     },
     "melon": {
-      "ok": false,
+      "ok": true,
       "count": 33,
-      "checkedAt": "2026-10-29T16:53:17.223Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "checkedAt": "2026-10-30T01:54:04.350Z"
     }
   },
   "items": [
@@ -58,50 +57,6 @@
         }
       ],
       "firstSeen": "2026-10-26T01:39:17.700Z"
-    },
-    {
-      "id": "nol:15744",
-      "source": "nol",
-      "title": "2026 임창정 콘서트 다시, 우리의 시간을 노래하다 - 전주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015569",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015569_p.gif",
-      "venue": "한국소리문화의전당",
-      "region": "전북",
-      "genre": "콘서트",
-      "showDates": "2026-12-12",
-      "exclusive": false,
-      "cast": "임창정",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
-    },
-    {
-      "id": "nol:15745",
-      "source": "nol",
-      "title": "2026 임창정 콘서트 다시, 우리의 시간을 노래하다 - 춘천",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015586",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015586_p.gif",
-      "venue": "강원대학교 백령아트센터",
-      "region": "강원",
-      "genre": "콘서트",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "임창정",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-30T15:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T07:43:57.288Z"
     },
     {
       "id": "nol:15763",
@@ -214,28 +169,6 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
-      "id": "melon:13166",
-      "source": "melon",
-      "title": "MIGHT GET LOUD VOL.3",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13166",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029083900082fde89-6124-498d-883a-d2f47481e5f4.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-10-30T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
-    {
       "id": "nol:15705",
       "source": "nol",
       "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [대구]",
@@ -300,6 +233,28 @@
         }
       ],
       "firstSeen": "2026-10-19T08:51:52.912Z"
+    },
+    {
+      "id": "melon:13166",
+      "source": "melon",
+      "title": "[오픈시간변경] MIGHT GET LOUD VOL.3",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13166",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029083900082fde89-6124-498d-883a-d2f47481e5f4.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-10-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
       "id": "nol:15706",
