@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-01T22:22:36.979Z",
+  "updatedAt": "2026-11-02T01:47:18.183Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 31,
-      "checkedAt": "2026-11-01T22:22:36.979Z"
+      "count": 33,
+      "checkedAt": "2026-11-02T01:47:18.183Z"
     },
     "melon": {
       "ok": true,
       "count": 39,
-      "checkedAt": "2026-11-01T22:22:36.979Z"
+      "checkedAt": "2026-11-02T01:47:18.183Z"
     }
   },
   "items": [
@@ -1099,6 +1099,28 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
+      "id": "nol:15817",
+      "source": "nol",
+      "title": "탁재훈쇼-탁월한 쇼맨 -울산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015879",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015879_p.gif",
+      "venue": "KBS울산홀",
+      "region": "울산",
+      "genre": "콘서트",
+      "showDates": "2026-12-25",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-06T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T01:47:18.183Z"
+    },
+    {
       "id": "melon:13177",
       "source": "melon",
       "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
@@ -1200,6 +1222,28 @@
         }
       ],
       "firstSeen": "2026-10-30T08:32:27.556Z"
+    },
+    {
+      "id": "nol:15818",
+      "source": "nol",
+      "title": "홍경민 콘서트 - 12월의 매달리스트 콘서트",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015773",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015773_p.gif",
+      "venue": "구름아래소극장",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-05",
+      "exclusive": false,
+      "cast": "출연 : 홍경민",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-09T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T01:47:18.183Z"
     },
     {
       "id": "nol:15793",
