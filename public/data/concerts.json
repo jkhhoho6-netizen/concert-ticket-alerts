@@ -1,217 +1,20 @@
 {
-  "updatedAt": "2026-11-02T01:47:18.183Z",
+  "updatedAt": "2026-11-02T09:22:26.035Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 33,
-      "checkedAt": "2026-11-02T01:47:18.183Z"
+      "count": 28,
+      "checkedAt": "2026-11-02T09:22:26.035Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 39,
-      "checkedAt": "2026-11-02T01:47:18.183Z"
+      "checkedAt": "2026-11-02T01:47:18.183Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15788",
-      "source": "nol",
-      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 서울 앵콜",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015752",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015752_p.gif",
-      "venue": "KBS아레나",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "출연 : 변진섭",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T13:29:41.054Z"
-    },
-    {
-      "id": "nol:15786",
-      "source": "nol",
-      "title": "THE GREATEST: 전율 소향 X 김기태 - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015730",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015730_p.gif",
-      "venue": "KBS아레나",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "출연 : 소향, 김기태 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T13:29:41.054Z"
-    },
-    {
-      "id": "nol:15794",
-      "source": "nol",
-      "title": "2026 박학기 콘서트 [계절학기]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015676",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015676_p.gif",
-      "venue": "홍대 롤링홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-11",
-      "exclusive": true,
-      "cast": "박학기",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
-    {
-      "id": "nol:15795",
-      "source": "nol",
-      "title": "2026 유리상자 콘서트 [마흔 네 번째 사랑담기]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015660",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015660_p.gif",
-      "venue": "홍대 롤링홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-12",
-      "exclusive": true,
-      "cast": "유리상자",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
-    {
-      "id": "nol:15757",
-      "source": "nol",
-      "title": "2026 HAHA FAN CONCERT - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015626",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015626_p.gif",
-      "venue": "엑스코 오디토리움",
-      "region": "대구",
-      "genre": "콘서트",
-      "showDates": "2026-12-05",
-      "exclusive": false,
-      "cast": "하하",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T10:56:22.864Z"
-    },
-    {
-      "id": "nol:15758",
-      "source": "nol",
-      "title": "2026 HAHA FAN CONCERT - 전주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015627",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015627_p.gif",
-      "venue": "전북대학교 삼성문화회관 대강당",
-      "region": "전북",
-      "genre": "콘서트",
-      "showDates": "2026-11-28",
-      "exclusive": false,
-      "cast": "하하",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T10:56:22.864Z"
-    },
-    {
-      "id": "nol:15784",
-      "source": "nol",
-      "title": "이은미 콘서트 with 오케스트라 : 추억이 핀다 - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015727",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015727_p.gif",
-      "venue": "부산문화회관",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-04-18",
-      "exclusive": false,
-      "cast": "이은미",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T06:14:46.752Z"
-    },
-    {
-      "id": "nol:15808",
-      "source": "nol",
-      "title": "업그레이드VIP ＆공개리허설_KaWang 2nd Concert [OSAKA]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015785",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015785_p.gif",
-      "venue": "Brillia HALL Minoh(Minoh City Cultural Arts Theatr)",
-      "region": "기타",
-      "genre": "콘서트",
-      "showDates": "2026-11-21",
-      "exclusive": false,
-      "cast": " 출연진 : KaWang",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
-    {
-      "id": "nol:15809",
-      "source": "nol",
-      "title": "업그레이드VIP ＆공개리허설_KaWang 2nd Concert [TOKYO]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015707",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015707_p.gif",
-      "venue": "TACHIKAWA STAGE GARDEN",
-      "region": "기타",
-      "genre": "콘서트",
-      "showDates": "2026-11-23",
-      "exclusive": false,
-      "cast": "출연진 : KaWang",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
     {
       "id": "melon:13175",
       "source": "melon",
@@ -233,28 +36,6 @@
         }
       ],
       "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
-    {
-      "id": "nol:15733",
-      "source": "nol",
-      "title": "DAILY:DIRECTION 1st FAN:CON SUN:DAY CLUB: ORIENTATION",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015519",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015519_p.gif",
-      "venue": "XSCALA(엑스칼라)",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-05 ~ 1900-01-01",
-      "exclusive": true,
-      "cast": "DAILY:DIRECTION",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T15:08:14.206Z"
     },
     {
       "id": "nol:15787",
@@ -949,8 +730,8 @@
       "source": "nol",
       "title": "제3회 정필링온더웨이브 단독콘서트",
       "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015525",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015525_p.gif",
+      "url": "https://nol.yanolja.com/ticket/products/26015886",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015886_p.gif",
       "venue": "홍대 롤링홀",
       "region": "서울",
       "genre": "콘서트 - 인디",
@@ -965,6 +746,72 @@
         }
       ],
       "firstSeen": "2026-10-28T13:29:41.054Z"
+    },
+    {
+      "id": "nol:15819",
+      "source": "nol",
+      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-고양",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015872",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015872_p.gif",
+      "venue": "고양아람누리 아람극장 ",
+      "region": "경기",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-01-09",
+      "exclusive": false,
+      "cast": "백지영",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T09:22:26.035Z"
+    },
+    {
+      "id": "nol:15820",
+      "source": "nol",
+      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-대전",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015782",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015782_p.gif",
+      "venue": "충남대학교 정심화홀",
+      "region": "대전",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-01-16",
+      "exclusive": false,
+      "cast": "백지영",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T15:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T09:22:26.035Z"
+    },
+    {
+      "id": "nol:15821",
+      "source": "nol",
+      "title": "박창근장르 2026 - Good to See You - 구리",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015887",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015887_p.gif",
+      "venue": "구리아트홀 코스모스대극장",
+      "region": "경기",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-30 ~ 2026-12-31",
+      "exclusive": true,
+      "cast": "박창근",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T09:22:26.035Z"
     },
     {
       "id": "nol:15814",
@@ -1244,6 +1091,50 @@
         }
       ],
       "firstSeen": "2026-11-02T01:47:18.183Z"
+    },
+    {
+      "id": "nol:15829",
+      "source": "nol",
+      "title": "디어클라우드 연말 콘서트〈26´ Merry Christmas ＆ Farewell〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015921",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015921_p.gif",
+      "venue": "서보아트스페이스 보이드홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-19 ~ 2026-12-26",
+      "exclusive": true,
+      "cast": "디어클라우드(dear cloud)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-09T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T09:22:26.035Z"
+    },
+    {
+      "id": "nol:15831",
+      "source": "nol",
+      "title": "연정 단독공연 ‘사랑에 춤추고’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015940",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015940_p.gif",
+      "venue": "XSCALA(엑스칼라)",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-19",
+      "exclusive": true,
+      "cast": "연정",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-09T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T09:22:26.035Z"
     },
     {
       "id": "nol:15793",
