@@ -1,16 +1,17 @@
 {
-  "updatedAt": "2026-11-03T10:00:17.711Z",
+  "updatedAt": "2026-11-03T17:46:08.898Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 28,
-      "checkedAt": "2026-11-03T10:00:17.711Z"
+      "checkedAt": "2026-11-03T17:46:08.898Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 42,
-      "checkedAt": "2026-11-03T10:00:17.711Z"
+      "checkedAt": "2026-11-03T10:00:17.711Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
@@ -123,33 +124,6 @@
         }
       ],
       "firstSeen": "2026-10-28T23:10:42.086Z"
-    },
-    {
-      "id": "nol:15759",
-      "source": "nol",
-      "title": "DaiShun Meet＆Greet 〈자나깨나 다이슌.Nightlight〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015628",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015628_p.gif",
-      "venue": "H-STAGE",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-19",
-      "exclusive": true,
-      "cast": "나카이 다이, 나카니시 슌",
-      "opens": [
-        {
-          "label": "기존 예매자 선예매",
-          "at": "2026-11-03T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T10:56:22.864Z"
     },
     {
       "id": "nol:15813",
@@ -422,6 +396,33 @@
         }
       ],
       "firstSeen": "2026-10-28T13:29:41.054Z"
+    },
+    {
+      "id": "nol:15759",
+      "source": "nol",
+      "title": "DaiShun Meet＆Greet 〈자나깨나 다이슌.Nightlight〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015628",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015628_p.gif",
+      "venue": "H-STAGE",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-19",
+      "exclusive": true,
+      "cast": "나카이 다이, 나카니시 슌",
+      "opens": [
+        {
+          "label": "기존 예매자 선예매",
+          "at": "2026-11-03T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
     },
     {
       "id": "nol:15844",
