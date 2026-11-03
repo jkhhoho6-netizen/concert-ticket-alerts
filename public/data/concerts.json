@@ -1,41 +1,19 @@
 {
-  "updatedAt": "2026-11-02T19:44:57.465Z",
+  "updatedAt": "2026-11-03T02:13:46.735Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 25,
-      "checkedAt": "2026-11-02T19:44:57.465Z"
+      "count": 24,
+      "checkedAt": "2026-11-03T02:13:46.735Z"
     },
     "melon": {
       "ok": true,
       "count": 38,
-      "checkedAt": "2026-11-02T19:44:57.465Z"
+      "checkedAt": "2026-11-03T02:13:46.735Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15802",
-      "source": "nol",
-      "title": "2026 김수희 전국투어 콘서트 : 우리 다시, 김수희 - 영천",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015791",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015791_p.gif",
-      "venue": "영천시민회관 스타홀",
-      "region": "경북",
-      "genre": "콘서트 - 포크/트로트",
-      "showDates": "2026-12-20",
-      "exclusive": false,
-      "cast": "출연 : 김수희 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-03T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
     {
       "id": "nol:15735",
       "source": "nol",
@@ -952,7 +930,7 @@
     {
       "id": "nol:15831",
       "source": "nol",
-      "title": "연정 단독공연 ‘사랑에 춤추고’",
+      "title": "연정(YEONJEONG) 단독공연 '사랑에 춤추고'",
       "round": null,
       "url": "https://nol.yanolja.com/ticket/products/26015940",
       "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015940_p.gif",
