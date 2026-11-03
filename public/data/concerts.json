@@ -1,117 +1,19 @@
 {
-  "updatedAt": "2026-11-03T02:13:46.735Z",
+  "updatedAt": "2026-11-03T10:00:17.711Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 24,
-      "checkedAt": "2026-11-03T02:13:46.735Z"
+      "count": 28,
+      "checkedAt": "2026-11-03T10:00:17.711Z"
     },
     "melon": {
       "ok": true,
-      "count": 38,
-      "checkedAt": "2026-11-03T02:13:46.735Z"
+      "count": 42,
+      "checkedAt": "2026-11-03T10:00:17.711Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15735",
-      "source": "nol",
-      "title": "2026 WITH STAGE ＆ 시즌6 #2",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015149",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015149_p.gif",
-      "venue": "CKL스테이지",
-      "region": "서울",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2026-11-21",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-03T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T01:39:17.700Z"
-    },
-    {
-      "id": "nol:15801",
-      "source": "nol",
-      "title": "김기태 연말 콘서트 : 2026 Mapo Winter Edition",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015743",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015743_p.gif",
-      "venue": "마포아트센터 아트홀맥",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-04",
-      "exclusive": false,
-      "cast": "출연진 : 김기태",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-03T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
-    {
-      "id": "nol:15722",
-      "source": "nol",
-      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015508",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015508_p.gif",
-      "venue": "벡스코 오디토리움",
-      "region": "부산",
-      "genre": "콘서트",
-      "showDates": "2026-12-25",
-      "exclusive": true,
-      "cast": "자우림",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-03T14:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
-    {
-      "id": "nol:15721",
-      "source": "nol",
-      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015504",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015504_p.gif",
-      "venue": "충남대학교 정심화홀",
-      "region": "대전",
-      "genre": "콘서트",
-      "showDates": "2027-01-02",
-      "exclusive": true,
-      "cast": "자우림",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-03T16:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T16:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
     {
       "id": "melon:13189",
       "source": "melon",
@@ -133,82 +35,6 @@
         }
       ],
       "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
-    {
-      "id": "nol:15723",
-      "source": "nol",
-      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015499",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015499_p.gif",
-      "venue": "엑스코 오디토리움",
-      "region": "대구",
-      "genre": "콘서트",
-      "showDates": "2027-01-09",
-      "exclusive": true,
-      "cast": "자우림",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-03T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T09:59:12.209Z"
-    },
-    {
-      "id": "nol:15764",
-      "source": "nol",
-      "title": "안예은 단독공연: 제 10회 오타쿠리스마스",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015635",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015635_p.gif",
-      "venue": "NOL 씨어터 합정 동양생명홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-12 ~ 2026-12-13",
-      "exclusive": true,
-      "cast": "안예은",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-03T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T10:56:22.864Z"
-    },
-    {
-      "id": "nol:15760",
-      "source": "nol",
-      "title": "DaiShun 1st Korea Fanmeet 〈자나깨나 다이슌. Daylight〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015629",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015629_p.gif",
-      "venue": "H-STAGE",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-19",
-      "exclusive": true,
-      "cast": "나카이 다이, 나카니시 슌",
-      "opens": [
-        {
-          "label": "기존 예매자 선예매",
-          "at": "2026-11-03T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-27T10:56:22.864Z"
     },
     {
       "id": "melon:13159",
@@ -346,6 +172,114 @@
         }
       ],
       "firstSeen": "2026-10-30T08:32:27.556Z"
+    },
+    {
+      "id": "nol:15722",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015508",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015508_p.gif",
+      "venue": "벡스코 오디토리움",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2026-12-25",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T14:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15721",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대전",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015504",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015504_p.gif",
+      "venue": "충남대학교 정심화홀",
+      "region": "대전",
+      "genre": "콘서트",
+      "showDates": "2027-01-02",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T16:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T16:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15723",
+      "source": "nol",
+      "title": "자우림 단독 콘서트 [ MIDNIGHT EXPRESS 2026-2027 ] - 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015499",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015499_p.gif",
+      "venue": "엑스코 오디토리움",
+      "region": "대구",
+      "genre": "콘서트",
+      "showDates": "2027-01-09",
+      "exclusive": true,
+      "cast": "자우림",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-03T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-23T09:59:12.209Z"
+    },
+    {
+      "id": "nol:15760",
+      "source": "nol",
+      "title": "DaiShun 1st Korea Fanmeet 〈자나깨나 다이슌. Daylight〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015629",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015629_p.gif",
+      "venue": "H-STAGE",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-19",
+      "exclusive": true,
+      "cast": "나카이 다이, 나카니시 슌",
+      "opens": [
+        {
+          "label": "기존 예매자 선예매",
+          "at": "2026-11-03T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-27T10:56:22.864Z"
     },
     {
       "id": "nol:15804",
@@ -490,6 +424,50 @@
       "firstSeen": "2026-10-28T13:29:41.054Z"
     },
     {
+      "id": "nol:15844",
+      "source": "nol",
+      "title": "[부산] 최유리 콘서트 2026 : 머무름",
+      "round": "추가티켓오픈",
+      "url": "https://nol.yanolja.com/ticket/products/26012514",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26012514_p.gif",
+      "venue": "벡스코 오디토리움",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-11-07 ~ 2026-11-08",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T13:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
+      "id": "nol:15834",
+      "source": "nol",
+      "title": "2027 무명전설 전국투어 콘서트 - 광주앵콜",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015949",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015949_p.gif",
+      "venue": "김대중컨벤션센터 다목적홀",
+      "region": "광주",
+      "genre": "콘서트 - 포크/트로트",
+      "showDates": "2027-01-16",
+      "exclusive": true,
+      "cast": "무명전설 TOP7",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T13:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
       "id": "nol:15819",
       "source": "nol",
       "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-고양",
@@ -512,6 +490,28 @@
       "firstSeen": "2026-11-02T09:22:26.035Z"
     },
     {
+      "id": "nol:15835",
+      "source": "nol",
+      "title": "2027 무명전설 전국투어 콘서트 - 천안",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015950",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015950_p.gif",
+      "venue": "남서울대학교 성암문화체육관",
+      "region": "충남",
+      "genre": "콘서트 - 포크/트로트",
+      "showDates": "2027-01-23",
+      "exclusive": true,
+      "cast": "무명전설 TOP7",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
       "id": "nol:15820",
       "source": "nol",
       "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-대전",
@@ -532,6 +532,28 @@
         }
       ],
       "firstSeen": "2026-11-02T09:22:26.035Z"
+    },
+    {
+      "id": "nol:15836",
+      "source": "nol",
+      "title": "2027 무명전설 전국투어 콘서트 - 안동",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015880",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015880_p.gif",
+      "venue": "안동체육관",
+      "region": "경북",
+      "genre": "콘서트 - 포크/트로트",
+      "showDates": "2027-01-30",
+      "exclusive": true,
+      "cast": "무명전설 TOP7",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T15:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
     },
     {
       "id": "nol:15821",
@@ -576,6 +598,28 @@
         }
       ],
       "firstSeen": "2026-10-30T08:32:27.556Z"
+    },
+    {
+      "id": "nol:15838",
+      "source": "nol",
+      "title": "2026 심규선 팬 콘서트 [MAD TEA PARTY]",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015748",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015748_p.gif",
+      "venue": "성신여대 운정그린캠퍼스 대강당",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-05 ~ 2026-12-06",
+      "exclusive": true,
+      "cast": "심규선",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-05T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
     },
     {
       "id": "melon:13168",
@@ -715,6 +759,28 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
+      "id": "nol:15848",
+      "source": "nol",
+      "title": "2026 이병찬 단독 콘서트 : 찬의 계절",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015947",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015947_p.gif",
+      "venue": "큐브컨벤션센터 CCC스테이지",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-11-21",
+      "exclusive": false,
+      "cast": "출연 : 이병찬",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-06T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
       "id": "nol:15817",
       "source": "nol",
       "title": "탁재훈쇼-탁월한 쇼맨 -울산",
@@ -833,6 +899,28 @@
         }
       ],
       "firstSeen": "2026-10-26T15:08:14.206Z"
+    },
+    {
+      "id": "melon:13196",
+      "source": "melon",
+      "title": "2026 다양성 연말 단독 공연 〈SNOWBALL : The Present〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13196",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611022155519a3ec3f5-b553-4819-a7ac-edea379f1757.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-06T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
     },
     {
       "id": "nol:15805",
@@ -1026,6 +1114,77 @@
       "firstSeen": "2026-10-29T09:50:46.347Z"
     },
     {
+      "id": "melon:13197",
+      "source": "melon",
+      "title": "2026 영탁 단독 콘서트 “TAK SHOW5” - 부산",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13197",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261102153820641a2e02-eae3-4cea-b115-6c58d06b5d84.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
+      "id": "melon:13193",
+      "source": "melon",
+      "title": "초록불꽃소년단 연말 단독 콘서트 : Dive Or Die",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13193",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110210353096ddc607-0926-4d8c-88b5-72e0831937cd.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
+      "id": "melon:13198",
+      "source": "melon",
+      "title": "TONE STUDIO LIVE 〈안다영〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13198",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110211245967780f44-1ce5-4a61-ba68-7e4cacf1f5b6.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
       "id": "melon:13162",
       "source": "melon",
       "title": "Cho Q May 「Starlight Map Tour」",
@@ -1144,6 +1303,38 @@
         }
       ],
       "firstSeen": "2026-10-23T22:36:22.265Z"
+    },
+    {
+      "id": "nol:15843",
+      "source": "nol",
+      "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015983",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015983_p.gif",
+      "venue": "NAVER ARENA at INSPIRE",
+      "region": "인천",
+      "genre": "콘서트",
+      "showDates": "2027-01-22 ~ 2027-01-24",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "국내 멤버십 선예매",
+          "at": "2026-12-03T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "글로벌 멤버십 선예매",
+          "at": "2026-12-07T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-12-08T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-03T10:00:17.711Z"
     },
     {
       "id": "melon:12915",
