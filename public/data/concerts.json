@@ -1,130 +1,19 @@
 {
-  "updatedAt": "2026-11-03T17:46:08.898Z",
+  "updatedAt": "2026-11-03T23:15:13.294Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 28,
-      "checkedAt": "2026-11-03T17:46:08.898Z"
+      "checkedAt": "2026-11-03T23:15:13.294Z"
     },
     "melon": {
-      "ok": false,
-      "count": 42,
-      "checkedAt": "2026-11-03T10:00:17.711Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 38,
+      "checkedAt": "2026-11-03T23:15:13.294Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13189",
-      "source": "melon",
-      "title": "세대공감 7",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13189",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110210193178489c7e-e3e9-4346-a014-6af2d7cd4e3c.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-03T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
-    {
-      "id": "melon:13159",
-      "source": "melon",
-      "title": "2026 JINHO 〈JIN-GLE PARTY〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13159",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261028172752d67b055b-5338-472e-9aa4-35b6ea3d16f6.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-03T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "melon:13163",
-      "source": "melon",
-      "title": "숲세권 라이브 : 아멘 단독 공연 〈ANEMONE〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13163",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261028155617ebf01a74-5fc1-4d57-8466-57e26394035c.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-03T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
-    {
-      "id": "melon:13164",
-      "source": "melon",
-      "title": "숲세권 라이브 : KEYVITUP 단독 공연 〈Marigold〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13164",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261028165650c08df512-d234-459e-8441-fdf52dd57554.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-03T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T16:53:17.223Z"
-    },
-    {
-      "id": "melon:13148",
-      "source": "melon",
-      "title": "펀치 소극장 단독 콘서트 ‘펀치의 아지트’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13148",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261027135526b802e4db-a791-4954-b95e-d1f6e860c98b.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-03T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T23:10:42.086Z"
-    },
     {
       "id": "nol:15813",
       "source": "nol",
@@ -665,6 +554,28 @@
         }
       ],
       "firstSeen": "2026-10-29T16:53:17.223Z"
+    },
+    {
+      "id": "melon:13174",
+      "source": "melon",
+      "title": "2026 CRAVITY CONCERT 〈SONOROUS〉 in Seoul 시야제한석 추가 오픈 안내",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13174",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029133651e195cb76-f3f5-43c2-a79b-66742d4e9db5.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-05T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T08:32:27.556Z"
     },
     {
       "id": "nol:15731",
