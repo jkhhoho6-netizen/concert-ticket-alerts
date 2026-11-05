@@ -1,108 +1,19 @@
 {
-  "updatedAt": "2026-11-04T18:51:40.770Z",
+  "updatedAt": "2026-11-05T00:20:13.137Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 27,
-      "checkedAt": "2026-11-04T18:51:40.770Z"
+      "count": 26,
+      "checkedAt": "2026-11-05T00:20:13.137Z"
     },
     "melon": {
-      "ok": false,
-      "count": 46,
-      "checkedAt": "2026-11-04T11:31:41.988Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 43,
+      "checkedAt": "2026-11-05T00:20:13.137Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13149",
-      "source": "melon",
-      "title": "먼데이프로젝트 IN 라이브클럽 [Mombrimz 단독콘서트]",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13149",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261027172208a3734c09-cf5a-4b7c-ad60-1560795bc9bd.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-04T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T23:10:42.086Z"
-    },
-    {
-      "id": "melon:13172",
-      "source": "melon",
-      "title": "숲세권 라이브 : 가비엔제이 단독 공연 〈해바라기〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13172",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261030104548343e194b-b940-45a9-b76b-0dab65bc0b00.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-04T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "melon:13173",
-      "source": "melon",
-      "title": "숲세권 라이브 : 보이드 단독 공연 〈Evergreen〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13173",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026102916002933916ce0-80b0-4f62-af00-857046952cf7.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-04T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "nol:15853",
-      "source": "nol",
-      "title": "윤수일 BAND 전국투어 콘서트(포항)",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016007",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016007_p.gif",
-      "venue": "포항문화예술회관 대극장",
-      "region": "경북",
-      "genre": "콘서트",
-      "showDates": "2026-12-24",
-      "exclusive": false,
-      "cast": "가수 윤수일",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T09:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T03:12:40.697Z"
-    },
     {
       "id": "nol:15844",
       "source": "nol",
@@ -483,6 +394,50 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
+      "id": "melon:13210",
+      "source": "melon",
+      "title": "JUNTAE 1st Solo Concert 〈Extraordinary Day〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13210",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104103000c1828bd3-3a27-4286-a504-72fee36c226f.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-05T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T00:20:13.137Z"
+    },
+    {
+      "id": "melon:13212",
+      "source": "melon",
+      "title": "YAO CHI 1st FANMEETING in seoul 〈Happy to Wander to Seoul〉 ‘서울, 꿈속을 거닐다’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13212",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261103122933d8bbb592-ad61-4a74-9369-f6f15ef56a22.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-05T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T00:20:13.137Z"
+    },
+    {
       "id": "nol:15858",
       "source": "nol",
       "title": "[부산] 크리스마스특집 매직갈라쇼 〈매직 프레젠트〉",
@@ -591,33 +546,6 @@
         }
       ],
       "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
-      "id": "melon:13177",
-      "source": "melon",
-      "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13177",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103011104673f032b0-bc53-4930-8b38-8a3b84c0d878.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "melon:13184",
@@ -738,33 +666,6 @@
         }
       ],
       "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "melon:13152",
-      "source": "melon",
-      "title": "2026 N.Flying LIVE ‘Once Upon a Snowball’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13152",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611041405434d1c5a2e-415b-4bfa-a09e-67995c0d4dd0.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-11-04T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-28T23:10:42.086Z"
     },
     {
       "id": "melon:13191",
