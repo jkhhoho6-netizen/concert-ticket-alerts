@@ -1,173 +1,20 @@
 {
-  "updatedAt": "2026-11-05T00:20:13.137Z",
+  "updatedAt": "2026-11-05T07:20:54.355Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 26,
-      "checkedAt": "2026-11-05T00:20:13.137Z"
+      "count": 22,
+      "checkedAt": "2026-11-05T07:20:54.355Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 43,
-      "checkedAt": "2026-11-05T00:20:13.137Z"
+      "checkedAt": "2026-11-05T00:20:13.137Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15844",
-      "source": "nol",
-      "title": "[부산] 최유리 콘서트 2026 : 머무름",
-      "round": "추가티켓오픈",
-      "url": "https://nol.yanolja.com/ticket/products/26012514",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26012514_p.gif",
-      "venue": "벡스코 오디토리움",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-11-07 ~ 2026-11-08",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15834",
-      "source": "nol",
-      "title": "2027 무명전설 전국투어 콘서트 - 광주앵콜",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015949",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015949_p.gif",
-      "venue": "김대중컨벤션센터 다목적홀",
-      "region": "광주",
-      "genre": "콘서트 - 포크/트로트",
-      "showDates": "2027-01-16",
-      "exclusive": true,
-      "cast": "무명전설 TOP7",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15850",
-      "source": "nol",
-      "title": "제87회 순국선열의 날 기념식",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015930",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015930_p.gif",
-      "venue": "「유방백세(遺芳百世)」―꽃다운 향기여 영원하라",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-17",
-      "exclusive": false,
-      "cast": "- 출연진: <br>양준모, 최시연, 고범준, 고보민, 김다엘, 김도현, <br>김민석, 도연심, 맹시현, 백인주, 윤태혁, 이서영, 이은상<br><br>- 창작진: <br>작/연출 최종찬ㅣ조연출 김현태ㅣ프로듀서 김결<br>안무 류정아ㅣ영상 유정임〈뚱딴지콘텐츠〉<br>음향 이수빈 〈메르사운드〉ㅣ조명 장영섭 〈한국무대조명〉<br>분장 장유영 〈MUIROA〉ㅣ의상/소품 극단 〈DP Story〉<br><br>음악감독 김문정ㅣ음악조감독 양우, 오윤재<br><br>THE M.C Creative Team<br>작곡 양종우ㅣ편곡 서강희, 양종우<br><br>리허설 피아니스트 오윤재<br>코러스 해오름, 오윤서, 최이룸, 김영웅",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T13:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T03:12:40.697Z"
-    },
-    {
-      "id": "nol:15819",
-      "source": "nol",
-      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-고양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015872",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015872_p.gif",
-      "venue": "고양아람누리 아람극장 ",
-      "region": "경기",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-09",
-      "exclusive": false,
-      "cast": "백지영",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T09:22:26.035Z"
-    },
-    {
-      "id": "nol:15835",
-      "source": "nol",
-      "title": "2027 무명전설 전국투어 콘서트 - 천안",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015950",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015950_p.gif",
-      "venue": "남서울대학교 성암문화체육관",
-      "region": "충남",
-      "genre": "콘서트 - 포크/트로트",
-      "showDates": "2027-01-23",
-      "exclusive": true,
-      "cast": "무명전설 TOP7",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15820",
-      "source": "nol",
-      "title": "2026-27 백지영 전국투어 콘서트 〈백일몽〉-대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015782",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015782_p.gif",
-      "venue": "충남대학교 정심화홀",
-      "region": "대전",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-16",
-      "exclusive": false,
-      "cast": "백지영",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T15:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T09:22:26.035Z"
-    },
-    {
-      "id": "nol:15836",
-      "source": "nol",
-      "title": "2027 무명전설 전국투어 콘서트 - 안동",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015880",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015880_p.gif",
-      "venue": "안동체육관",
-      "region": "경북",
-      "genre": "콘서트 - 포크/트로트",
-      "showDates": "2027-01-30",
-      "exclusive": true,
-      "cast": "무명전설 TOP7",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-05T15:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
     {
       "id": "nol:15821",
       "source": "nol",
@@ -827,6 +674,50 @@
       "firstSeen": "2026-11-02T19:44:57.465Z"
     },
     {
+      "id": "nol:15863",
+      "source": "nol",
+      "title": "시노래콘서트 ＂읽고 걷고 노래하고＂ 제7화",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015974",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015974_p.gif",
+      "venue": "구름아래소극장",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-11-27",
+      "exclusive": false,
+      "cast": "출연; 윤미진(사회, 노래), 김미혜(시인), 이지상(가수, 시인), 안복진(가수)<br>연주; 김은옥(건반), 명준호(베이스기타), 이지영(첼로), 최성은(바이올린), 강미경(클라리넷)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T10:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T07:20:54.355Z"
+    },
+    {
+      "id": "nol:15868",
+      "source": "nol",
+      "title": "2026 김종서 크리스마스 콘서트 - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016157",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016157_p.gif",
+      "venue": "서강대 메리홀 대극장",
+      "region": "서울",
+      "genre": "콘서트 - Rock/메탈",
+      "showDates": "2026-12-25",
+      "exclusive": false,
+      "cast": "출연 : 김종서  ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T07:20:54.355Z"
+    },
+    {
       "id": "nol:15793",
       "source": "nol",
       "title": "캣츠아이 첫 단독 내한공연",
@@ -950,6 +841,28 @@
         }
       ],
       "firstSeen": "2026-11-03T10:00:17.711Z"
+    },
+    {
+      "id": "nol:15866",
+      "source": "nol",
+      "title": "2026-2027 이영현 콘서트 ＂나의 노래가 필요한 너에게＂ -울림 in 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015969",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015969_p.gif",
+      "venue": "소향씨어터 우리은행홀",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-31",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T07:20:54.355Z"
     },
     {
       "id": "melon:13193",
@@ -1261,16 +1174,6 @@
       "exclusive": true,
       "cast": null,
       "opens": [
-        {
-          "label": "국내 멤버십 선예매",
-          "at": "2026-12-03T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "글로벌 멤버십 선예매",
-          "at": "2026-12-07T20:00:00+09:00",
-          "timeKnown": true
-        },
         {
           "label": "일반예매",
           "at": "2026-12-08T20:00:00+09:00",
