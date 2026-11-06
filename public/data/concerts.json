@@ -1,85 +1,20 @@
 {
-  "updatedAt": "2026-11-05T15:47:37.029Z",
+  "updatedAt": "2026-11-06T02:20:36.843Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 18,
-      "checkedAt": "2026-11-05T15:47:37.029Z"
+      "count": 16,
+      "checkedAt": "2026-11-06T02:20:36.843Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 46,
-      "checkedAt": "2026-11-05T15:47:37.029Z"
+      "checkedAt": "2026-11-05T15:47:37.029Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15858",
-      "source": "nol",
-      "title": "[부산] 크리스마스특집 매직갈라쇼 〈매직 프레젠트〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016055",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016055_p.gif",
-      "venue": null,
-      "region": "부산",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2026-12-12 ~ 2026-12-13",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
-      "id": "nol:15848",
-      "source": "nol",
-      "title": "2026 이병찬 서울 콘서트 : 찬 좋은 콘서트",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015947",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015947_p.gif",
-      "venue": "큐브컨벤션센터 CCC스테이지",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-11-21",
-      "exclusive": false,
-      "cast": "출연 : 이병찬",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15817",
-      "source": "nol",
-      "title": "탁재훈쇼-탁월한 쇼맨 -울산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015879",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015879_p.gif",
-      "venue": "KBS울산홀",
-      "region": "울산",
-      "genre": "콘서트",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T01:47:18.183Z"
-    },
     {
       "id": "nol:15861",
       "source": "nol",
@@ -470,6 +405,33 @@
       "firstSeen": "2026-11-02T19:44:57.465Z"
     },
     {
+      "id": "nol:15866",
+      "source": "nol",
+      "title": "2026-2027 이영현 콘서트 ＂나의 노래가 필요한 너에게＂ -울림 in 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015969",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015969_p.gif",
+      "venue": "소향씨어터 우리은행홀",
+      "region": "부산",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-31",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-09T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T07:20:54.355Z"
+    },
+    {
       "id": "nol:15804",
       "source": "nol",
       "title": "2026 KIM JI WOONG BIRTHDAY PARTY \"WISHLIST\" in SEOUL",
@@ -708,28 +670,6 @@
         }
       ],
       "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15866",
-      "source": "nol",
-      "title": "2026-2027 이영현 콘서트 ＂나의 노래가 필요한 너에게＂ -울림 in 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015969",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015969_p.gif",
-      "venue": "소향씨어터 우리은행홀",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-31",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T07:20:54.355Z"
     },
     {
       "id": "melon:13224",
@@ -994,6 +934,28 @@
         }
       ],
       "firstSeen": "2026-11-04T11:31:41.988Z"
+    },
+    {
+      "id": "nol:15870",
+      "source": "nol",
+      "title": "스티브 갯 BHG Project 블리처 / 헤머 / 갯 내한공연",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016176",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016176_p.gif",
+      "venue": "연세대학교 백주년기념관 콘서트홀",
+      "region": "서울",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2027-01-29",
+      "exclusive": false,
+      "cast": "- 드럼(스티브 갯), 색소폰(마이클 블리처), 하몬드 오르간(댄 헤머) ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-12T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T02:20:36.843Z"
     },
     {
       "id": "melon:13188",
