@@ -1,64 +1,19 @@
 {
-  "updatedAt": "2026-11-06T02:20:36.843Z",
+  "updatedAt": "2026-11-06T09:48:53.219Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 16,
-      "checkedAt": "2026-11-06T02:20:36.843Z"
+      "count": 17,
+      "checkedAt": "2026-11-06T09:48:53.219Z"
     },
     "melon": {
-      "ok": false,
-      "count": 46,
-      "checkedAt": "2026-11-05T15:47:37.029Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 51,
+      "checkedAt": "2026-11-06T09:48:53.219Z"
     }
   },
   "items": [
-    {
-      "id": "nol:15861",
-      "source": "nol",
-      "title": "2026 송년음악회Ⅱ 〈가장 완벽한 엔딩〉 - 하남",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015443",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015443_p.gif",
-      "venue": "하남문화예술회관 대극장",
-      "region": "경기",
-      "genre": "콘서트",
-      "showDates": "2026-12-26",
-      "exclusive": false,
-      "cast": "- 출연진: 뮤지컬배우 박소연, 뮤지컬배우 이지수, 크로스오버그룹 포르테나(Forténa)<br><br>★ 아티스트 캐스팅 등록 가능하면 추가 부탁드립니다.<br>박소연: <a href=\"https://nol.yanolja.com/ticket/meta/artist/%EB%B0%95%EC%86%8C%EC%97%B0-fpResiCG0y1359iJ\">https://nol.yanolja.com/ticket/meta/artist/%EB%B0%95%EC%86%8C%EC%97%B0-fpResiCG0y1359iJ</a><br>이지수: <a href=\"https://nol.yanolja.com/ticket/meta/artist/%EC%9D%B4%EC%A7%80%EC%88%98-fpRgOIaIsKhIs2JC\">https://nol.yanolja.com/ticket/meta/artist/%EC%9D%B4%EC%A7%80%EC%88%98-fpRgOIaIsKhIs2JC</a><br>이동규: <a href=\"https://nol.yanolja.com/ticket/meta/artist/%EC%9D%B4%EB%8F%99%EA%B7%9C-fpReet1exJKAc4kb\">https://nol.yanolja.com/ticket/meta/artist/%EC%9D%B4%EB%8F%99%EA%B7%9C-fpReet1exJKAc4kb</a><br>서영택: <a href=\"https://nol.yanolja.com/ticket/meta/artist/%EC%84%9C%EC%98%81%ED%83%9D-fpRkxBcX9uqfE9Gx\">https://nol.yanolja.com/ticket/meta/artist/%EC%84%9C%EC%98%81%ED%83%9D-fpRkxBcX9uqfE9Gx</a>",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
-      "id": "nol:15859",
-      "source": "nol",
-      "title": "2026 조관우 MUSIC 콘서트 - Blue Christmas (부산)",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016088",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016088_p.gif",
-      "venue": "부산 소향씨어터 우리은행홀",
-      "region": "부산",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "조관우 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
     {
       "id": "melon:13221",
       "source": "melon",
@@ -87,7 +42,7 @@
       "title": "[부산] hoodVibes VOL.1 - 영도 힙합 블록파티",
       "round": null,
       "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13223",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104163658684e8042-6a66-4f9a-9fe9-b4a9a7d85910.jpg/melon/resize/160x225/strip/true",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106164019c3b50c91-0952-4696-b394-2527e540082b.jpg/melon/resize/160x225/strip/true",
       "venue": null,
       "region": null,
       "genre": null,
@@ -102,33 +57,6 @@
         }
       ],
       "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13177",
-      "source": "melon",
-      "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13177",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103011104673f032b0-bc53-4930-8b38-8a3b84c0d878.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "melon:13184",
@@ -273,6 +201,33 @@
       "firstSeen": "2026-10-30T08:32:27.556Z"
     },
     {
+      "id": "melon:13177",
+      "source": "melon",
+      "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13177",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103011104673f032b0-bc53-4930-8b38-8a3b84c0d878.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-11-06T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-11-06T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
+    },
+    {
       "id": "melon:13191",
       "source": "melon",
       "title": "雪国 One Man Tour 2026 \"claras\" in Seoul - with Ghost Bookstore",
@@ -283,7 +238,7 @@
       "region": null,
       "genre": null,
       "showDates": null,
-      "exclusive": false,
+      "exclusive": true,
       "cast": null,
       "opens": [
         {
@@ -337,6 +292,28 @@
         }
       ],
       "firstSeen": "2026-11-02T09:22:26.035Z"
+    },
+    {
+      "id": "nol:15876",
+      "source": "nol",
+      "title": "디어클라우드 연말 콘서트〈26´ Merry Christmas ＆ Farewell〉Week2",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015922",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015922_p.gif",
+      "venue": "서보아트스페이스 보이드홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-25 ~ 2026-12-26",
+      "exclusive": false,
+      "cast": "디어클라우드(dear cloud)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-09T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
     },
     {
       "id": "nol:15831",
@@ -430,6 +407,28 @@
         }
       ],
       "firstSeen": "2026-11-05T07:20:54.355Z"
+    },
+    {
+      "id": "melon:13233",
+      "source": "melon",
+      "title": "Whiteusedsocks 단독공연, SNL",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13233",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261105152404546a85fa-c3b8-48b7-9ce6-d7c85767cec3.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-09T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
     },
     {
       "id": "nol:15804",
@@ -579,6 +578,72 @@
       "firstSeen": "2026-10-29T09:50:46.347Z"
     },
     {
+      "id": "nol:15877",
+      "source": "nol",
+      "title": "2026 〈팬텀싱어 페스티발〉- 인천",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016170",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016170_p.gif",
+      "venue": "인천송도컨벤시아 4홀",
+      "region": "인천",
+      "genre": "콘서트",
+      "showDates": "2026-12-25",
+      "exclusive": false,
+      "cast": "라비던스 - 존노 . 김바울 <br>레떼아모르 -  길병민<br>포르테나 - 이동규 . 오스틴킴 . 서영택 . 김성현 <br>크레즐 - 임형규 . 김수인 <br><br>",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "nol:15878",
+      "source": "nol",
+      "title": "2026 X-MAS SUDDENLY FESTA - 인천",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016199",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016199_p.gif",
+      "venue": "인천송도컨벤시아 4홀",
+      "region": "인천",
+      "genre": "콘서트",
+      "showDates": "2026-12-26",
+      "exclusive": false,
+      "cast": "출연진 -<br>hrtz.wav (하츠웨이브), ASH DA HERO (에쉬 다 히어로), SHIN IN RYU (신인류), Catch The Young (캐치더영)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "melon:13232",
+      "source": "melon",
+      "title": "가을밤해파리",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13232",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106085058e0fb4fe9-d11f-4eb7-9b90-6a518cc7f108.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-10T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
       "id": "melon:13205",
       "source": "melon",
       "title": "베짱이가 나가신다 길을 비켜라 - 숨비 데뷔 6주년 단독공연",
@@ -670,28 +735,6 @@
         }
       ],
       "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "melon:13224",
-      "source": "melon",
-      "title": "손을모아(sonlmor) 단독 콘서트 〈OFF WE GO!〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13224",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104120307fbf7042b-80bf-40e8-b4d5-61a36a498f32.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
     },
     {
       "id": "melon:13219",
@@ -985,6 +1028,28 @@
       "firstSeen": "2026-11-02T19:44:57.465Z"
     },
     {
+      "id": "melon:13229",
+      "source": "melon",
+      "title": "김반월키 단독 콘서트 “다른 겨울에 접어들 무렵”",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13229",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110609310847ee609b-1eda-4d3f-9536-63d504c3838b.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
       "id": "melon:13218",
       "source": "melon",
       "title": "먼데이프로젝트 시즌9 Stardust [LOW X 한성일]",
@@ -1056,6 +1121,28 @@
       "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
+      "id": "melon:13230",
+      "source": "melon",
+      "title": "먼데이프로젝트 IN 라이브클럽 [레토 단독 콘서트]",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13230",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106091007db48dc90-cddd-46ae-8590-5c88e17ef67a.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
       "id": "nol:15725",
       "source": "nol",
       "title": "한로로 (HANRORO) 5th 단독콘서트 [물음표]",
@@ -1100,6 +1187,50 @@
       "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
+      "id": "melon:13235",
+      "source": "melon",
+      "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN SEOUL",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13235",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261105165454430e09da-8b72-4c9a-8789-56ed75fd928a.jpg/melon/resize/160x225/strip/true",
+      "venue": "서울 콘서트",
+      "region": null,
+      "genre": null,
+      "showDates": "서울 콘서트",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "melon:13234",
+      "source": "melon",
+      "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN BUSAN",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13234",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110611334414b43eda-5387-4eca-9edf-c817fa46c9a8.jpg/melon/resize/160x225/strip/true",
+      "venue": "부산 콘서트",
+      "region": null,
+      "genre": null,
+      "showDates": "부산 콘서트",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-20T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
       "id": "nol:15843",
       "source": "nol",
       "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -1113,6 +1244,16 @@
       "exclusive": true,
       "cast": null,
       "opens": [
+        {
+          "label": "국내 멤버십 선예매",
+          "at": "2026-12-03T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "글로벌 멤버십 선예매",
+          "at": "2026-12-07T20:00:00+09:00",
+          "timeKnown": true
+        },
         {
           "label": "일반예매",
           "at": "2026-12-08T20:00:00+09:00",
