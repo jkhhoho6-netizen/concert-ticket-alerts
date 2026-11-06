@@ -1,254 +1,19 @@
 {
-  "updatedAt": "2026-11-06T09:48:53.219Z",
+  "updatedAt": "2026-11-06T17:26:12.311Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 17,
-      "checkedAt": "2026-11-06T09:48:53.219Z"
+      "count": 16,
+      "checkedAt": "2026-11-06T17:26:12.311Z"
     },
     "melon": {
       "ok": true,
-      "count": 51,
-      "checkedAt": "2026-11-06T09:48:53.219Z"
+      "count": 43,
+      "checkedAt": "2026-11-06T17:26:12.311Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13221",
-      "source": "melon",
-      "title": "2026 MUU FANMEETING 〈WELCOME TO MUULAND〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13221",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110411501796d6f057-fb9b-4aa9-9b09-29944177c389.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13223",
-      "source": "melon",
-      "title": "[부산] hoodVibes VOL.1 - 영도 힙합 블록파티",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13223",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106164019c3b50c91-0952-4696-b394-2527e540082b.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13184",
-      "source": "melon",
-      "title": "더 픽스 부산 단독 공연 〈THE FIX: MOLOTOV〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13184",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611020910086e57309f-50e4-49e3-ade5-9421e25f7490.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
-    {
-      "id": "melon:13176",
-      "source": "melon",
-      "title": "첫 마디 프로젝트: 빈스프라우트 단독공연",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13176",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029153934e012415d-942c-4c15-80ac-fd27a2746900.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
-    {
-      "id": "nol:15727",
-      "source": "nol",
-      "title": "2026 JUNG DAE HYUN FAN-CONCERT [CRITICAL] in SEOUL",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015073",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015073_p.gif",
-      "venue": "현대카드 언더스테이지",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-28 ~ 2026-11-29",
-      "exclusive": true,
-      "cast": "정대현",
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-10-29T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-06T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-26T15:08:14.206Z"
-    },
-    {
-      "id": "melon:13225",
-      "source": "melon",
-      "title": "제85회 라이브 클럽 데이",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13225",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104152843df30c429-c91f-4dea-805c-91533f9ddd54.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13196",
-      "source": "melon",
-      "title": "2026 다양성 연말 단독 공연 〈SNOWBALL : The Present〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13196",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611022155519a3ec3f5-b553-4819-a7ac-edea379f1757.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "nol:15805",
-      "source": "nol",
-      "title": "2026 성시경 연말 콘서트 〈성시경〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015783",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015783_p.gif",
-      "venue": "KSPO DOME",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-31 ~ 2027-01-03",
-      "exclusive": true,
-      "cast": "- 출연진: 성시경",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "melon:13177",
-      "source": "melon",
-      "title": "구름 [MENDING PROCESS] 발매기념 단독공연",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13177",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103011104673f032b0-bc53-4930-8b38-8a3b84c0d878.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-11-06T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
-    {
-      "id": "melon:13191",
-      "source": "melon",
-      "title": "雪国 One Man Tour 2026 \"claras\" in Seoul - with Ghost Bookstore",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13191",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610301030431bfb91f9-5f23-42b4-a62c-6a69e9fc063e.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
     {
       "id": "nol:15818",
       "source": "nol",
@@ -999,6 +764,33 @@
         }
       ],
       "firstSeen": "2026-11-06T02:20:36.843Z"
+    },
+    {
+      "id": "nol:15805",
+      "source": "nol",
+      "title": "2026 성시경 연말 콘서트 〈성시경〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015783",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015783_p.gif",
+      "venue": "KSPO DOME",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-31 ~ 2027-01-03",
+      "exclusive": true,
+      "cast": "- 출연진: 성시경",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-06T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T08:32:27.556Z"
     },
     {
       "id": "melon:13188",
