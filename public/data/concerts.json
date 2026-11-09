@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T01:56:19.021Z",
+  "updatedAt": "2026-11-09T09:39:55.889Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 16,
-      "checkedAt": "2026-11-09T01:56:19.021Z"
+      "count": 19,
+      "checkedAt": "2026-11-09T09:39:55.889Z"
     },
     "melon": {
       "ok": false,
@@ -15,94 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "nol:15818",
-      "source": "nol",
-      "title": "홍경민 콘서트 - 12월의 매달리스트 콘서트",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015773",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015773_p.gif",
-      "venue": "구름아래소극장",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-05",
-      "exclusive": false,
-      "cast": "출연 : 홍경민",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-09T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T01:47:18.183Z"
-    },
-    {
-      "id": "nol:15829",
-      "source": "nol",
-      "title": "디어클라우드 연말 콘서트〈26´ Merry Christmas ＆ Farewell〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015921",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015921_p.gif",
-      "venue": "서보아트스페이스 보이드홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-19 ~ 2026-12-26",
-      "exclusive": true,
-      "cast": "디어클라우드(dear cloud)",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-09T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T09:22:26.035Z"
-    },
-    {
-      "id": "nol:15876",
-      "source": "nol",
-      "title": "디어클라우드 연말 콘서트〈26´ Merry Christmas ＆ Farewell〉Week2",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015922",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015922_p.gif",
-      "venue": "서보아트스페이스 보이드홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-25 ~ 2026-12-26",
-      "exclusive": true,
-      "cast": "디어클라우드(dear cloud)",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-09T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-06T09:48:53.219Z"
-    },
-    {
-      "id": "nol:15831",
-      "source": "nol",
-      "title": "연정(YEONJEONG) 단독공연 '사랑에 춤추고'",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015940",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015940_p.gif",
-      "venue": "XSCALA(엑스칼라)",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-19",
-      "exclusive": true,
-      "cast": "연정",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-09T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T09:22:26.035Z"
-    },
     {
       "id": "melon:13222",
       "source": "melon",
@@ -794,6 +706,28 @@
       "firstSeen": "2026-10-30T08:32:27.556Z"
     },
     {
+      "id": "nol:15886",
+      "source": "nol",
+      "title": "2026 신혜선 팬미팅 〈SUNNY INSIDE〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015892",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015892_p.gif",
+      "venue": "동덕여대 백주년기념관",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2026-12-12",
+      "exclusive": true,
+      "cast": "신혜선",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
       "id": "melon:13188",
       "source": "melon",
       "title": "2026-27 FLARE U FANCON TOUR: Where U’RE in SEOUL",
@@ -885,6 +819,28 @@
         }
       ],
       "firstSeen": "2026-11-05T15:47:37.029Z"
+    },
+    {
+      "id": "nol:15891",
+      "source": "nol",
+      "title": "베니 그린 솔로 피아노 2026 - 대구",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016297",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016297_p.gif",
+      "venue": "베리어스 재즈클럽",
+      "region": "대구",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": "피아노: 베니 그린(Benny Green)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-13T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
       "id": "melon:13178",
@@ -980,6 +936,28 @@
       "firstSeen": "2026-10-23T22:36:22.265Z"
     },
     {
+      "id": "nol:15888",
+      "source": "nol",
+      "title": "2026 정우 단독 공연 〈Ding! : D_ing〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016018",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016018_p.gif",
+      "venue": "NOL 씨어터 합정 동양생명홀",
+      "region": "서울",
+      "genre": "콘서트 - 인디",
+      "showDates": "2026-12-19 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": "정우",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-13T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
       "id": "melon:13235",
       "source": "melon",
       "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN SEOUL",
@@ -1002,6 +980,77 @@
       "firstSeen": "2026-11-06T09:48:53.219Z"
     },
     {
+      "id": "nol:15889",
+      "source": "nol",
+      "title": "2027 XLOV TOUR 〈L:(O)v or (X)〉 IN SEOUL",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016164",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016164_p.gif",
+      "venue": "성신여대 운정그린캠퍼스",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-09 ~ 2027-01-10",
+      "exclusive": true,
+      "cast": "XLOV",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-16T17:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
+      "id": "nol:15892",
+      "source": "nol",
+      "title": "g0nny : MINTPAPER 20th SPECIAL LIVE",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016263",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016263_p.gif",
+      "venue": "XSCALA(엑스칼라)",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-20",
+      "exclusive": true,
+      "cast": "g0nny",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-16T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
+      "id": "nol:15893",
+      "source": "nol",
+      "title": "THE SOLUTIONS(솔루션스) 콘서트 ‘Hyperscope’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016345",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016345_p.gif",
+      "venue": "NOL 씨어터 합정 동양생명홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-16 ~ 2027-01-17",
+      "exclusive": true,
+      "cast": "THE SOLUTIONS(솔루션스)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-16T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
       "id": "melon:13234",
       "source": "melon",
       "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN BUSAN",
@@ -1022,6 +1071,33 @@
         }
       ],
       "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "nol:15887",
+      "source": "nol",
+      "title": "2026 XIA Musical Concert with Orchestra Vol.9",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016270",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016270_p.gif",
+      "venue": "티켓링크 라이브 아레나",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": false,
+      "cast": "김준수",
+      "opens": [
+        {
+          "label": "멤버십 선예매",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-25T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
       "id": "nol:15843",
