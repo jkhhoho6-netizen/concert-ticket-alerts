@@ -1,16 +1,17 @@
 {
-  "updatedAt": "2026-11-08T22:27:02.929Z",
+  "updatedAt": "2026-11-09T01:56:19.021Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 16,
-      "checkedAt": "2026-11-08T22:27:02.929Z"
+      "checkedAt": "2026-11-09T01:56:19.021Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 43,
-      "checkedAt": "2026-11-08T22:27:02.929Z"
+      "checkedAt": "2026-11-08T22:27:02.929Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
@@ -69,7 +70,7 @@
       "region": "서울",
       "genre": "콘서트",
       "showDates": "2026-12-25 ~ 2026-12-26",
-      "exclusive": false,
+      "exclusive": true,
       "cast": "디어클라우드(dear cloud)",
       "opens": [
         {
