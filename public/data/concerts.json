@@ -1,206 +1,19 @@
 {
-  "updatedAt": "2026-11-09T20:39:58.197Z",
+  "updatedAt": "2026-11-10T03:29:16.922Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 18,
-      "checkedAt": "2026-11-09T20:39:58.197Z"
+      "count": 16,
+      "checkedAt": "2026-11-10T03:29:16.922Z"
     },
     "melon": {
-      "ok": false,
-      "count": 43,
-      "checkedAt": "2026-11-08T22:27:02.929Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 48,
+      "checkedAt": "2026-11-10T03:29:16.922Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13222",
-      "source": "melon",
-      "title": "가오가이 첫번째 단독 콘서트 [노모]",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13222",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611041510495a718091-35bb-4396-ba14-892ffbdd77d5.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-09T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13186",
-      "source": "melon",
-      "title": "mono sapa(모노사파) presents : 反骨(반골)",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13186",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/202610301044567faf1c0b-fed9-47c1-8870-eba6b086702c.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-09T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
-    {
-      "id": "melon:13233",
-      "source": "melon",
-      "title": "Whiteusedsocks 단독공연, SNL",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13233",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261105152404546a85fa-c3b8-48b7-9ce6-d7c85767cec3.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-09T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-06T09:48:53.219Z"
-    },
-    {
-      "id": "melon:13226",
-      "source": "melon",
-      "title": "숲세권 라이브 : 정수민 쇼케이스 〈Home〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13226",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104162511a9c02cd3-f5d8-41ea-8597-f76d01e2ecf9.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-09T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13190",
-      "source": "melon",
-      "title": "TONE STUDIO LIVE 〈모우들〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13190",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/2026103010251748f8e036-0201-47b2-b652-e92eba5518eb.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-09T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
-    },
-    {
-      "id": "nol:15863",
-      "source": "nol",
-      "title": "시노래콘서트 ＂읽고 걷고 노래하고＂ 제7화",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015974",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015974_p.gif",
-      "venue": "구름아래소극장",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-27",
-      "exclusive": false,
-      "cast": "출연; 윤미진(사회, 노래), 김미혜(시인), 이지상(가수, 시인), 안복진(가수)<br>연주; 김은옥(건반), 명준호(베이스기타), 이지영(첼로), 최성은(바이올린), 강미경(클라리넷)",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-10T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T07:20:54.355Z"
-    },
-    {
-      "id": "nol:15868",
-      "source": "nol",
-      "title": "2026 김종서 크리스마스 콘서트 - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016157",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016157_p.gif",
-      "venue": "서강대 메리홀 대극장",
-      "region": "서울",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2026-12-25",
-      "exclusive": false,
-      "cast": "출연 : 김종서  ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-10T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T07:20:54.355Z"
-    },
-    {
-      "id": "nol:15793",
-      "source": "nol",
-      "title": "캣츠아이 첫 단독 내한공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015604",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015604_p.gif",
-      "venue": "KSPO DOME",
-      "region": "서울",
-      "genre": "콘서트 - 내한공연",
-      "showDates": "2027-02-04",
-      "exclusive": true,
-      "cast": "캣츠아이 (KATSEYE)",
-      "opens": [
-        {
-          "label": "위버스 선예매",
-          "at": "2026-11-10T12:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "아티스트 코드 선예매",
-          "at": "2026-11-11T12:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
     {
       "id": "nol:15877",
       "source": "nol",
@@ -388,6 +201,28 @@
       "firstSeen": "2026-11-05T07:20:54.355Z"
     },
     {
+      "id": "melon:13224",
+      "source": "melon",
+      "title": "손을모아(sonlmor) 단독 콘서트 〈OFF WE GO!〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13224",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104120307fbf7042b-80bf-40e8-b4d5-61a36a498f32.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-10T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-05T15:47:37.029Z"
+    },
+    {
       "id": "melon:13219",
       "source": "melon",
       "title": "예람 정규 3집 발매 기념 공연 〈흐르는 물결 하나〉",
@@ -498,6 +333,38 @@
       "firstSeen": "2026-11-04T11:31:41.988Z"
     },
     {
+      "id": "nol:15793",
+      "source": "nol",
+      "title": "캣츠아이 첫 단독 내한공연",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26015604",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015604_p.gif",
+      "venue": "KSPO DOME",
+      "region": "서울",
+      "genre": "콘서트 - 내한공연",
+      "showDates": "2027-02-04",
+      "exclusive": true,
+      "cast": "캣츠아이 (KATSEYE)",
+      "opens": [
+        {
+          "label": "위버스 선예매",
+          "at": "2026-11-10T12:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "아티스트 코드 선예매",
+          "at": "2026-11-11T12:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-12T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-29T09:50:46.347Z"
+    },
+    {
       "id": "melon:13208",
       "source": "melon",
       "title": "윤지영 [The Myth Of Sisyphus] a few weeks passed",
@@ -562,6 +429,50 @@
         }
       ],
       "firstSeen": "2026-11-05T15:47:37.029Z"
+    },
+    {
+      "id": "melon:13242",
+      "source": "melon",
+      "title": "2026 LEE MIN WOO CONCERT “MERRY M” 〈Home in love〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13242",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110613462941a596e7-6236-4af7-b4d0-2cf956d2eb13.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-11T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "melon:13241",
+      "source": "melon",
+      "title": "그룹사운드 세로 단독공연 〈REC:AP〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13241",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106113818ce1397ea-1bd6-45f7-87c8-9dae01161463.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-11T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "melon:13202",
@@ -772,13 +683,13 @@
       "firstSeen": "2026-11-05T15:47:37.029Z"
     },
     {
-      "id": "melon:13227",
+      "id": "melon:13243",
       "source": "melon",
-      "title": "HYUKOH [33] TOUR - SEOUL",
+      "title": "숲세권 라이브 : 오르내림 & 률 단독 공연 〈해바라기〉",
       "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13227",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261105181538bc8e3528-c310-463f-ac06-b454e5d75d4c.jpg/melon/resize/160x225/strip/true",
-      "venue": "올림픽공원 올림픽홀",
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13243",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106161758c3faa800-be0d-4134-856c-336bd97a3dad.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
       "region": null,
       "genre": null,
       "showDates": null,
@@ -791,7 +702,29 @@
           "timeKnown": true
         }
       ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "melon:13245",
+      "source": "melon",
+      "title": "TUNE UP STAGE : 2026 blah 단독공연 ‘집들이’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13245",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106113501e6ae68f5-9e7e-44eb-90d6-b20e10edddc2.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "nol:15891",
@@ -931,6 +864,28 @@
       "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
+      "id": "melon:13244",
+      "source": "melon",
+      "title": "2026 옥상달빛 연말 콘서트 〈수고했어 올해도〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13244",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106175155b564206a-390e-430b-81c0-308ffe611529.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
       "id": "melon:13235",
       "source": "melon",
       "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN SEOUL",
@@ -951,6 +906,28 @@
         }
       ],
       "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "melon:13246",
+      "source": "melon",
+      "title": "Painted by Blue : 블루화 단독 콘서트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13246",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110616150004308d9c-c921-47e6-919c-134a8ad89dae.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "nol:15889",
@@ -1002,6 +979,50 @@
       "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
+      "id": "melon:13248",
+      "source": "melon",
+      "title": "찬민 EP 발매기념 단독공연 「呼吸法 호흡법」",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13248",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110911291902e95c6d-d439-48b4-bbc1-189dc2d4ec46.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-16T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "melon:13251",
+      "source": "melon",
+      "title": "컬러풀 스테이지 #25 오륜구동, 플릿, 렘피스트",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13251",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110911512602a935af-f261-4f5c-abce-61464d2654d5.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-16T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
       "id": "nol:15893",
       "source": "nol",
       "title": "THE SOLUTIONS(솔루션스) 콘서트 ‘Hyperscope’",
@@ -1022,6 +1043,55 @@
         }
       ],
       "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
+      "id": "melon:13239",
+      "source": "melon",
+      "title": "닐로 연말 단독 콘서트 ‘Our Season : Stay’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13239",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106104755d02e95d4-c0e5-46cc-840d-b82bb30968e4.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-16T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "melon:13240",
+      "source": "melon",
+      "title": "2026 KEN CONCERT ‘1X5 : ALL OF ME’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13240",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106175206fe87a4ee-b209-4f9d-baef-2721c02a2551.png/melon/resize/160x225/strip/true",
+      "venue": "XSCALA(엑스칼라)",
+      "region": null,
+      "genre": null,
+      "showDates": "2026년 12월 24일(목) 7:30 PM (KST) 2026년 12월 25일(금) 5 PM (KST)",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "melon:13234",
