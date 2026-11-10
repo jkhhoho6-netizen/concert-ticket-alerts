@@ -1,195 +1,19 @@
 {
-  "updatedAt": "2026-11-10T11:42:37.172Z",
+  "updatedAt": "2026-11-10T19:40:09.470Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 15,
-      "checkedAt": "2026-11-10T11:42:37.172Z"
+      "checkedAt": "2026-11-10T19:40:09.470Z"
     },
     "melon": {
       "ok": true,
-      "count": 54,
-      "checkedAt": "2026-11-10T11:42:37.172Z"
+      "count": 43,
+      "checkedAt": "2026-11-10T19:40:09.470Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13232",
-      "source": "melon",
-      "title": "가을밤해파리",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13232",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106085058e0fb4fe9-d11f-4eb7-9b90-6a518cc7f108.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T17:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-06T09:48:53.219Z"
-    },
-    {
-      "id": "melon:13205",
-      "source": "melon",
-      "title": "베짱이가 나가신다 길을 비켜라 - 숨비 데뷔 6주년 단독공연",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13205",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110310135473fedd93-bd0b-4a5b-8378-f5b45fd88124.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
-      "id": "melon:13211",
-      "source": "melon",
-      "title": "터치드(TOUCHED) 단독 콘서트 ‘HIGHLIGHT Ⅴ’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13211",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611031122102ec707b3-8c61-4791-8c84-b5ac5aaa8676.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
-      "id": "melon:13256",
-      "source": "melon",
-      "title": "2026 욘욘 단독공연 (YonYon 1st ONEMAN in Seoul)",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13256",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026111009405531355612-dec1-49e1-9b40-168453851c23.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-10T11:42:37.172Z"
-    },
-    {
-      "id": "melon:13224",
-      "source": "melon",
-      "title": "손을모아(sonlmor) 단독 콘서트 〈OFF WE GO!〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13224",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104120307fbf7042b-80bf-40e8-b4d5-61a36a498f32.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13219",
-      "source": "melon",
-      "title": "예람 정규 3집 발매 기념 공연 〈흐르는 물결 하나〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13219",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611041132521fe9deae-f7d3-488d-b56a-eb917450e9e1.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-05T15:47:37.029Z"
-    },
-    {
-      "id": "melon:13193",
-      "source": "melon",
-      "title": "초록불꽃소년단 연말 단독 콘서트 : Dive Or Die",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13193",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110210353096ddc607-0926-4d8c-88b5-72e0831937cd.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
-    {
-      "id": "melon:13198",
-      "source": "melon",
-      "title": "TONE STUDIO LIVE 〈안다영〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13198",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110211245967780f44-1ce5-4a61-ba68-7e4cacf1f5b6.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
-    },
     {
       "id": "melon:13207",
       "source": "melon",
@@ -443,28 +267,6 @@
       "firstSeen": "2026-10-29T16:53:17.223Z"
     },
     {
-      "id": "melon:13213",
-      "source": "melon",
-      "title": "Hathaw9y Universe ep.5 with Verycoybunny 부산",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13213",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261103163657bb45b86c-4ed5-4e03-8558-8792c90584ee.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-11T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-04T11:31:41.988Z"
-    },
-    {
       "id": "nol:15870",
       "source": "nol",
       "title": "스티브 갯 BHG Project 블리처 / 헤머 / 갯 내한공연",
@@ -556,33 +358,6 @@
         }
       ],
       "firstSeen": "2026-11-09T09:39:55.889Z"
-    },
-    {
-      "id": "melon:13197",
-      "source": "melon",
-      "title": "2026 영탁 단독 콘서트 “TAK SHOW5” - 부산",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13197",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261102153820641a2e02-eae3-4cea-b115-6c58d06b5d84.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-11-10T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-12T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-03T10:00:17.711Z"
     },
     {
       "id": "melon:13188",
@@ -764,33 +539,6 @@
         }
       ],
       "firstSeen": "2026-11-09T09:39:55.889Z"
-    },
-    {
-      "id": "melon:13178",
-      "source": "melon",
-      "title": "구름 단독공연 : [What If]- vol.2",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13178",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029104131e92f55a1-02ec-4e79-8221-50eca54a6224.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-11-13T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-11-13T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "melon:13230",
