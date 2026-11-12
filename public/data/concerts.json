@@ -1,73 +1,20 @@
 {
-  "updatedAt": "2026-11-11T15:35:50.436Z",
+  "updatedAt": "2026-11-12T03:19:48.788Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 22,
-      "checkedAt": "2026-11-11T15:35:50.436Z"
+      "count": 21,
+      "checkedAt": "2026-11-12T03:19:48.788Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 37,
-      "checkedAt": "2026-11-11T15:35:50.436Z"
+      "checkedAt": "2026-11-11T15:35:50.436Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15870",
-      "source": "nol",
-      "title": "스티브 갯 BHG Project 블리처 / 헤머 / 갯 내한공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016176",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016176_p.gif",
-      "venue": "연세대학교 백주년기념관 콘서트홀",
-      "region": "서울",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2027-01-29",
-      "exclusive": false,
-      "cast": "- 드럼(스티브 갯), 색소폰(마이클 블리처), 하몬드 오르간(댄 헤머) ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-06T02:20:36.843Z"
-    },
-    {
-      "id": "nol:15793",
-      "source": "nol",
-      "title": "캣츠아이 첫 단독 내한공연",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015604",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015604_p.gif",
-      "venue": "KSPO DOME",
-      "region": "서울",
-      "genre": "콘서트 - 내한공연",
-      "showDates": "2027-02-04",
-      "exclusive": true,
-      "cast": "캣츠아이 (KATSEYE)",
-      "opens": [
-        {
-          "label": "위버스 선예매",
-          "at": "2026-11-10T12:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "아티스트 코드 선예매",
-          "at": "2026-11-11T12:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-29T09:50:46.347Z"
-    },
     {
       "id": "nol:15917",
       "source": "nol",
@@ -796,6 +743,28 @@
         }
       ],
       "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "nol:15918",
+      "source": "nol",
+      "title": "2026 V.O.S 전국투어 콘서트 ＂ 제 2회 동창회 ＂ - 대전",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016534",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016534_p.gif",
+      "venue": "대전우송예술화관",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-24",
+      "exclusive": false,
+      "cast": "박지헌, 김경록, 최현준",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-17T10:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T03:19:48.788Z"
     },
     {
       "id": "melon:13258",
