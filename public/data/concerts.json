@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T03:19:48.788Z",
+  "updatedAt": "2026-11-12T11:47:32.209Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 21,
-      "checkedAt": "2026-11-12T03:19:48.788Z"
+      "count": 22,
+      "checkedAt": "2026-11-12T11:47:32.209Z"
     },
     "melon": {
       "ok": false,
@@ -15,28 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "nol:15917",
-      "source": "nol",
-      "title": "Meet the Artist : 카운터테너 이동규 〈Embraceable You〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016393",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016393_p.gif",
-      "venue": "오디오가이 스튜디오",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-11-28",
-      "exclusive": false,
-      "cast": "카운터테너 이동규, 피아니스트 손소향",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T15:35:50.436Z"
-    },
     {
       "id": "melon:13254",
       "source": "melon",
@@ -58,82 +36,6 @@
         }
       ],
       "firstSeen": "2026-11-10T11:42:37.172Z"
-    },
-    {
-      "id": "nol:15805",
-      "source": "nol",
-      "title": "2026 성시경 연말 콘서트 〈성시경〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015783",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015783_p.gif",
-      "venue": "KSPO DOME",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-31 ~ 2027-01-03",
-      "exclusive": true,
-      "cast": "- 출연진: 성시경",
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-06T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T08:32:27.556Z"
-    },
-    {
-      "id": "nol:15886",
-      "source": "nol",
-      "title": "2026 신혜선 팬미팅 〈SUNNY INSIDE〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015892",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015892_p.gif",
-      "venue": "동덕여대 백주년기념관",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-12",
-      "exclusive": true,
-      "cast": "신혜선",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-09T09:39:55.889Z"
-    },
-    {
-      "id": "melon:13188",
-      "source": "melon",
-      "title": "2026-27 FLARE U FANCON TOUR: Where U’RE in SEOUL",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13188",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104111722d90a1bab-6f44-49dc-ba1d-44d341df58f7.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-11-12T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-13T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-02T19:44:57.465Z"
     },
     {
       "id": "melon:13229",
@@ -515,6 +417,33 @@
       "firstSeen": "2026-11-06T09:48:53.219Z"
     },
     {
+      "id": "melon:13188",
+      "source": "melon",
+      "title": "2026-27 FLARE U FANCON TOUR: Where U’RE in SEOUL",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13188",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261104111722d90a1bab-6f44-49dc-ba1d-44d341df58f7.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-11-12T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-02T19:44:57.465Z"
+    },
+    {
       "id": "melon:13252",
       "source": "melon",
       "title": "숲세권 라이브 : 예함 단독 공연 〈흰 코스모스〉",
@@ -579,6 +508,50 @@
         }
       ],
       "firstSeen": "2026-11-11T07:09:09.001Z"
+    },
+    {
+      "id": "nol:15924",
+      "source": "nol",
+      "title": "2027 김장훈 전국투어 콘서트 : 원맨쇼 - 청주",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016387",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016387_p.gif",
+      "venue": "청주예술의전당 대공연장",
+      "region": "충북",
+      "genre": "콘서트",
+      "showDates": "2027-02-20",
+      "exclusive": false,
+      "cast": "김장훈",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-16T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T11:47:32.209Z"
+    },
+    {
+      "id": "nol:15921",
+      "source": "nol",
+      "title": "이은미 콘서트 with 오케스트라 : 추억이 핀다 - 고양",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016532",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016532_p.gif",
+      "venue": "고양아람누리 아람극장",
+      "region": "경기",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-03-27",
+      "exclusive": false,
+      "cast": "이은미",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-16T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
       "id": "nol:15889",
@@ -892,6 +865,28 @@
       "firstSeen": "2026-11-11T07:09:09.001Z"
     },
     {
+      "id": "nol:15925",
+      "source": "nol",
+      "title": "78LIVE - Mombrimz",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016434",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016434_p.gif",
+      "venue": "엠피엠지 2층 LOUNGE M.",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-10",
+      "exclusive": true,
+      "cast": "Mombrimz",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-19T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T11:47:32.209Z"
+    },
+    {
       "id": "nol:15904",
       "source": "nol",
       "title": "2027 손태진 전국투어 콘서트 'Bon Voyage' - 서울",
@@ -971,6 +966,28 @@
         }
       ],
       "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "nol:15926",
+      "source": "nol",
+      "title": "NEMESIS Nightfall to Snowfall Tour 2026 - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016398",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016398_p.gif",
+      "venue": "웨스트브릿지라이브홀",
+      "region": "서울",
+      "genre": "콘서트 - 인디",
+      "showDates": "2026-12-19",
+      "exclusive": false,
+      "cast": "네미시스",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
       "id": "melon:13234",
