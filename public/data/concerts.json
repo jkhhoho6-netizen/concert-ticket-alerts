@@ -1,68 +1,20 @@
 {
-  "updatedAt": "2026-11-13T07:51:13.608Z",
+  "updatedAt": "2026-11-13T16:13:10.866Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 29,
-      "checkedAt": "2026-11-13T07:51:13.608Z"
+      "count": 26,
+      "checkedAt": "2026-11-13T16:13:10.866Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 45,
-      "checkedAt": "2026-11-13T07:51:13.608Z"
+      "checkedAt": "2026-11-13T07:51:13.608Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15912",
-      "source": "nol",
-      "title": "78LIVE - kwacamolee",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016414",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016414_p.gif",
-      "venue": "엠피엠지 2층 LOUNGE M.",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-11-26",
-      "exclusive": true,
-      "cast": "kwacamolee",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-13T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T15:35:50.436Z"
-    },
-    {
-      "id": "melon:13178",
-      "source": "melon",
-      "title": "구름 단독공연 : [What If]- vol.2",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13178",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029104131e92f55a1-02ec-4e79-8221-50eca54a6224.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈 1차",
-          "at": "2026-11-13T18:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈 2차",
-          "at": "2026-11-13T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-30T15:18:39.492Z"
-    },
     {
       "id": "melon:13262",
       "source": "melon",
@@ -130,28 +82,6 @@
       "firstSeen": "2026-11-12T19:50:57.803Z"
     },
     {
-      "id": "nol:15725",
-      "source": "nol",
-      "title": "한로로 (HANRORO) 5th 단독콘서트 [물음표]",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26015537",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015537_p.gif",
-      "venue": "네이버 아레나 앳 인스파이어((구) 인스파이어 아레나)",
-      "region": "인천",
-      "genre": "콘서트",
-      "showDates": "2027-01-02 ~ 2027-01-03",
-      "exclusive": false,
-      "cast": "한로로",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-13T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-10-23T14:59:17.442Z"
-    },
-    {
       "id": "melon:13130",
       "source": "melon",
       "title": "한로로 5th 단독콘서트 [물음표]",
@@ -172,50 +102,6 @@
         }
       ],
       "firstSeen": "2026-10-23T22:36:22.265Z"
-    },
-    {
-      "id": "nol:15911",
-      "source": "nol",
-      "title": "RAPBEAT 2027 - BLIND GENERAL TICKET",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016256",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016256_p.gif",
-      "venue": "서울 일대(추후 공개)",
-      "region": "서울",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2027-04-09 ~ 2027-04-11",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-13T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T15:35:50.436Z"
-    },
-    {
-      "id": "nol:15888",
-      "source": "nol",
-      "title": "2026 정우 단독 공연 〈Ding! : D_ing〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016018",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016018_p.gif",
-      "venue": "NOL 씨어터 합정 동양생명홀",
-      "region": "서울",
-      "genre": "콘서트 - 인디",
-      "showDates": "2026-12-19 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": "정우",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-13T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
       "id": "melon:13244",
@@ -240,28 +126,6 @@
       "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
-      "id": "nol:15898",
-      "source": "nol",
-      "title": "2026 Danny’s Day〈뎅근마켓〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016286",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016286_p.gif",
-      "venue": "코엑스아티움 우리은행홀",
-      "region": "서울",
-      "genre": "콘서트 - 팬미팅",
-      "showDates": "2026-12-19 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": "데니안",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-13T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-10T11:42:37.172Z"
-    },
-    {
       "id": "melon:13235",
       "source": "melon",
       "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN SEOUL",
@@ -282,6 +146,33 @@
         }
       ],
       "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "melon:13178",
+      "source": "melon",
+      "title": "구름 단독공연 : [What If]- vol.2",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13178",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/10/20261029104131e92f55a1-02ec-4e79-8221-50eca54a6224.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈 1차",
+          "at": "2026-11-13T18:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈 2차",
+          "at": "2026-11-13T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-10-30T15:18:39.492Z"
     },
     {
       "id": "melon:13252",
@@ -715,6 +606,28 @@
         }
       ],
       "firstSeen": "2026-11-13T07:51:13.608Z"
+    },
+    {
+      "id": "nol:15932",
+      "source": "nol",
+      "title": "78LIVE - 이파란",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016593",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016593_p.gif",
+      "venue": "엠피엠지 2층 LOUNGE M.",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-03",
+      "exclusive": true,
+      "cast": "이파란",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-17T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T16:13:10.866Z"
     },
     {
       "id": "melon:13268",
@@ -1376,6 +1289,33 @@
         }
       ],
       "firstSeen": "2026-11-13T07:51:13.608Z"
+    },
+    {
+      "id": "nol:15945",
+      "source": "nol",
+      "title": "2027 SUPER JUNIOR-D＆E CONCERT",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016656",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016656_p.gif",
+      "venue": "네이버 아레나 앳 인스파이어",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-09 ~ 2027-01-10",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-30T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-12-02T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T16:13:10.866Z"
     },
     {
       "id": "nol:15843",
