@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-12T19:50:57.803Z",
+  "updatedAt": "2026-11-13T01:01:17.480Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 22,
-      "checkedAt": "2026-11-12T19:50:57.803Z"
+      "count": 25,
+      "checkedAt": "2026-11-13T01:01:17.480Z"
     },
     "melon": {
       "ok": true,
       "count": 39,
-      "checkedAt": "2026-11-12T19:50:57.803Z"
+      "checkedAt": "2026-11-13T01:01:17.480Z"
     }
   },
   "items": [
@@ -673,6 +673,50 @@
       "firstSeen": "2026-11-12T19:50:57.803Z"
     },
     {
+      "id": "nol:15933",
+      "source": "nol",
+      "title": "유성은 재즈콘서트",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016568",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016568_p.gif",
+      "venue": "거암아트홀",
+      "region": "서울",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2026-11-26",
+      "exclusive": false,
+      "cast": "피아니스트 유성은<br>보컬 이선경<br>트럼펫 정성호<br>기타 전재욱<br>베이스 송우영<br>색소폰 고호정<br>드럼 조규원",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-17T09:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T01:01:17.480Z"
+    },
+    {
+      "id": "nol:15939",
+      "source": "nol",
+      "title": "[부산] 버라이어티 판타지아",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016521",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016521_p.gif",
+      "venue": "부산시민회관 소극장",
+      "region": "부산",
+      "genre": "콘서트 - 페스티벌",
+      "showDates": "2026-12-25 ~ 2026-12-26",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-17T10:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T01:01:17.480Z"
+    },
+    {
       "id": "nol:15918",
       "source": "nol",
       "title": "2026 V.O.S 전국투어 콘서트 ＂ 제 2회 동창회 ＂ - 대전",
@@ -1031,6 +1075,28 @@
         }
       ],
       "firstSeen": "2026-11-12T11:47:32.209Z"
+    },
+    {
+      "id": "nol:15936",
+      "source": "nol",
+      "title": "2026 시흥아트센터 송년콘서트 〈THE GRAND FINALE〉 - 시흥",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016152",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016152_p.gif",
+      "venue": "시흥아트센터 대공연장",
+      "region": "경기",
+      "genre": "콘서트",
+      "showDates": "2026-12-29",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T01:01:17.480Z"
     },
     {
       "id": "melon:13234",
