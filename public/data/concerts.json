@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-16T00:57:34.232Z",
+  "updatedAt": "2026-11-16T07:54:24.449Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 28,
-      "checkedAt": "2026-11-16T00:57:34.232Z"
+      "count": 30,
+      "checkedAt": "2026-11-16T07:54:24.449Z"
     },
     "melon": {
       "ok": false,
@@ -15,72 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "nol:15905",
-      "source": "nol",
-      "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016463",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016463_p.gif",
-      "venue": "우송대학교 우송예술회관",
-      "region": "대전",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-02",
-      "exclusive": false,
-      "cast": "출연 : 변진섭",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-16T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T07:09:09.001Z"
-    },
-    {
-      "id": "nol:15924",
-      "source": "nol",
-      "title": "2027 김장훈 전국투어 콘서트 : 원맨쇼 - 청주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016387",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016387_p.gif",
-      "venue": "청주예술의전당 대공연장",
-      "region": "충북",
-      "genre": "콘서트",
-      "showDates": "2027-02-20",
-      "exclusive": false,
-      "cast": "김장훈",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-16T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T11:47:32.209Z"
-    },
-    {
-      "id": "nol:15921",
-      "source": "nol",
-      "title": "이은미 콘서트 with 오케스트라 : 추억이 핀다 - 고양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016532",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016532_p.gif",
-      "venue": "고양아람누리 아람극장",
-      "region": "경기",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-03-27",
-      "exclusive": false,
-      "cast": "이은미",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-16T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T11:47:32.209Z"
-    },
     {
       "id": "nol:15889",
       "source": "nol",
@@ -696,6 +630,28 @@
       "firstSeen": "2026-11-13T07:51:13.608Z"
     },
     {
+      "id": "nol:15967",
+      "source": "nol",
+      "title": "2026어반자카파 콘서트〈크리스마스〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016692",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016692_p.gif",
+      "venue": "블루스퀘어 우리WON뱅킹홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-24 ~ 2026-12-26",
+      "exclusive": true,
+      "cast": "-출연 : 어반자카파〈조현아,권순일,박용인〉",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-18T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T07:54:24.449Z"
+    },
+    {
       "id": "melon:13259",
       "source": "melon",
       "title": "먼데이프로젝트 시즌9 : 스키틀즈 단독 공연 ‘소음대피소’",
@@ -738,6 +694,50 @@
         }
       ],
       "firstSeen": "2026-11-12T19:50:57.803Z"
+    },
+    {
+      "id": "nol:15964",
+      "source": "nol",
+      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016717",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016717_p.gif",
+      "venue": "서강대학교 메리홀 대극장 ",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-24",
+      "exclusive": false,
+      "cast": "출연 : 이상우 ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-19T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T07:54:24.449Z"
+    },
+    {
+      "id": "nol:15959",
+      "source": "nol",
+      "title": "GIVE 드림콘서트 1990",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016700",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016700_p.gif",
+      "venue": "KBS 아레나 ",
+      "region": "서울",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2026-12-20",
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-19T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T07:54:24.449Z"
     },
     {
       "id": "nol:15925",
@@ -931,6 +931,28 @@
       "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
+      "id": "nol:15962",
+      "source": "nol",
+      "title": "탁재훈쇼-탁월한 쇼맨 -부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016703",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016703_p.gif",
+      "venue": "벡스코 오디토리움",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2027-01-09",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T07:54:24.449Z"
+    },
+    {
       "id": "nol:15961",
       "source": "nol",
       "title": "ON.NOTE 1st 단독 콘서트",
@@ -1077,8 +1099,13 @@
       "cast": "김준수",
       "opens": [
         {
-          "label": "멤버십 선예매",
+          "label": "국내 선예매",
           "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "글로벌 선예매",
+          "at": "2026-11-24T20:00:00+09:00",
           "timeKnown": true
         },
         {
@@ -1120,6 +1147,28 @@
         }
       ],
       "firstSeen": "2026-11-13T07:51:13.608Z"
+    },
+    {
+      "id": "nol:15948",
+      "source": "nol",
+      "title": "2027 손태진 전국투어 콘서트 ‘Bon Voyage’ - 부산",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016685",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016685_p.gif",
+      "venue": "소향씨어터 우리은행홀",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2027-01-23 ~ 2027-01-24",
+      "exclusive": false,
+      "cast": "손태진",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-24T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T07:54:24.449Z"
     },
     {
       "id": "nol:15945",
