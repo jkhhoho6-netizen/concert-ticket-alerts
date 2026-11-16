@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T08:25:15.965Z",
+  "updatedAt": "2026-11-16T00:57:34.232Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 26,
-      "checkedAt": "2026-11-15T08:25:15.965Z"
+      "count": 28,
+      "checkedAt": "2026-11-16T00:57:34.232Z"
     },
     "melon": {
       "ok": false,
@@ -931,6 +931,28 @@
       "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
+      "id": "nol:15961",
+      "source": "nol",
+      "title": "ON.NOTE 1st 단독 콘서트",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016710",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016710_p.gif",
+      "venue": "카야 스테이지",
+      "region": "서울",
+      "genre": "콘서트 - 인디",
+      "showDates": "2026-12-13",
+      "exclusive": false,
+      "cast": "- 노래/기타 정민준, 드럼 박태원, 베이스기타 김지호, 기타 김윤성",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T00:57:34.232Z"
+    },
+    {
       "id": "nol:15936",
       "source": "nol",
       "title": "2026 시흥아트센터 송년콘서트 〈THE GRAND FINALE〉 - 시흥",
@@ -1017,6 +1039,28 @@
         }
       ],
       "firstSeen": "2026-11-06T09:48:53.219Z"
+    },
+    {
+      "id": "nol:15958",
+      "source": "nol",
+      "title": "오직목소리 2026 연말공연 ＂목소리만＂",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016693",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016693_p.gif",
+      "venue": "신촌 201P",
+      "region": "서울",
+      "genre": "콘서트 - 인디",
+      "showDates": "2026-12-26",
+      "exclusive": false,
+      "cast": "출연: 오직목소리",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-23T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T00:57:34.232Z"
     },
     {
       "id": "nol:15887",
