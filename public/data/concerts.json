@@ -1,85 +1,20 @@
 {
-  "updatedAt": "2026-11-16T18:24:35.302Z",
+  "updatedAt": "2026-11-17T02:03:50.208Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 30,
-      "checkedAt": "2026-11-16T18:24:35.302Z"
+      "count": 26,
+      "checkedAt": "2026-11-17T02:03:50.208Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 40,
-      "checkedAt": "2026-11-16T18:24:35.302Z"
+      "checkedAt": "2026-11-16T18:24:35.302Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15933",
-      "source": "nol",
-      "title": "유성은 재즈콘서트",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016568",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016568_p.gif",
-      "venue": "거암아트홀",
-      "region": "서울",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2026-11-26",
-      "exclusive": false,
-      "cast": "피아니스트 유성은<br>보컬 이선경<br>트럼펫 정성호<br>기타 전재욱<br>베이스 송우영<br>색소폰 고호정<br>드럼 조규원",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-17T09:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-13T01:01:17.480Z"
-    },
-    {
-      "id": "nol:15939",
-      "source": "nol",
-      "title": "[부산] 버라이어티 판타지아",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016521",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016521_p.gif",
-      "venue": "부산시민회관 소극장",
-      "region": "부산",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2026-12-25 ~ 2026-12-26",
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-17T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-13T01:01:17.480Z"
-    },
-    {
-      "id": "nol:15918",
-      "source": "nol",
-      "title": "2026 V.O.S 전국투어 콘서트 ＂ 제 2회 동창회 ＂ - 대전",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016534",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016534_p.gif",
-      "venue": "대전우송예술화관",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-24",
-      "exclusive": false,
-      "cast": "박지헌, 김경록, 최현준",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-17T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T03:19:48.788Z"
-    },
     {
       "id": "nol:15943",
       "source": "nol",
@@ -624,28 +559,6 @@
       "showDates": "2026-12-24",
       "exclusive": false,
       "cast": "출연 : 이상우 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-19T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T07:54:24.449Z"
-    },
-    {
-      "id": "nol:15959",
-      "source": "nol",
-      "title": "GIVE 드림콘서트 1990",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016700",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016700_p.gif",
-      "venue": "KBS 아레나 ",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-20",
-      "exclusive": false,
-      "cast": null,
       "opens": [
         {
           "label": "일반예매",
