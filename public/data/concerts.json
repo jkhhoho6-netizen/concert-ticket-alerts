@@ -1,157 +1,19 @@
 {
-  "updatedAt": "2026-11-17T19:47:02.689Z",
+  "updatedAt": "2026-11-18T02:22:22.395Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 25,
-      "checkedAt": "2026-11-17T19:47:02.689Z"
+      "count": 24,
+      "checkedAt": "2026-11-18T02:22:22.395Z"
     },
     "melon": {
-      "ok": false,
-      "count": 48,
-      "checkedAt": "2026-11-17T10:37:49.622Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "ok": true,
+      "count": 45,
+      "checkedAt": "2026-11-18T02:22:22.395Z"
     }
   },
   "items": [
-    {
-      "id": "melon:13268",
-      "source": "melon",
-      "title": "9와 숫자들 연말공연 「상상 and the Numbers」",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13268",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026111117470188a2d024-04c9-4204-b989-f6b48d0c263a.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-17T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T19:50:57.803Z"
-    },
-    {
-      "id": "melon:13258",
-      "source": "melon",
-      "title": "이지함 단독 콘서트 〈YEAR-END PARTY 2026〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13258",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611110929370b3267e6-15b0-4078-92d1-bec8f0da420e.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-17T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T07:09:09.001Z"
-    },
-    {
-      "id": "melon:13255",
-      "source": "melon",
-      "title": "지수연 단독 콘서트 [종이더미 : Pile Of Paper]",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13255",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026110916253482860a97-ce08-4a29-832b-f7a3575fc2a2.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-17T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-10T11:42:37.172Z"
-    },
-    {
-      "id": "nol:15969",
-      "source": "nol",
-      "title": "Tori Kelly - God Must Really Love Me World Tour",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016644",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016644_p.gif",
-      "venue": "블루스퀘어 우리WON뱅킹홀",
-      "region": "서울",
-      "genre": "콘서트 - 내한공연",
-      "showDates": "2027-05-31",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "아티스트 선예매",
-          "at": "2026-11-18T10:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-20T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T18:24:35.302Z"
-    },
-    {
-      "id": "nol:15944",
-      "source": "nol",
-      "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌 2.7 : 타임머신 - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016654",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016654_p.gif",
-      "venue": "대구보건대학교 인당아트홀   ",
-      "region": "대구",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-03",
-      "exclusive": false,
-      "cast": "출연 : 변진섭 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-18T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-13T07:51:13.608Z"
-    },
-    {
-      "id": "nol:15942",
-      "source": "nol",
-      "title": "2027 이상우 전국투어 콘서트 : 청기백기 - 대구",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016643",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016643_p.gif",
-      "venue": "대구보건대학교 인당아트홀   ",
-      "region": "대구",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-03",
-      "exclusive": false,
-      "cast": "출연 : 이상우 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-18T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-13T07:51:13.608Z"
-    },
     {
       "id": "melon:13312",
       "source": "melon",
@@ -290,38 +152,6 @@
       "firstSeen": "2026-11-13T07:51:13.608Z"
     },
     {
-      "id": "melon:13260",
-      "source": "melon",
-      "title": "2026-27 SUPER JUNIOR-83z FANCON TOUR [1983] in BUSAN",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13260",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261110183228b993289f-64d4-48ac-a857-9c8a67574099.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매 1차",
-          "at": "2026-11-17T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "선예매 2차",
-          "at": "2026-11-18T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-19T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T07:09:09.001Z"
-    },
-    {
       "id": "nol:15967",
       "source": "nol",
       "title": "2026어반자카파 콘서트〈크리스마스〉",
@@ -364,6 +194,28 @@
         }
       ],
       "firstSeen": "2026-11-11T07:09:09.001Z"
+    },
+    {
+      "id": "melon:13265",
+      "source": "melon",
+      "title": "먼데이프로젝트 IN 라이브클럽 [전지선 단독 콘서트]",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13265",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611111351187aead06f-3423-4dcb-ac67-c73dc96a1400.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": false,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-18T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-12T19:50:57.803Z"
     },
     {
       "id": "melon:13308",
@@ -579,6 +431,55 @@
       "firstSeen": "2026-11-10T11:42:37.172Z"
     },
     {
+      "id": "melon:13240",
+      "source": "melon",
+      "title": "2026 KEN CONCERT ‘1X5 : ALL OF ME’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13240",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106175206fe87a4ee-b209-4f9d-baef-2721c02a2551.png/melon/resize/160x225/strip/true",
+      "venue": "XSCALA(엑스칼라)",
+      "region": null,
+      "genre": null,
+      "showDates": "2026년 12월 24일(목) 7:30 PM (KST) 2026년 12월 25일(금) 5 PM (KST)",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
+    },
+    {
+      "id": "melon:13291",
+      "source": "melon",
+      "title": "2026 LUAMEL (루아멜) 연말 단독 공연 〈Journey : Oasis〉",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13291",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611161348039d9ba3fc-a6b9-42e0-8793-b2d3434cf6d7.png/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T18:24:35.302Z"
+    },
+    {
       "id": "melon:13277",
       "source": "melon",
       "title": "리메이 단독 콘서트 [ROAD TO ROCKSTAR Vol.3 : ONE]",
@@ -753,6 +654,33 @@
         }
       ],
       "firstSeen": "2026-11-16T00:57:34.232Z"
+    },
+    {
+      "id": "nol:15969",
+      "source": "nol",
+      "title": "Tori Kelly - God Must Really Love Me World Tour",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016644",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016644_p.gif",
+      "venue": "블루스퀘어 우리WON뱅킹홀",
+      "region": "서울",
+      "genre": "콘서트 - 내한공연",
+      "showDates": "2027-05-31",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "아티스트 선예매",
+          "at": "2026-11-18T10:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T18:24:35.302Z"
     },
     {
       "id": "nol:15936",
@@ -1250,6 +1178,28 @@
         }
       ],
       "firstSeen": "2026-11-17T10:37:49.622Z"
+    },
+    {
+      "id": "nol:15985",
+      "source": "nol",
+      "title": "토시키 소에지마 밴드 최초 내한공연 2027",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016824",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016824_p.gif",
+      "venue": "마포아트센터 아트홀 맥",
+      "region": "서울",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2027-01-23",
+      "exclusive": false,
+      "cast": "Toshiki Soejima (Guitar)<br>Nahokimama (Trumpet / Guitar/ Keyboard / Vocals)<br>Yoshitaka Utano (Keyboard)<br>Yoshua Yoshida (Bass)<br>Wataru Tanaka (Drums)<br>",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-25T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-18T02:22:22.395Z"
     },
     {
       "id": "melon:13313",
