@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-18T19:22:21.182Z",
+  "updatedAt": "2026-11-19T01:27:21.648Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 22,
-      "checkedAt": "2026-11-18T19:22:21.182Z"
+      "count": 23,
+      "checkedAt": "2026-11-19T01:27:21.648Z"
     },
     "melon": {
       "ok": true,
       "count": 45,
-      "checkedAt": "2026-11-18T19:22:21.182Z"
+      "checkedAt": "2026-11-19T01:27:21.648Z"
     }
   },
   "items": [
@@ -874,6 +874,28 @@
       "firstSeen": "2026-11-09T09:39:55.889Z"
     },
     {
+      "id": "nol:15990",
+      "source": "nol",
+      "title": "체리필터 연말 콘서트 〈COME TO THE CHERRYFILTER〉 : 2026 Mapo Winter Edition",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016277",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016277_p.gif",
+      "venue": "마포아트센터 아트홀맥",
+      "region": "서울",
+      "genre": "콘서트 - Rock/메탈",
+      "showDates": "2026-12-26 ~ 2026-12-27",
+      "exclusive": false,
+      "cast": "출연진 : 체리필터",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-19T01:27:21.648Z"
+    },
+    {
       "id": "melon:13280",
       "source": "melon",
       "title": "EXO-KASE Fancon Tour - SILENT CITY in SEOUL",
@@ -1106,7 +1128,7 @@
     {
       "id": "melon:13318",
       "source": "melon",
-      "title": "먼데이프로젝트 IN 라이브클럽 [siho 단독 콘서트]",
+      "title": "먼데이프로젝트 IN 라이브클럽 [Siho (시호) 단독 콘서트]",
       "round": null,
       "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13318",
       "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611181318550e850e96-1a53-466c-8ccc-872511eb369c.jpg/melon/resize/160x225/strip/true",
