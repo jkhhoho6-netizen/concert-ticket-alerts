@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T09:28:16.021Z",
+  "updatedAt": "2026-11-19T18:38:29.885Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 24,
-      "checkedAt": "2026-11-19T09:28:16.021Z"
+      "count": 23,
+      "checkedAt": "2026-11-19T18:38:29.885Z"
     },
     "melon": {
       "ok": false,
@@ -80,87 +80,6 @@
         }
       ],
       "firstSeen": "2026-11-18T10:40:06.450Z"
-    },
-    {
-      "id": "nol:15904",
-      "source": "nol",
-      "title": "2027 손태진 전국투어 콘서트 'Bon Voyage' - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016461",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016461_p.gif",
-      "venue": "올림픽공원 올림픽홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2027-01-09 ~ 2027-01-10",
-      "exclusive": false,
-      "cast": "손태진",
-      "opens": [
-        {
-          "label": "팬카페 선예매",
-          "at": "2026-11-19T19:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-11T07:09:09.001Z"
-    },
-    {
-      "id": "nol:15899",
-      "source": "nol",
-      "title": "2026 DAY6 Special Concert ‘The Present’",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016335",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016335_p.gif",
-      "venue": "KSPO DOME",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-18 ~ 2026-12-20",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-19T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-20T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-10T11:42:37.172Z"
-    },
-    {
-      "id": "melon:13240",
-      "source": "melon",
-      "title": "2026 KEN CONCERT ‘1X5 : ALL OF ME’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13240",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106175206fe87a4ee-b209-4f9d-baef-2721c02a2551.png/melon/resize/160x225/strip/true",
-      "venue": "XSCALA(엑스칼라)",
-      "region": null,
-      "genre": null,
-      "showDates": "2026년 12월 24일(목) 7:30 PM (KST) 2026년 12월 25일(금) 5 PM (KST)",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매",
-          "at": "2026-11-19T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "melon:13291",
@@ -293,28 +212,6 @@
         }
       ],
       "firstSeen": "2026-11-16T18:24:35.302Z"
-    },
-    {
-      "id": "nol:15926",
-      "source": "nol",
-      "title": "NEMESIS Nightfall to Snowfall Tour 2026 - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016398",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016398_p.gif",
-      "venue": "웨스트브릿지라이브홀",
-      "region": "서울",
-      "genre": "콘서트 - 인디",
-      "showDates": "2026-12-19",
-      "exclusive": false,
-      "cast": "네미시스",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-19T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
       "id": "melon:13312",
@@ -613,6 +510,33 @@
       "firstSeen": "2026-11-17T10:37:49.622Z"
     },
     {
+      "id": "nol:15899",
+      "source": "nol",
+      "title": "2026 DAY6 Special Concert ‘The Present’",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016335",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016335_p.gif",
+      "venue": "KSPO DOME",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-20T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T11:42:37.172Z"
+    },
+    {
       "id": "melon:13234",
       "source": "melon",
       "title": "2026 UmYull 3rd Concert 〈Dear Cheska〉 IN BUSAN",
@@ -723,6 +647,33 @@
       "firstSeen": "2026-11-19T09:28:16.021Z"
     },
     {
+      "id": "nol:15904",
+      "source": "nol",
+      "title": "2027 손태진 전국투어 콘서트 'Bon Voyage' - 서울",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016461",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016461_p.gif",
+      "venue": "올림픽공원 올림픽홀",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-09 ~ 2027-01-10",
+      "exclusive": false,
+      "cast": "손태진",
+      "opens": [
+        {
+          "label": "팬카페 선예매",
+          "at": "2026-11-19T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-23T19:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-11T07:09:09.001Z"
+    },
+    {
       "id": "nol:15960",
       "source": "nol",
       "title": "2027 FLY TO THE SKY TOUR : Ⅱ - 수원",
@@ -787,6 +738,33 @@
         }
       ],
       "firstSeen": "2026-11-18T10:40:06.450Z"
+    },
+    {
+      "id": "melon:13240",
+      "source": "melon",
+      "title": "2026 KEN CONCERT ‘1X5 : ALL OF ME’",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13240",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261106175206fe87a4ee-b209-4f9d-baef-2721c02a2551.png/melon/resize/160x225/strip/true",
+      "venue": "XSCALA(엑스칼라)",
+      "region": null,
+      "genre": null,
+      "showDates": "2026년 12월 24일(목) 7:30 PM (KST) 2026년 12월 25일(금) 5 PM (KST)",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매",
+          "at": "2026-11-19T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-10T03:29:16.922Z"
     },
     {
       "id": "melon:13294",
