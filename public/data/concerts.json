@@ -1,41 +1,20 @@
 {
-  "updatedAt": "2026-11-19T01:27:21.648Z",
+  "updatedAt": "2026-11-19T09:28:16.021Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 23,
-      "checkedAt": "2026-11-19T01:27:21.648Z"
+      "count": 24,
+      "checkedAt": "2026-11-19T09:28:16.021Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 45,
-      "checkedAt": "2026-11-19T01:27:21.648Z"
+      "checkedAt": "2026-11-19T01:27:21.648Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:15964",
-      "source": "nol",
-      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 서울",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016717",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016717_p.gif",
-      "venue": "서강대학교 메리홀 대극장 ",
-      "region": "서울",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2026-12-24",
-      "exclusive": false,
-      "cast": "출연 : 이상우 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-19T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T07:54:24.449Z"
-    },
     {
       "id": "melon:13320",
       "source": "melon",
@@ -57,28 +36,6 @@
         }
       ],
       "firstSeen": "2026-11-18T19:22:21.182Z"
-    },
-    {
-      "id": "nol:15925",
-      "source": "nol",
-      "title": "78LIVE - Mombrimz",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016434",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016434_p.gif",
-      "venue": "엠피엠지 2층 LOUNGE M.",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-10",
-      "exclusive": true,
-      "cast": "Mombrimz",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-19T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-12T11:47:32.209Z"
     },
     {
       "id": "melon:13323",
@@ -744,6 +701,28 @@
       "firstSeen": "2026-11-16T00:57:34.232Z"
     },
     {
+      "id": "nol:16000",
+      "source": "nol",
+      "title": "이은미 콘서트 with 오케스트라 : 추억이 핀다 - 인천",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016855",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016855_p.gif",
+      "venue": "인천문화예술회관",
+      "region": "인천",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-01-31",
+      "exclusive": false,
+      "cast": "이은미",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-23T14:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-19T09:28:16.021Z"
+    },
+    {
       "id": "nol:15960",
       "source": "nol",
       "title": "2027 FLY TO THE SKY TOUR : Ⅱ - 수원",
@@ -1148,6 +1127,28 @@
       "firstSeen": "2026-11-18T10:40:06.450Z"
     },
     {
+      "id": "nol:16001",
+      "source": "nol",
+      "title": "웬디 완더 내한공연 (THE HOUSE OF Wendy Wander 2026-2027 ASIA TOUR IN SEOUL)",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016869",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016869_p.gif",
+      "venue": "CJ아지트 광흥창",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-16",
+      "exclusive": true,
+      "cast": "Wendy Wander(웬디 완더)",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-26T18:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-19T09:28:16.021Z"
+    },
+    {
       "id": "melon:13313",
       "source": "melon",
       "title": "ASIAN KUNG-FU GENERATION 30th Anniversary Extra Show in Korea",
@@ -1222,6 +1223,33 @@
         }
       ],
       "firstSeen": "2026-11-13T16:13:10.866Z"
+    },
+    {
+      "id": "nol:15999",
+      "source": "nol",
+      "title": "2026 PLAVE World Tour [KEEP IT MANIC] Encore",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016784",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016784_p.gif",
+      "venue": "고척스카이돔",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-22 ~ 2027-01-24",
+      "exclusive": true,
+      "cast": "PLAVE(플레이브)",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-12-01T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-12-04T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-19T09:28:16.021Z"
     },
     {
       "id": "melon:13319",
