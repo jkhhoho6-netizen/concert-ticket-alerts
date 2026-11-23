@@ -1,68 +1,20 @@
 {
-  "updatedAt": "2026-11-22T22:27:17.941Z",
+  "updatedAt": "2026-11-23T03:04:06.215Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 23,
-      "checkedAt": "2026-11-22T22:27:17.941Z"
+      "count": 22,
+      "checkedAt": "2026-11-23T03:04:06.215Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 36,
-      "checkedAt": "2026-11-22T22:27:17.941Z"
+      "checkedAt": "2026-11-22T22:27:17.941Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "nol:16011",
-      "source": "nol",
-      "title": "2027 FIRST MUSIC STATION - 고양",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016908",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016908_p.gif",
-      "venue": "일산 킨텍스(KINTEX)",
-      "region": "경기",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2027-01-30 ~ 2027-01-31",
-      "exclusive": true,
-      "cast": "1차 라인업: 극동아시아타이거즈, The Poles, 라쿠나, 리도어, 산보, 솔루션스, AxMxP, FT아일랜드, KARDI, 퓨처피어클럽",
-      "opens": [
-        {
-          "label": "얼리버드 티켓오픈",
-          "at": "2026-11-23T12:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-12-02T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T09:07:54.252Z"
-    },
-    {
-      "id": "nol:15958",
-      "source": "nol",
-      "title": "오직목소리 2026 연말공연 ＂목소리만＂",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016693",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016693_p.gif",
-      "venue": "신촌 201P",
-      "region": "서울",
-      "genre": "콘서트 - 인디",
-      "showDates": "2026-12-26",
-      "exclusive": false,
-      "cast": "출연: 오직목소리",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-23T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T00:57:34.232Z"
-    },
     {
       "id": "nol:16000",
       "source": "nol",
@@ -757,6 +709,28 @@
         }
       ],
       "firstSeen": "2026-11-18T10:40:06.450Z"
+    },
+    {
+      "id": "nol:16020",
+      "source": "nol",
+      "title": "조항조 전국투어 콘서트 : 생각 - 평택",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016999",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016999_p.gif",
+      "venue": "평택아트센터 대공연장",
+      "region": "경기",
+      "genre": "콘서트 - 발라드",
+      "showDates": "2027-01-10",
+      "exclusive": false,
+      "cast": "출연 : 조항조",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-26T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-23T03:04:06.215Z"
     },
     {
       "id": "nol:16001",
