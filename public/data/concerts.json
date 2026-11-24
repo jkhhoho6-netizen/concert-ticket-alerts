@@ -1,195 +1,20 @@
 {
-  "updatedAt": "2026-11-23T12:21:43.734Z",
+  "updatedAt": "2026-11-24T00:18:48.212Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 16,
-      "checkedAt": "2026-11-23T12:21:43.734Z"
+      "checkedAt": "2026-11-24T00:18:48.212Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 45,
-      "checkedAt": "2026-11-23T12:21:43.734Z"
+      "checkedAt": "2026-11-23T12:21:43.734Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "melon:13334",
-      "source": "melon",
-      "title": "코쿤쇼 (KOKOON SHOW)",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13334",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261119155825b6d7196a-a289-4f15-b480-ea469036fb7e.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T14:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T01:13:32.725Z"
-    },
-    {
-      "id": "melon:13342",
-      "source": "melon",
-      "title": "브릭홀X굿카펜터즈 ‘ZERO Vol.0’",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13342",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611201401461ce9284f-9b3f-4d2d-92f8-463c744fe51d.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T17:59:06.110Z"
-    },
-    {
-      "id": "melon:13337",
-      "source": "melon",
-      "title": "DJ Soulscape Curated 30 RAKUNELAMA",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13337",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611190959100ea0229c-b6c1-4e7d-bdff-7cff58c031c9.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T17:59:06.110Z"
-    },
-    {
-      "id": "melon:13354",
-      "source": "melon",
-      "title": "SCHOOL NIGHT SEOUL",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13354",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611230843343adc9024-abae-4926-a175-e2a6905d48a4.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-23T12:21:43.734Z"
-    },
-    {
-      "id": "melon:13343",
-      "source": "melon",
-      "title": "‘NEXT CHAPTER : BEST CHAPTER’ Section 12. Love always the answer",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13343",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261120112345be60a63c-d1ec-4815-8961-d39c5f9ce99d.png/melon/resize/160x225/strip/true",
-      "venue": "서울여자대학교 대강당",
-      "region": null,
-      "genre": null,
-      "showDates": "2026.12.26(토) 오후 5시",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T17:59:06.110Z"
-    },
-    {
-      "id": "melon:13329",
-      "source": "melon",
-      "title": "[오픈일 변경] Vel.R 기획공연:HANZ 단독공연'화답(花答)'",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13329",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261120131407c6fc1acb-c1c1-493b-a7c5-286ffcc18eb7.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T17:59:06.110Z"
-    },
-    {
-      "id": "melon:13317",
-      "source": "melon",
-      "title": "2026 전기뱀장어 연말공연 : 풀카운트",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13317",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261118151522254afe95-7e01-41cf-af44-4fee3d104542.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-18T10:40:06.450Z"
-    },
-    {
-      "id": "melon:13298",
-      "source": "melon",
-      "title": "TONE STUDIO LIVE 〈비공정(BØJEONG)〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13298",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026111317471147c6614b-a222-4ef5-ae9c-f7afcfb3113a.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T18:24:35.302Z"
-    },
     {
       "id": "nol:16014",
       "source": "nol",
