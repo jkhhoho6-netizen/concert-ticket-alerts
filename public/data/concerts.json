@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T00:18:48.212Z",
+  "updatedAt": "2026-11-24T10:22:31.086Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 16,
-      "checkedAt": "2026-11-24T00:18:48.212Z"
+      "count": 18,
+      "checkedAt": "2026-11-24T10:22:31.086Z"
     },
     "melon": {
       "ok": false,
@@ -15,28 +15,6 @@
     }
   },
   "items": [
-    {
-      "id": "nol:16014",
-      "source": "nol",
-      "title": "2026 김준수 콘서트 〈준수한 판 : 출도〉",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016916",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016916_p.gif",
-      "venue": "월드케이팝센터",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-30",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-24T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T09:07:54.252Z"
-    },
     {
       "id": "melon:13330",
       "source": "melon",
@@ -58,28 +36,6 @@
         }
       ],
       "firstSeen": "2026-11-20T01:13:32.725Z"
-    },
-    {
-      "id": "nol:15948",
-      "source": "nol",
-      "title": "2027 손태진 전국투어 콘서트 'Bon Voyage' - 부산",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016685",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016685_p.gif",
-      "venue": "소향씨어터 우리은행홀",
-      "region": "부산",
-      "genre": "콘서트",
-      "showDates": "2027-01-23 ~ 2027-01-24",
-      "exclusive": false,
-      "cast": "손태진",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-24T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T07:54:24.449Z"
     },
     {
       "id": "melon:13350",
@@ -288,6 +244,28 @@
       "firstSeen": "2026-11-20T09:07:54.252Z"
     },
     {
+      "id": "nol:16027",
+      "source": "nol",
+      "title": "박남정 전국투어 콘서트 : The Original SuperStar - 충주",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016943",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016943_p.gif",
+      "venue": "호암예술관",
+      "region": "충북",
+      "genre": "콘서트 - 재즈/블루스",
+      "showDates": "2027-01-30",
+      "exclusive": false,
+      "cast": "출연 : 박남정 ",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-25T11:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-24T10:22:31.086Z"
+    },
+    {
       "id": "nol:15985",
       "source": "nol",
       "title": "토시키 소에지마 밴드 최초 내한공연 2027",
@@ -308,6 +286,28 @@
         }
       ],
       "firstSeen": "2026-11-18T02:22:22.395Z"
+    },
+    {
+      "id": "nol:16035",
+      "source": "nol",
+      "title": "2027 FIRST MUSIC STATION - 고양",
+      "round": "추가티켓오픈",
+      "url": "https://nol.yanolja.com/ticket/products/26016908",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016908_p.gif",
+      "venue": "일산 킨텍스(KINTEX)",
+      "region": "경기",
+      "genre": "콘서트 - 페스티벌",
+      "showDates": "2027-01-30 ~ 2027-01-31",
+      "exclusive": true,
+      "cast": "1차 라인업: 극동아시아타이거즈, The Poles, 라쿠나, 리도어, 산보, 솔루션스, AxMxP, FT아일랜드, KARDI, 퓨처피어클럽",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-25T12:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-24T10:22:31.086Z"
     },
     {
       "id": "nol:15991",
@@ -468,8 +468,8 @@
       "source": "nol",
       "title": "웬디 완더 내한공연 (THE HOUSE OF Wendy Wander 2026-2027 ASIA TOUR IN SEOUL)",
       "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016869",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016869_p.gif",
+      "url": "https://nol.yanolja.com/ticket/products/26017055",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26017055_p.gif",
       "venue": "CJ아지트 광흥창",
       "region": "서울",
       "genre": "콘서트",
@@ -716,6 +716,33 @@
       "firstSeen": "2026-11-16T18:24:35.302Z"
     },
     {
+      "id": "nol:16026",
+      "source": "nol",
+      "title": "2027 라포엠 단독콘서트 〈LA POEM SYMPHONY〉",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/P0004954",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/P0/P0004954_p.gif",
+      "venue": "세종문화회관 대극장",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2027-01-02 ~ 2027-01-03",
+      "exclusive": false,
+      "cast": "라포엠",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-30T19:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-12-03T17:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-24T10:22:31.086Z"
+    },
+    {
       "id": "nol:15945",
       "source": "nol",
       "title": "2027 SUPER JUNIOR-D＆E CONCERT",
@@ -866,6 +893,33 @@
         }
       ],
       "firstSeen": "2026-11-18T10:40:06.450Z"
+    },
+    {
+      "id": "nol:16033",
+      "source": "nol",
+      "title": "iKON FAN CONCERT in SEOUL -FOUREVER HOMECOMING-",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26017099",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26017099_p.gif",
+      "venue": "세종대학교 대양홀",
+      "region": "서울",
+      "genre": "콘서트 - 팬미팅",
+      "showDates": "2027-01-09 ~ 2027-01-10",
+      "exclusive": true,
+      "cast": "iKON(JAY, BOBBY, SONG, CHAN)",
+      "opens": [
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-12-02T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-12-07T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-24T10:22:31.086Z"
     },
     {
       "id": "nol:15843",
