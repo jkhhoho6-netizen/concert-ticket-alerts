@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T10:22:31.086Z",
+  "updatedAt": "2026-11-24T20:51:32.768Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 18,
-      "checkedAt": "2026-11-24T10:22:31.086Z"
+      "checkedAt": "2026-11-24T20:51:32.768Z"
     },
     "melon": {
       "ok": false,
       "count": 45,
       "checkedAt": "2026-11-23T12:21:43.734Z",
-      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
+      "error": "fetch failed"
     }
   },
   "items": [
@@ -80,102 +80,6 @@
         }
       ],
       "firstSeen": "2026-11-17T10:37:49.622Z"
-    },
-    {
-      "id": "melon:13294",
-      "source": "melon",
-      "title": "2026 THE BOYZ CONCERT : ZENERATION III",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13294",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026111315220611104a2f-2804-457c-8cc6-74ee876d870d.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매 1차",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "선예매 2차",
-          "at": "2026-11-24T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-25T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-16T18:24:35.302Z"
-    },
-    {
-      "id": "nol:15887",
-      "source": "nol",
-      "title": "2026 XIA Musical Concert with Orchestra Vol.9",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016270",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016270_p.gif",
-      "venue": "티켓링크 라이브 아레나",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2026-12-18 ~ 2026-12-20",
-      "exclusive": false,
-      "cast": "김준수",
-      "opens": [
-        {
-          "label": "국내 선예매",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "글로벌 선예매",
-          "at": "2026-11-24T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-09T09:39:55.889Z"
-    },
-    {
-      "id": "melon:13280",
-      "source": "melon",
-      "title": "EXO-KASE Fancon Tour - SILENT CITY in SEOUL",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13280",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261117111017bed31199-1083-495f-8e07-b736e7a2fe9c.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "선예매 1차",
-          "at": "2026-11-23T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "선예매 2차",
-          "at": "2026-11-24T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-25T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-13T07:51:13.608Z"
     },
     {
       "id": "melon:13311",
@@ -420,6 +324,70 @@
       "firstSeen": "2026-11-18T19:22:21.182Z"
     },
     {
+      "id": "melon:13294",
+      "source": "melon",
+      "title": "2026 THE BOYZ CONCERT : ZENERATION III",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13294",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026111315220611104a2f-2804-457c-8cc6-74ee876d870d.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매 1차",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "선예매 2차",
+          "at": "2026-11-24T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-25T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-16T18:24:35.302Z"
+    },
+    {
+      "id": "nol:15887",
+      "source": "nol",
+      "title": "2026 XIA Musical Concert with Orchestra Vol.9",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016270",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016270_p.gif",
+      "venue": "티켓링크 라이브 아레나",
+      "region": "서울",
+      "genre": "콘서트",
+      "showDates": "2026-12-18 ~ 2026-12-20",
+      "exclusive": false,
+      "cast": "김준수",
+      "opens": [
+        {
+          "label": "국내 선예매",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "글로벌 선예매",
+          "at": "2026-11-24T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-25T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-09T09:39:55.889Z"
+    },
+    {
       "id": "melon:13318",
       "source": "melon",
       "title": "먼데이프로젝트 IN 라이브클럽 [Siho (시호) 단독 콘서트]",
@@ -440,6 +408,38 @@
         }
       ],
       "firstSeen": "2026-11-18T10:40:06.450Z"
+    },
+    {
+      "id": "melon:13280",
+      "source": "melon",
+      "title": "EXO-KASE Fancon Tour - SILENT CITY in SEOUL",
+      "round": null,
+      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13280",
+      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261117111017bed31199-1083-495f-8e07-b736e7a2fe9c.jpg/melon/resize/160x225/strip/true",
+      "venue": null,
+      "region": null,
+      "genre": null,
+      "showDates": null,
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "선예매 1차",
+          "at": "2026-11-23T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "선예매 2차",
+          "at": "2026-11-24T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "티켓오픈",
+          "at": "2026-11-25T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-13T07:51:13.608Z"
     },
     {
       "id": "nol:16020",
