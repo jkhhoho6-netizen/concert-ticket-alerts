@@ -1,240 +1,20 @@
 {
-  "updatedAt": "2026-11-24T20:51:32.768Z",
+  "updatedAt": "2026-11-25T04:06:35.493Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
-      "count": 18,
-      "checkedAt": "2026-11-24T20:51:32.768Z"
+      "count": 13,
+      "checkedAt": "2026-11-25T04:06:35.493Z"
     },
     "melon": {
       "ok": false,
       "count": 45,
       "checkedAt": "2026-11-23T12:21:43.734Z",
-      "error": "fetch failed"
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "melon:13330",
-      "source": "melon",
-      "title": "새빛 첫 번째 단독콘서트 〈은하회랑〉 with 무지개여자예술학원",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13330",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261118121825e2d54483-a7bb-4ada-aaea-74a2bc4bdff3.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-24T18:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T01:13:32.725Z"
-    },
-    {
-      "id": "melon:13350",
-      "source": "melon",
-      "title": "언플러그드 & 우주파 : 대동단결 페스타",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13350",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611201638547dc85f97-f8f3-403c-ba0c-44319bddb46e.jpg/melon/resize/160x225/strip/true",
-      "venue": "제주 우주파",
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-24T19:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-23T12:21:43.734Z"
-    },
-    {
-      "id": "melon:13309",
-      "source": "melon",
-      "title": "2026 박소은 연말 단독 공연 〈일기: 어디에도 속하고 싶지 않은 마음〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13309",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611161510174a4f7c81-321c-46a8-a2b4-451fee089895.png/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-24T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-17T10:37:49.622Z"
-    },
-    {
-      "id": "melon:13311",
-      "source": "melon",
-      "title": "TONE STUDIO LIVE 〈Kangziwon〉",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13311",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261116104305625c01a9-07f1-41b4-85e0-166671cf6302.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-24T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-17T10:37:49.622Z"
-    },
-    {
-      "id": "nol:16016",
-      "source": "nol",
-      "title": "2027 권인하 N'SONZ 콘서트 : '추구미가 권인하' - 충주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016948",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016948_p.gif",
-      "venue": "호암예술관   ",
-      "region": "충북",
-      "genre": "콘서트 - 발라드",
-      "showDates": "2027-01-31",
-      "exclusive": false,
-      "cast": "출연 : 권인하 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T09:07:54.252Z"
-    },
-    {
-      "id": "nol:16012",
-      "source": "nol",
-      "title": "2027 김정민 전국투어 : 정민이형 콘서트 - 충주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016936",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016936_p.gif",
-      "venue": "호암예술관 ",
-      "region": "충북",
-      "genre": "콘서트 - Rock/메탈",
-      "showDates": "2027-01-31",
-      "exclusive": false,
-      "cast": "출연 : 김정민 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T09:07:54.252Z"
-    },
-    {
-      "id": "nol:16027",
-      "source": "nol",
-      "title": "박남정 전국투어 콘서트 : The Original SuperStar - 충주",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016943",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016943_p.gif",
-      "venue": "호암예술관",
-      "region": "충북",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2027-01-30",
-      "exclusive": false,
-      "cast": "출연 : 박남정 ",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-24T10:22:31.086Z"
-    },
-    {
-      "id": "nol:15985",
-      "source": "nol",
-      "title": "토시키 소에지마 밴드 최초 내한공연 2027",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016824",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016824_p.gif",
-      "venue": "마포아트센터 아트홀 맥",
-      "region": "서울",
-      "genre": "콘서트 - 재즈/블루스",
-      "showDates": "2027-01-23",
-      "exclusive": false,
-      "cast": "Toshiki Soejima (Guitar)<br>Nahokimama (Trumpet / Guitar/ Keyboard / Vocals)<br>Yoshitaka Utano (Keyboard)<br>Yoshua Yoshida (Bass)<br>Wataru Tanaka (Drums)<br>",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-18T02:22:22.395Z"
-    },
-    {
-      "id": "nol:16035",
-      "source": "nol",
-      "title": "2027 FIRST MUSIC STATION - 고양",
-      "round": "추가티켓오픈",
-      "url": "https://nol.yanolja.com/ticket/products/26016908",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016908_p.gif",
-      "venue": "일산 킨텍스(KINTEX)",
-      "region": "경기",
-      "genre": "콘서트 - 페스티벌",
-      "showDates": "2027-01-30 ~ 2027-01-31",
-      "exclusive": true,
-      "cast": "1차 라인업: 극동아시아타이거즈, The Poles, 라쿠나, 리도어, 산보, 솔루션스, AxMxP, FT아일랜드, KARDI, 퓨처피어클럽",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-24T10:22:31.086Z"
-    },
-    {
-      "id": "nol:15991",
-      "source": "nol",
-      "title": "풍류고생 : 차라리 춤추다 죽겠어 - BLUESQUARE",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016837",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016837_p.gif",
-      "venue": "블루스퀘어 우리WON뱅킹홀",
-      "region": "서울",
-      "genre": "콘서트",
-      "showDates": "2027-01-30 ~ 2027-01-31",
-      "exclusive": true,
-      "cast": "술탄 오브 더 디스코",
-      "opens": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T12:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-18T10:40:06.450Z"
-    },
     {
       "id": "nol:15989",
       "source": "nol",
@@ -440,6 +220,28 @@
         }
       ],
       "firstSeen": "2026-11-13T07:51:13.608Z"
+    },
+    {
+      "id": "nol:16038",
+      "source": "nol",
+      "title": "해바라기 콘서트 〈사랑으로〉 전주",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26017058",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26017058_p.gif",
+      "venue": "전북대학교 삼성문화회관 영산홀",
+      "region": "전북",
+      "genre": "콘서트",
+      "showDates": "2026-12-27",
+      "exclusive": false,
+      "cast": "출연진<br>해바라기 보컬 이주호 이광준<br>기타 김광석<br>건반1변성용<br>건반2 <br>드럼 배수현<br>베이스 신현권<br>해금 김애라 <br>가야금 김혜미<br>코러스 김효수외2명",
+      "opens": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-26T09:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-25T04:06:35.493Z"
     },
     {
       "id": "nol:16020",
