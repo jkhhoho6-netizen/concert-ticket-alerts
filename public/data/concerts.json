@@ -1,195 +1,20 @@
 {
-  "updatedAt": "2026-11-27T09:01:19.267Z",
+  "updatedAt": "2026-11-27T18:53:06.819Z",
   "seededAt": "2026-10-19T08:53:50.686Z",
   "sources": {
     "nol": {
       "ok": true,
       "count": 11,
-      "checkedAt": "2026-11-27T09:01:19.267Z"
+      "checkedAt": "2026-11-27T18:53:06.819Z"
     },
     "melon": {
-      "ok": true,
+      "ok": false,
       "count": 57,
-      "checkedAt": "2026-11-27T09:01:19.267Z"
+      "checkedAt": "2026-11-27T09:01:19.267Z",
+      "error": "HTTP 423 https://ticket.melon.com/csoon/ajax/listTicketOpen.htm"
     }
   },
   "items": [
-    {
-      "id": "melon:13362",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “김도언”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13362",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261123151118efd7fae4-1100-4e63-b96a-4f4296ac83fc.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13361",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “김심야”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13361",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611231510100f0cc6cf-3a8c-4fca-b190-e92670daa9c0.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13360",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “김필 x 오존”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13360",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261123150948c4a8c4b4-b185-4bc6-b784-46f859179301.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13359",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “더 발룬티어스”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13359",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261123150920ee3c5528-c1fe-4033-a135-6401bddaeba7.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13357",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “서니데이 서비스(Sunny Day Service)”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13357",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026112315083556392985-5294-4c9c-a67d-aa32c6b08114.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13358",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “이승열”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13358",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/20261123150859a1203c44-0887-4113-879b-b58be04de71d.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13364",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “힙노시스테라피”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13364",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/2026112315103166c6e77f-e1bc-4ad9-90f5-612203cffcf3.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
-    {
-      "id": "melon:13363",
-      "source": "melon",
-      "title": "EBS 스페이스 공감 “IDIOTAPE(이디오테잎)”",
-      "round": null,
-      "url": "https://ticket.melon.com/csoon/detail.htm?csoonId=13363",
-      "poster": "https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2026/11/202611231510578619c962-a2db-46cb-b2e7-e6c7a5fe94ac.jpg/melon/resize/160x225/strip/true",
-      "venue": null,
-      "region": null,
-      "genre": null,
-      "showDates": null,
-      "exclusive": false,
-      "cast": null,
-      "opens": [
-        {
-          "label": "티켓오픈",
-          "at": "2026-11-27T10:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-25T14:16:51.623Z"
-    },
     {
       "id": "melon:13372",
       "source": "melon",
@@ -387,33 +212,6 @@
         }
       ],
       "firstSeen": "2026-11-17T10:37:49.622Z"
-    },
-    {
-      "id": "nol:16010",
-      "source": "nol",
-      "title": "JX 2027 TOUR ENCORE CONCERT 〈CORE〉 in BUSAN",
-      "round": null,
-      "url": "https://nol.yanolja.com/ticket/products/26016892",
-      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016892_p.gif",
-      "venue": "BEXCO",
-      "region": "부산",
-      "genre": "콘서트",
-      "showDates": "2027-01-01 ~ 2027-01-03",
-      "exclusive": true,
-      "cast": null,
-      "opens": [
-        {
-          "label": "멤버십 선예매",
-          "at": "2026-11-27T20:00:00+09:00",
-          "timeKnown": true
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-11-30T20:00:00+09:00",
-          "timeKnown": true
-        }
-      ],
-      "firstSeen": "2026-11-20T09:07:54.252Z"
     },
     {
       "id": "melon:13371",
@@ -796,6 +594,33 @@
         }
       ],
       "firstSeen": "2026-11-26T15:43:37.684Z"
+    },
+    {
+      "id": "nol:16010",
+      "source": "nol",
+      "title": "JX 2027 TOUR ENCORE CONCERT 〈CORE〉 in BUSAN",
+      "round": null,
+      "url": "https://nol.yanolja.com/ticket/products/26016892",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26016892_p.gif",
+      "venue": "BEXCO",
+      "region": "부산",
+      "genre": "콘서트",
+      "showDates": "2027-01-01 ~ 2027-01-03",
+      "exclusive": true,
+      "cast": null,
+      "opens": [
+        {
+          "label": "멤버십 선예매",
+          "at": "2026-11-27T20:00:00+09:00",
+          "timeKnown": true
+        },
+        {
+          "label": "일반예매",
+          "at": "2026-11-30T20:00:00+09:00",
+          "timeKnown": true
+        }
+      ],
+      "firstSeen": "2026-11-20T09:07:54.252Z"
     },
     {
       "id": "melon:13352",
